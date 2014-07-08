@@ -1,0 +1,34 @@
+<nav class="navbar navbar-default" role="navigation">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="#">App Store Reviews</a>
+		</div>
+		<form class="navbar-form navbar-left" role="search">
+		  <div class="form-group">
+		    <input type="text" class="form-control" placeholder="Search" width="100%" ng-model="searchText">
+		  </div>
+			<div class="btn-group">
+			  <button type="button" class="btn btn-default">1</button>
+			  <button type="button" class="btn btn-default">2</button>
+			  <button type="button" class="btn btn-default">3</button>
+				<button type="button" class="btn btn-default">4</button>
+				<button type="button" class="btn btn-default">5</button>
+			</div>
+		</form>
+	</div>
+</nav>
+
+<ul class="list-group">
+	<li class="list-group-item" ng-repeat="review in reviews | filter:searchText">
+		<h4 class="list-group-item-heading">{{ review.title.label }}</h4>
+		<span class="glyphicon glyphicon-star" ng-repeat="i in reviews | limitTo: review['im:rating'].label"></span>
+		<p class="list-group-item-text">by {{ review.author.name.label + ' Version '+ review['im:version'].label + ' ' + review.date }}</p>
+		<p class="list-group-item-text">{{ review.content.label }}</p>
+	</li>
+</ul>

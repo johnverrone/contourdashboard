@@ -1,0 +1,15 @@
+{
+  "name": "contour-dashboard",
+  "version": "0.0.1",
+  "description": "Dashboard for all Contour Feedback",
+  "main": "server.js",
+  "author": "John Verrone",
+  "dependencies": {
+    "async": "latest",
+    "cheerio": "latest",
+    "express": "latest",
+    "mailparser": "^0.4.4",
+    "mongoose": "latest",
+    "request": "latest"
+  }
+}
