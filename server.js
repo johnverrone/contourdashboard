@@ -7,7 +7,16 @@ var port = process.env.PORT || 9000;   // set the port
 
 
 // configuration =========================================
-// mongoose.connect(database.url); // connect to mongoDB
+mongoose.connect(database.url); // connect to mongoDB
+var db = mongoose.connection;
+
+db.on('error', function callback () {
+  console.log("Connection error");
+});
+
+db.once('open', function callback () {
+  console.log("Mongo working!");
+});
 
 app.use(express.static(__dirname + '/public'));
 

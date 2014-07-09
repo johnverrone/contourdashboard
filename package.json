@@ -7,9 +7,12 @@
   "dependencies": {
     "async": "latest",
     "cheerio": "latest",
+    "cron": "^1.0.4",
     "express": "latest",
+    "feedparser": "^0.18.1",
     "mailparser": "^0.4.4",
     "mongoose": "latest",
-    "request": "latest"
+    "request": "latest",
+    "time": "^0.11.0"
   }
 }
