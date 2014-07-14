@@ -25,7 +25,7 @@
 </nav>
 
 <ul class="list-group">
-	<li class="list-group-item" ng-repeat="review in reviews | filter:searchText" ng-show="!$first">
+	<li class="list-group-item" ng-repeat="review in reviews | filter:searchText | orderBy:'date':true" ng-show="!$first">
 		<h4 class="list-group-item-heading inline">{{ review.title }}</h4> <span class="glyphicon glyphicon-star" ng-repeat="i in reviews | limitTo: review['im:rating']['#']"></span>
 		<p class="list-group-item-text">by {{ review.author }} - Version {{ review['im:version']['#'] }} - {{ review.date | date : medium}}</p>
 		<br />

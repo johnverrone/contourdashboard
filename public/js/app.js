@@ -1,1 +1,1 @@
-angular.module('feedbackApp', ['ngRoute', 'appRoutes', 'MainCtrl', 'ReviewCtrl', 'ReviewService']);
+angular.module('feedbackApp', ['ngRoute', 'MainCtrl', 'ReviewCtrl', 'ReviewService', 'd3']);
