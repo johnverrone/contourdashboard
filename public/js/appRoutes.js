@@ -1,4 +1,4 @@
-angular.module('feedbackApp').config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
+angular.module('myApp').config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
 
 	$routeProvider
 		.when('/', {
