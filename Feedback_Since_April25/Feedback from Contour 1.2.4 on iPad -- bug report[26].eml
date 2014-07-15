@@ -1,0 +1,103 @@
+Received: from CARZ0EXCH13.CORP.COX.com (10.8.64.13) by
+ CATL0MS404.corp.cox.com (10.62.236.93) with Microsoft SMTP Server (TLS) id
+ 8.3.298.1; Mon, 28 Apr 2014 17:54:40 -0400
+Received: from CARZ0EXCH44.CORP.COX.com (10.8.64.27) by
+ CARZ0EXCH13.corp.cox.com (10.8.64.13) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Mon, 28 Apr 2014 14:54:36 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH44.CORP.COX.com (10.8.64.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Mon, 28 Apr 2014 14:54:36 -0700
+Received: from BY2PR01CA014.prod.exchangelabs.com (10.242.234.172) by
+ BY2PR01MB313.prod.exchangelabs.com (10.242.232.147) with Microsoft SMTP
+ Server (TLS) id 15.0.929.12; Mon, 28 Apr 2014 21:54:33 +0000
+Received: from BN1BFFO11FD009.protection.gbl (2a01:111:f400:7c10::1:148) by
+ BY2PR01CA014.outlook.office365.com (2a01:111:e400:2c2c::44) with Microsoft
+ SMTP Server (TLS) id 15.0.929.12 via Frontend Transport; Mon, 28 Apr 2014
+ 21:54:32 +0000
+Received: from eastrmfepo201.cox.net (68.230.241.216) by
+ BN1BFFO11FD009.mail.protection.outlook.com (10.58.144.72) with Microsoft SMTP
+ Server id 15.0.929.8 via Frontend Transport; Mon, 28 Apr 2014 21:54:32 +0000
+Received: from eastrmimpo209 ([68.230.241.224]) by eastrmfepo201.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140428215432.NXOZ31475.eastrmfepo201.cox.net@eastrmimpo209>
+          for <feedback_tvconnect.labs@cox.com>;          Mon, 28 Apr 2014
+ 17:54:32 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo209 with cox	id
+ vZuX1n0090qShfm01ZuX0H; Mon, 28 Apr 2014 17:54:31 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020202.535ECE17.01AC,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=H/cFNZki c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=N_j-UZcehzkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=69EAbJreAAAA:8
+ a=1rjuvSIqnuUEccKNkmwA:9 a=CjuIK1q_8ugA:10 a=jzWR2TwxbOwA:10
+ a=4vB-4DCPJfMA:10 a=EfJqPEOeqlMA:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Mon, 28 Apr 2014 21:54:31 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <2182516.1011398722071877.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.216;CTRY:US;IPV:CAL;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB313;H:eastrmfepo201.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH13.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+App used to work just fine now it says
+I'm in"out of home mode" all the time. No network changes occurred and I
+have rebooted the modem, reinstalled the app and rebooted the ipad with no
+change.
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    =
+iPad3,4
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       =
+Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID
+= 7038d815f42e6ee58a0077b2db19231f502c2c32
+Account GUID   =
+f0ac9230-9313-11e3-a59e-14feb5d950bc
+Is In Home     = false
+Device IP      =
+192.168.10.15
+Profile name   = doca
+Is Analog      = false
+Controller ID  =
+3496
+ChannelMap ID  = 3401
+IDM Login Name = doca26@cox.net
+Tutorial viewed
+to end = false
+Last 1 errors = (
+    122
+)
+
+External IP of Device     =
+72.218.23.76
+
+Sender Information:
+Name          = Jeff
+Email         =
+doca26@hotmail.com
+Feedback Type = bug report
+
+

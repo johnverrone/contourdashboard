@@ -1,0 +1,98 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Thu, 22 May 2014 11:14:07 -0400
+Received: from CATL0EXCH41.CORP.COX.com (10.62.10.25) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Thu, 22 May 2014 11:14:06 -0400
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH41.corp.cox.com (10.62.10.25) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Thu, 22 May 2014 11:14:05 -0400
+Received: from CY1PR0101MB0874.prod.exchangelabs.com (25.160.139.153) by
+ CY1PR0101MB0875.prod.exchangelabs.com (25.160.139.155) with Microsoft SMTP
+ Server (TLS) id 15.0.944.11; Thu, 22 May 2014 15:13:40 +0000
+Received: from BLUPR01CA014.prod.exchangelabs.com (10.141.30.44) by
+ CY1PR0101MB0874.prod.exchangelabs.com (25.160.139.153) with Microsoft SMTP
+ Server (TLS) id 15.0.944.11; Thu, 22 May 2014 15:13:39 +0000
+Received: from BL2FFO11FD055.protection.gbl (2a01:111:f400:7c09::174) by
+ BLUPR01CA014.outlook.office365.com (2a01:111:e400:879::44) with Microsoft
+ SMTP Server (TLS) id 15.0.944.11 via Frontend Transport; Thu, 22 May 2014
+ 15:13:38 +0000
+Received: from eastrmfepo202.cox.net (68.230.241.217) by
+ BL2FFO11FD055.mail.protection.outlook.com (10.173.161.183) with Microsoft
+ SMTP Server id 15.0.949.9 via Frontend Transport; Thu, 22 May 2014 15:13:38
+ +0000
+Received: from eastrmimpo210 ([68.230.241.225]) by eastrmfepo202.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140522151338.IDVW22448.eastrmfepo202.cox.net@eastrmimpo210>
+          for <feedback_tvconnect.labs@cox.com>;          Thu, 22 May 2014
+ 11:13:38 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo210 with cox	id
+ 53Dd1o00A0qShfm013DdVd; Thu, 22 May 2014 11:13:37 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020205.537E1422.001F,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=aZC/a2Ut c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=3WeNyt34tdkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=K5oMk6_3ONxAnl_kXdUA:9
+ a=CjuIK1q_8ugA:10 a=bIL3K6zTflkA:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Thu, 22 May 2014 15:13:37 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <23403558.171400771617976.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- streaming video
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.217;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:CY1PR0101MB0874;H:eastrmfepo202.cox.net;FPR:;LANG:en;;SKIP:1;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 9b381473-8c7f-4239-b72e-08d143e79b85
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH41.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad4,5
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = b5527f038eb8be0a2b8e147beb5a6b322a06ea79
+Account GUID   = 3adaf260-36b9-11dd-b727-00007f000001
+Is In Home     = false
+Device IP      = 192.168.1.121
+Profile name   = des
+Is Analog      = false
+Controller ID  = 3455
+ChannelMap ID  = 101
+IDM Login Name = desotofamily1@cox.net
+Tutorial viewed to end = false
+Last 1 errors = (
+    "No errors."
+)
+
+External IP of Device     = 70.169.23.39
+
+Sender Information:
+Name          = KDeSoto
+Email         = desotofamily1@cox.net
+Feedback Type = streaming video
+
+

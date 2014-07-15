@@ -1,0 +1,100 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Mon, 16 Jun 2014 21:48:06 -0400
+Received: from CATL0EXCH42.CORP.COX.com (10.62.10.26) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Mon, 16 Jun 2014 21:48:04 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH42.CORP.COX.com (10.62.10.26) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Mon, 16 Jun 2014 21:48:04 -0400
+Received: from BY2PR01CA0032.prod.exchangelabs.com (10.255.242.22) by
+ BY2PR01MB377.prod.exchangelabs.com (10.141.139.147) with Microsoft SMTP
+ Server (TLS) id 15.0.959.24; Tue, 17 Jun 2014 01:48:03 +0000
+Received: from BN1BFFO11FD044.protection.gbl (2a01:111:f400:7c10::1:112) by
+ BY2PR01CA0032.outlook.office365.com (2a01:111:e400:2c76::22) with Microsoft
+ SMTP Server (TLS) id 15.0.959.24 via Frontend Transport; Tue, 17 Jun 2014
+ 01:48:02 +0000
+Received: from eastrmfepo103.cox.net (68.230.241.215) by
+ BN1BFFO11FD044.mail.protection.outlook.com (10.58.144.107) with Microsoft
+ SMTP Server id 15.0.959.15 via Frontend Transport; Tue, 17 Jun 2014 01:48:02
+ +0000
+Received: from eastrmimpo110 ([68.230.241.223]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140617014802.JPJI31158.eastrmfepo103.cox.net@eastrmimpo110>
+          for <feedback_tvconnect.labs@cox.com>;          Mon, 16 Jun 2014
+ 21:48:02 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo110 with cox	id
+ FDo21o0050qShfm01Do2Zg; Mon, 16 Jun 2014 21:48:02 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020207.539F9E52.0032,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=GKHW5JxK c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=ez-vp7JcEm04ge0hmqkA:9 a=CjuIK1q_8ugA:10 a=kHffRphHA7EA:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Tue, 17 Jun 2014 01:48:02 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <2587442.161402969682133.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.215;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB377;H:eastrmfepo103.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: c3c1339d-372c-41fe-be0e-08d157e5509d
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH42.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,1
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = b98aa54dbd1253bcf77a9a0fbf0d35fd9ed345ca
+Account GUID   = 43767b26-36bd-11dd-b727-00007f000001
+Is In Home     = false
+Device IP      = 10.0.1.2
+Profile name   = rebekah
+Is Analog      = false
+Controller ID  = 3458
+ChannelMap ID  = 24
+IDM Login Name = rebekahlee@cox.net
+Tutorial viewed to end = false
+Last 4 errors = (
+    203,
+    122,
+    122,
+    122
+)
+
+External IP of Device     = 70.191.171.19
+
+Sender Information:
+Name          = rebekah
+Email         = rebekahannlee@gmail.com
+Feedback Type = connectivity
+
+

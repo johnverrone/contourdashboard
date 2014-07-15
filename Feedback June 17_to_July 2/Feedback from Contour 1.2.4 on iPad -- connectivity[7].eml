@@ -1,0 +1,97 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Mon, 23 Jun 2014 00:38:16 -0400
+Received: from CATL0EXCH41.CORP.COX.com (10.62.10.25) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Mon, 23 Jun 2014 00:38:14 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH41.corp.cox.com (10.62.10.25) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Mon, 23 Jun 2014 00:38:14 -0400
+Received: from DM2PR01CA009.prod.exchangelabs.com (10.141.52.177) by
+ DM2PR01MB381.prod.exchangelabs.com (10.141.83.11) with Microsoft SMTP Server
+ (TLS) id 15.0.969.15; Mon, 23 Jun 2014 04:37:46 +0000
+Received: from BL2FFO11FD047.protection.gbl (2a01:111:f400:7c09::179) by
+ DM2PR01CA009.outlook.office365.com (2a01:111:e400:2414::49) with Microsoft
+ SMTP Server (TLS) id 15.0.959.24 via Frontend Transport; Mon, 23 Jun 2014
+ 04:37:46 +0000
+Received: from eastrmfepo103.cox.net (68.230.241.215) by
+ BL2FFO11FD047.mail.protection.outlook.com (10.173.161.209) with Microsoft
+ SMTP Server id 15.0.969.12 via Frontend Transport; Mon, 23 Jun 2014 04:37:46
+ +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140623043746.VTBL31158.eastrmfepo103.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Mon, 23 Jun 2014
+ 00:37:46 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo306 with cox	id
+ Hgdl1o00D0rkN0201gdlng; Mon, 23 Jun 2014 00:37:45 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020206.53A7AF19.00C9,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=MtSMHRme c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=WYzkpLN5mIG4_THy6ugA:9 a=CjuIK1q_8ugA:10 a=KWKbno3SWYoA:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Mon, 23 Jun 2014 04:37:45 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <30558510.101403498265872.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.215;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DM2PR01MB381;H:eastrmfepo103.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 02813917-feb7-4ca2-46a3-08d15cb414da
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH41.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad4,5
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 80a35009b5b5f4064855f619ea893adaa8db3761
+Account GUID   = 719f40a0-f582-11df-838c-00144f3c3846
+Is In Home     = false
+Device IP      = 
+Profile name   = barbara
+Is Analog      = false
+Controller ID  = 3453
+ChannelMap ID  = 105
+IDM Login Name = barbaraschell@cox.net
+Tutorial viewed to end = false
+Last 1 errors = (
+    "No errors."
+)
+
+External IP of Device     = 174.235.5.103
+
+Sender Information:
+Name          = 
+Email         = bschell955@gmail.com
+Feedback Type = connectivity
+
+

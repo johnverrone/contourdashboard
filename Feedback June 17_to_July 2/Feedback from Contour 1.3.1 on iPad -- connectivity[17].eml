@@ -1,0 +1,100 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sun, 29 Jun 2014 03:07:37 -0400
+Received: from CATL0EXCH41.CORP.COX.com (10.62.10.25) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sun, 29 Jun 2014 03:07:36 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH41.corp.cox.com (10.62.10.25) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sun, 29 Jun 2014 03:07:36 -0400
+Received: from DM2PR01CA005.prod.exchangelabs.com (10.141.52.173) by
+ DM2PR01MB381.prod.exchangelabs.com (10.141.83.11) with Microsoft SMTP Server
+ (TLS) id 15.0.969.15; Sun, 29 Jun 2014 07:07:14 +0000
+Received: from BN1AFFO11FD048.protection.gbl (2a01:111:f400:7c10::114) by
+ DM2PR01CA005.outlook.office365.com (2a01:111:e400:2414::45) with Microsoft
+ SMTP Server (TLS) id 15.0.969.15 via Frontend Transport; Sun, 29 Jun 2014
+ 07:07:14 +0000
+Received: from eastrmfepo202.cox.net (68.230.241.217) by
+ BN1AFFO11FD048.mail.protection.outlook.com (10.58.53.63) with Microsoft SMTP
+ Server id 15.0.969.12 via Frontend Transport; Sun, 29 Jun 2014 07:07:14 +0000
+Received: from eastrmimpo109 ([68.230.241.222]) by eastrmfepo202.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140629070713.LMUC22448.eastrmfepo202.cox.net@eastrmimpo109>
+          for <feedback_tvconnect.labs@cox.com>;          Sun, 29 Jun 2014
+ 03:07:13 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo109 with cox	id
+ L77D1o0070qShfm0177DEp; Sun, 29 Jun 2014 03:07:13 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020207.53AFBB21.0073,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=F4SJgNdN c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=7nLqM_vkuyMA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=XkYGxh5r9mtUR5shel8A:9
+ a=CjuIK1q_8ugA:10 a=srulG762Kq4A:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sun, 29 Jun 2014 07:07:13 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <21752571.541404025633553.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.3.1 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.217;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DM2PR01MB381;H:eastrmfepo202.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 250a99b5-fea5-4cf6-bd4b-08d1617ff0b1
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH41.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,4
+OS Version     = 7.1.1
+App Version    = 1.3.1
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = 7f65b21e1d333ebc5a503611b8fbf6fdc4c492dd
+Account GUID   = 05d432a0-f200-11e1-ab60-14feb5d950bc
+Is In Home     = false
+Device IP      = 192.168.1.18
+Profile name   = lupita
+Is Analog      = false
+Controller ID  = 3451
+ChannelMap ID  = 35
+IDM Login Name = ldelrio3
+Tutorial viewed to end = false
+Last 5 errors = (
+    182,
+    182,
+    182,
+    182,
+    182
+)
+
+External IP of Device     = 184.176.116.242
+
+Sender Information:
+Name          = 
+Email         = ldelrio3@cox.net
+Feedback Type = connectivity
+
+

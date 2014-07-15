@@ -1,0 +1,92 @@
+Received: from CATL0EXCH10.CORP.COX.com (10.62.10.20) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sun, 18 May 2014 22:43:14 -0400
+Received: from CATL0EXCH41.CORP.COX.com (10.62.10.25) by
+ CATL0EXCH10.corp.cox.com (10.62.10.20) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sun, 18 May 2014 22:43:04 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH41.corp.cox.com (10.62.10.25) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sun, 18 May 2014 22:42:59 -0400
+Received: from BLUPR01CA060.prod.exchangelabs.com (25.160.23.50) by
+ BLUPR01MB305.prod.exchangelabs.com (10.242.202.13) with Microsoft SMTP Server
+ (TLS) id 15.0.944.11; Mon, 19 May 2014 02:42:28 +0000
+Received: from BY2FFO11FD057.protection.gbl (2a01:111:f400:7c0c::191) by
+ BLUPR01CA060.outlook.office365.com (2a01:111:e400:8a4::50) with Microsoft
+ SMTP Server (TLS) id 15.0.944.11 via Frontend Transport; Mon, 19 May 2014
+ 02:42:27 +0000
+Received: from eastrmfepo101.cox.net (68.230.241.213) by
+ BY2FFO11FD057.mail.protection.outlook.com (10.1.15.185) with Microsoft SMTP
+ Server id 15.0.939.9 via Frontend Transport; Mon, 19 May 2014 02:42:26 +0000
+Received: from eastrmimpo305 ([68.230.241.237]) by eastrmfepo101.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140519024226.JMHV30009.eastrmfepo101.cox.net@eastrmimpo305>
+          for <feedback_tvconnect.labs@cox.com>;          Sun, 18 May 2014
+ 22:42:26 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo305 with cox	id
+ 3eiS1o0080rkN0201eiSbn; Sun, 18 May 2014 22:42:26 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020203.53796F92.0050,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=cJg+RCiN c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=Veh-bX7B7AMA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=69EAbJreAAAA:8
+ a=Q4DgTjKQvFzjQlcYnlUA:9 a=CjuIK1q_8ugA:10 a=-vZpGx3xaEIA:10
+ a=4vB-4DCPJfMA:10 a=EfJqPEOeqlMA:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Mon, 19 May 2014 02:42:26 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <2335541.81400467346394.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.1 on Android -- design/ease of use (UI)
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.213;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB305;H:eastrmfepo101.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH10.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 6e6cea6d-93df-417c-97da-08d141233184
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH41.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Does anyone test or qa this app this is horrible...
+
+Customer Information:
+Platform = Android OS
+Device Type = "Android, asus, nakasi, Nexus 7 | screen.pixels=1280x736 |
+screen.dpi=213.0x213.0"
+OS Version = 4.4.2
+App Version = 1.2.1a
+App Name = Contour
+Business Type = Residential
+Business Name = Residential
+Device UID = 53dd7683dfa847c4
+Account GUID = cfd85140-ef3d-11e2-9f87-14feb5d9357d
+Is In Home = true
+Device IP = "fe80::860:6eff:fe2d:712d%p2p0"
+Profile name = scud
+Is Analog = false
+Controller ID = 3491
+ChannelMap ID =3465
+IDM Login Name = scottk55555@cox.net
+Tutorial Viewed to End = true
+Last 5 Errors = 
+External IP of Device     = 68.4.247.18
+
+Sender Information:
+Name          = 
+Email         = ggggggg@hotmail.com
+Feedback Type = design/ease of use (UI)
+
+

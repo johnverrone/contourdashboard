@@ -1,0 +1,94 @@
+Received: from CARZ0EXCH20.CORP.COX.com (10.8.64.20) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sat, 24 May 2014 17:19:23 -0400
+Received: from CARZ0EXCH94.CORP.COX.com (10.8.64.85) by
+ CARZ0EXCH20.corp.cox.com (10.8.64.20) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sat, 24 May 2014 14:18:07 -0700
+Received: from CARZ0EXCH47.CORP.COX.com (10.8.64.30) by
+ carz0exch94.corp.cox.com (10.8.64.85) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sat, 24 May 2014 14:18:05 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH47.CORP.COX.com (10.8.64.30) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sat, 24 May 2014 14:18:06 -0700
+Received: from BY2PR01CA004.prod.exchangelabs.com (10.255.247.34) by
+ BY2PR01MB284.prod.exchangelabs.com (10.242.232.156) with Microsoft SMTP
+ Server (TLS) id 15.0.949.11; Sat, 24 May 2014 21:17:40 +0000
+Received: from BN1BFFO11FD016.protection.gbl (2a01:111:f400:7c10::1:156) by
+ BY2PR01CA004.outlook.office365.com (2a01:111:e400:2c16::34) with Microsoft
+ SMTP Server (TLS) id 15.0.949.11 via Frontend Transport; Sat, 24 May 2014
+ 21:17:40 +0000
+Received: from eastrmfepo202.cox.net (68.230.241.217) by
+ BN1BFFO11FD016.mail.protection.outlook.com (10.58.144.79) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Sat, 24 May 2014 21:17:40 +0000
+Received: from eastrmimpo110 ([68.230.241.223]) by eastrmfepo202.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140524211740.UUZH22448.eastrmfepo202.cox.net@eastrmimpo110>
+          for <feedback_tvconnect.labs@cox.com>;          Sat, 24 May 2014
+ 17:17:40 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo110 with cox	id
+ 5xHg1o0070rkN0201xHgLS; Sat, 24 May 2014 17:17:40 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020209.53810C74.0014,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=GKHW5JxK c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=bp_ul8uTxNixD-UKfNIA:9
+ a=CjuIK1q_8ugA:10 a=AjT29tAkz5IA:10 a=4vB-4DCPJfMA:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sat, 24 May 2014 21:17:40 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <31515410.301400966260072.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.217;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB284;H:eastrmfepo202.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-Network-Message-Id: a61764ee-fc72-4b4e-66cd-08d145acc9e2
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH47.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+my ipad in the contour app always says out of home mode when  I am home and
+using cox wifi. Call to cox no help at all.
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,4
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = aa257fb7bf637f096dec7f5b4032060f9d67356f
+Account GUID   = 679fef46-36b8-11dd-b727-00007f000001
+Is In Home     = false
+Device IP      = 192.168.1.119
+Profile name   = ck
+Is Analog      = false
+Controller ID  = 3492
+ChannelMap ID  = 3464
+IDM Login Name = cklawsong@cox.net
+Tutorial viewed to end = false
+Last 1 errors = (
+    "No errors."
+)
+
+External IP of Device     = 174.70.59.232
+
+Sender Information:
+Name          = 
+Email         = cklawsong@cox.net
+Feedback Type = connectivity
+
+

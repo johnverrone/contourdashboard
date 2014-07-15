@@ -1,0 +1,104 @@
+Received: from CATL0EXCH09.CORP.COX.com (10.62.10.19) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Thu, 26 Jun 2014 14:05:40 -0400
+Received: from CATL0EXCH02.CORP.COX.com (10.62.10.12) by
+ CATL0EXCH09.corp.cox.com (10.62.10.19) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Thu, 26 Jun 2014 14:05:39 -0400
+Received: from CATL0EXCH42.CORP.COX.com (10.62.10.26) by
+ CATL0EXCH02.corp.cox.com (10.62.10.12) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Thu, 26 Jun 2014 14:05:38 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH42.CORP.COX.com (10.62.10.26) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Thu, 26 Jun 2014 14:05:38 -0400
+Received: from BY2PR01CA019.prod.exchangelabs.com (10.242.234.177) by
+ BY2PR01MB378.prod.exchangelabs.com (10.141.139.150) with Microsoft SMTP
+ Server (TLS) id 15.0.959.24; Thu, 26 Jun 2014 18:05:06 +0000
+Received: from BY2FFO11FD047.protection.gbl (2a01:111:f400:7c0c::118) by
+ BY2PR01CA019.outlook.office365.com (2a01:111:e400:2c2c::49) with Microsoft
+ SMTP Server (TLS) id 15.0.969.15 via Frontend Transport; Thu, 26 Jun 2014
+ 18:05:05 +0000
+Received: from eastrmfepo203.cox.net (68.230.241.218) by
+ BY2FFO11FD047.mail.protection.outlook.com (10.1.15.175) with Microsoft SMTP
+ Server id 15.0.969.12 via Frontend Transport; Thu, 26 Jun 2014 18:05:05 +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140626180504.PHUJ2658.eastrmfepo203.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Thu, 26 Jun 2014
+ 14:05:04 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo306 with cox	id
+ K6541o00H0qShfm01654yY; Thu, 26 Jun 2014 14:05:04 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020204.53AC60D0.0145,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=ELHYJSlC c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=3oc9M9_CAAAA:8
+ a=6LebeHU8cnUC5ZhuDo0A:9 a=CjuIK1q_8ugA:10 a=mfTWRdogznMA:10
+ a=4vB-4DCPJfMA:10 a=U8Ie8EnqySEA:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Thu, 26 Jun 2014 18:05:04 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <31218154.281403805904515.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.218;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB378;H:eastrmfepo203.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH02.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 2bc85b6d-44fb-4d2f-525e-08d15f805e83
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH42.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Why can I not watch the tv on iPad when away from home?  I pay for the
+contour stuff
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,4
+OS Version     = 7.0.4
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = e7716c3001c01929aed3ee69bae4e0df258d95f8
+Account GUID   = e0258610-36bc-11dd-b727-00007f000001
+Is In Home     = false
+Device IP      = 192.168.1.22
+Profile name   = jody
+Is Analog      = false
+Controller ID  = 3494
+ChannelMap ID  = 3461
+IDM Login Name = fit2train@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    142,
+    752,
+    185,
+    182,
+    182
+)
+
+External IP of Device     = 108.44.75.42
+
+Sender Information:
+Name          = 
+Email         = fit2traim@aol.com
+Feedback Type = connectivity
+
+

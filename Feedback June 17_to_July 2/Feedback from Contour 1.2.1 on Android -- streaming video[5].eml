@@ -1,0 +1,94 @@
+Received: from CATL0EXCH08.CORP.COX.com (10.62.10.18) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Tue, 24 Jun 2014 22:05:01 -0400
+Received: from CATL0EXCH40.CORP.COX.com (10.62.10.24) by
+ CATL0EXCH08.corp.cox.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 24 Jun 2014 22:05:00 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH40.CORP.COX.com (10.62.10.24) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Tue, 24 Jun 2014 22:04:59 -0400
+Received: from BY2PR01CA009.prod.exchangelabs.com (10.255.247.39) by
+ BY2PR01MB380.prod.exchangelabs.com (10.141.139.153) with Microsoft SMTP
+ Server (TLS) id 15.0.959.24; Wed, 25 Jun 2014 02:04:50 +0000
+Received: from BL2FFO11FD029.protection.gbl (2a01:111:f400:7c09::144) by
+ BY2PR01CA009.outlook.office365.com (2a01:111:e400:2c16::39) with Microsoft
+ SMTP Server (TLS) id 15.0.969.15 via Frontend Transport; Wed, 25 Jun 2014
+ 02:04:49 +0000
+Received: from eastrmfepo203.cox.net (68.230.241.218) by
+ BL2FFO11FD029.mail.protection.outlook.com (10.173.160.69) with Microsoft SMTP
+ Server id 15.0.969.12 via Frontend Transport; Wed, 25 Jun 2014 02:04:49 +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140625020449.XMLZ2658.eastrmfepo203.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Tue, 24 Jun 2014
+ 22:04:49 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo306 with cox	id
+ JS4o1o00B0qShfm01S4oxo; Tue, 24 Jun 2014 22:04:48 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020203.53AA2E40.00D9,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=KZkMR3kD c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=Ruu2XB8hd0sA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=kZli-Q9IxUkejrPaofQA:9
+ a=CjuIK1q_8ugA:10 a=FJFwiLwpomsA:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Wed, 25 Jun 2014 02:04:48 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <11947949.91403661888809.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.1 on Android -- streaming video
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.218;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB380;H:eastrmfepo203.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH08.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: c1bf742f-3a8c-4381-1097-08d15e31015f
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH40.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform = Android OS
+Device Type = "Android, samsung, lt02ltespr, SM-T217S |
+screen.pixels=1024x600 | screen.dpi=160.421x159.568"
+OS Version = 4.4.2
+App Version = 1.2.1a
+App Name = Contour
+Business Type = Residential
+Business Name = Residential
+Device UID = 4aace375dd51568e
+Account GUID = b7413160-3547-11e3-a6a8-14feb5d950bc
+Is In Home = true
+Device IP = "fe80::9635:aff:fe68:5f1b%wlan0"
+Profile name = pamela
+Is Analog = false
+Controller ID = 3451
+ChannelMap ID =26
+IDM Login Name = onetruth4wealth@cox.net
+Tutorial Viewed to End = false
+Last 5 Errors = 181,181,181,181,181
+External IP of Device     = 24.251.222.165
+
+Sender Information:
+Name          = pam
+Email         = onetruth4wealth@cox.net
+Feedback Type = streaming video
+
+

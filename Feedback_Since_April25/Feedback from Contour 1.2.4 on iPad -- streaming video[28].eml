@@ -1,0 +1,97 @@
+Received: from CARZ0EXCH19.CORP.COX.com (10.8.64.19) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sat, 24 May 2014 21:31:34 -0400
+Received: from CARZ0EXCH95.CORP.COX.com (10.8.64.86) by
+ CARZ0EXCH19.corp.cox.com (10.8.64.19) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sat, 24 May 2014 18:30:56 -0700
+Received: from CARZ0EXCH46.CORP.COX.com (10.8.64.29) by
+ carz0exch95.corp.cox.com (10.8.64.86) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sat, 24 May 2014 18:30:36 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH46.CORP.COX.com (10.8.64.29) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sat, 24 May 2014 18:30:36 -0700
+Received: from BLUPR01CA003.prod.exchangelabs.com (10.255.223.161) by
+ BLUPR01MB276.prod.exchangelabs.com (10.242.202.26) with Microsoft SMTP Server
+ (TLS) id 15.0.944.11; Sun, 25 May 2014 01:30:20 +0000
+Received: from BL2FFO11FD017.protection.gbl (2a01:111:f400:7c09::170) by
+ BLUPR01CA003.outlook.office365.com (2a01:111:e400:841::33) with Microsoft
+ SMTP Server (TLS) id 15.0.949.11 via Frontend Transport; Sun, 25 May 2014
+ 01:30:19 +0000
+Received: from eastrmfepo102.cox.net (68.230.241.214) by
+ BL2FFO11FD017.mail.protection.outlook.com (10.173.161.35) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Sun, 25 May 2014 01:30:19 +0000
+Received: from eastrmimpo109 ([68.230.241.222]) by eastrmfepo102.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140525013019.ENTU18526.eastrmfepo102.cox.net@eastrmimpo109>
+          for <feedback_tvconnect.labs@cox.com>;          Sat, 24 May 2014
+ 21:30:19 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo109 with cox	id
+ 61WK1o00C0rkN02011WK0B; Sat, 24 May 2014 21:30:19 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020202.538147AB.0059,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=F4SJgNdN c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=3WeNyt34tdkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=JxTpNqQyvLuzV5gzRxsA:9
+ a=CjuIK1q_8ugA:10 a=-OVCYe6i7jQA:10 a=4vB-4DCPJfMA:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sun, 25 May 2014 01:30:19 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <20249957.321400981419429.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- streaming video
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.214;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB276;H:eastrmfepo102.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-Network-Message-Id: 608dcec9-4cd5-40b8-58b6-08d145d01072
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH46.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,2
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 2ed4cedddd5d8d93690c65a01f8db70b779c08bd
+Account GUID   = 3a3f8e03-36bf-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      = 192.168.1.68
+Profile name   = dan
+Is Analog      = false
+Controller ID  = 3491
+ChannelMap ID  = 3465
+IDM Login Name = tsutsumidaandassoc@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    203,
+    182,
+    182,
+    102,
+    102
+)
+
+External IP of Device     = 68.5.51.178
+
+Sender Information:
+Name          = daniel
+Email         = tsutsumidaandassoc@cox.net
+Feedback Type = streaming video
+
+

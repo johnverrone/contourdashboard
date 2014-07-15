@@ -1,0 +1,102 @@
+Received: from CATL0EXCH09.CORP.COX.com (10.62.10.19) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Thu, 29 May 2014 20:39:19 -0400
+Received: from CATL0EXCH02.CORP.COX.com (10.62.10.12) by
+ CATL0EXCH09.corp.cox.com (10.62.10.19) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Thu, 29 May 2014 20:39:00 -0400
+Received: from CATL0EXCH43.CORP.COX.com (10.62.10.27) by
+ CATL0EXCH02.corp.cox.com (10.62.10.12) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Thu, 29 May 2014 20:38:41 -0400
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH43.CORP.COX.com (10.62.10.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Thu, 29 May 2014 20:38:41 -0400
+Received: from BLUPR01CA013.prod.exchangelabs.com (10.141.30.43) by
+ BLUPR01MB291.prod.exchangelabs.com (10.242.202.17) with Microsoft SMTP Server
+ (TLS) id 15.0.949.11; Fri, 30 May 2014 00:38:37 +0000
+Received: from BN1BFFO11FD048.protection.gbl (2a01:111:f400:7c10::1:137) by
+ BLUPR01CA013.outlook.office365.com (2a01:111:e400:879::43) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Fri, 30 May 2014
+ 00:38:36 +0000
+Received: from eastrmfepo203.cox.net (68.230.241.218) by
+ BN1BFFO11FD048.mail.protection.outlook.com (10.58.145.3) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Fri, 30 May 2014 00:38:37 +0000
+Received: from eastrmimpo110 ([68.230.241.223]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140530003836.ZIBJ31964.eastrmfepo203.cox.net@eastrmimpo110>
+          for <feedback_tvconnect.labs@cox.com>;          Thu, 29 May 2014
+ 20:38:36 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo110 with cox	id
+ 80ec1o00A0rkN02010ecBM; Thu, 29 May 2014 20:38:36 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020202.5387D30C.0036,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=GKHW5JxK c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=N_j-UZcehzkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=-obpLXqJ_9euTxtfZ5IA:9
+ a=CjuIK1q_8ugA:10 a=LiUU1x2IWMIA:10 a=4vB-4DCPJfMA:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Fri, 30 May 2014 00:38:36 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <5983343.101401410316248.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.218;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB291;H:eastrmfepo203.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH02.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 60a2fad4-a8c0-48dd-cc63-08d149b6a3bb
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH43.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Why does my contour app always show "out of home network" although I'm on
+cox internet wifi? Tried signing out/in, deleting and reinstalling app
+what's wrong?
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad3,4
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 14f315db3714c566c9347aa16e440810c5bbc053
+Account GUID   = e9f1ffb0-ae4d-11df-b4a7-00212810c176
+Is In Home     = false
+Device IP      = 10.0.1.7
+Profile name   = other
+Is Analog      = false
+Controller ID  = 3489
+ChannelMap ID  = 3402
+IDM Login Name = j.giammarino@cox.net
+Tutorial viewed to end = false
+Last 2 errors = (
+    203,
+    752
+)
+
+External IP of Device     = 68.14.128.192
+
+Sender Information:
+Name          = jesse
+Email         = j.giammarino@cox.net
+Feedback Type = bug report
+
+

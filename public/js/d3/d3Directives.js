@@ -4,7 +4,7 @@ angular.module('d3')
 			restrict: 'EA',
 			link: function(scope, ele, attrs) {
 				d3Service.d3().then(function(d3) {
-					var svg = d3.selectAll('p').text("This is a test");
+					var svg = d3.selectAll('p').text("App Store Ratings by Version");
 					var margin = {top: 20, right: 20, bottom: 30, left: 40},
 					    width = 960 - margin.left - margin.right,
 					    height = 500 - margin.top - margin.bottom;
@@ -16,7 +16,7 @@ angular.module('d3')
 					    .rangeRound([height, 0]);
 
 					var color = d3.scale.ordinal()
-					    .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+					    .range(["#FD8A33", "#C3DAE3", "#8BC53F", "#E792B5", "#00CBE9"]);
 
 					var xAxis = d3.svg.axis()
 					    .scale(x)
@@ -30,11 +30,11 @@ angular.module('d3')
 					var svg = d3.select(ele[0]).append("svg")
 					    .attr("width", width + margin.left + margin.right)
 					    .attr("height", height + margin.top + margin.bottom)
-					  .append("g")
+					  	.append("g")
 					    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 					d3.csv("js/d3/data.csv", function(error, data) {
-					  color.domain(d3.keys(data[0]).filter(function(key) { return key !== "State"; }));
+					  color.domain(d3.keys(data[0]).filter(function(key) { return key !== "Version"; }));
 
 					  data.forEach(function(d) {
 					    var y0 = 0;
@@ -44,7 +44,7 @@ angular.module('d3')
 
 					  data.sort(function(a, b) { return b.total - a.total; });
 
-					  x.domain(data.map(function(d) { return d.State; }));
+					  x.domain(data.map(function(d) { return d.Version; }));
 					  y.domain([0, d3.max(data, function(d) { return d.total; })]);
 
 					  svg.append("g")
@@ -60,15 +60,15 @@ angular.module('d3')
 					      .attr("y", 6)
 					      .attr("dy", ".71em")
 					      .style("text-anchor", "end")
-					      .text("Population");
+					      .text("Num. of Reviews");
 
-					  var state = svg.selectAll(".state")
+					  var version = svg.selectAll(".version")
 					      .data(data)
 					    .enter().append("g")
 					      .attr("class", "g")
-					      .attr("transform", function(d) { return "translate(" + x(d.State) + ",0)"; });
+					      .attr("transform", function(d) { return "translate(" + x(d.Version) + ",0)"; });
 
-					  state.selectAll("rect")
+					  version.selectAll("rect")
 					      .data(function(d) { return d.ages; })
 					    .enter().append("rect")
 					      .attr("width", x.rangeBand())

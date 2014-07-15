@@ -1,0 +1,92 @@
+Received: from CATL0EXCH08.CORP.COX.com (10.62.10.18) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Mon, 19 May 2014 12:23:20 -0400
+Received: from CATL0EXCH41.CORP.COX.com (10.62.10.25) by
+ CATL0EXCH08.corp.cox.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Mon, 19 May 2014 12:23:17 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH41.corp.cox.com (10.62.10.25) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Mon, 19 May 2014 12:23:17 -0400
+Received: from BY2PR01CA002.prod.exchangelabs.com (10.255.247.32) by
+ BY2PR01MB314.prod.exchangelabs.com (10.242.232.149) with Microsoft SMTP
+ Server (TLS) id 15.0.944.11; Mon, 19 May 2014 16:23:08 +0000
+Received: from BN1BFFO11FD045.protection.gbl (2a01:111:f400:7c10::1:103) by
+ BY2PR01CA002.outlook.office365.com (2a01:111:e400:2c16::32) with Microsoft
+ SMTP Server (TLS) id 15.0.944.11 via Frontend Transport; Mon, 19 May 2014
+ 16:23:07 +0000
+Received: from eastrmfepo203.cox.net (68.230.241.218) by
+ BN1BFFO11FD045.mail.protection.outlook.com (10.58.145.0) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Mon, 19 May 2014 16:23:07 +0000
+Received: from eastrmimpo210 ([68.230.241.225]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140519162307.HCPE31964.eastrmfepo203.cox.net@eastrmimpo210>
+          for <feedback_tvconnect.labs@cox.com>;          Mon, 19 May 2014
+ 12:23:07 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo210 with cox	id
+ 3sP71o0030rkN0201sP7T0; Mon, 19 May 2014 12:23:07 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020206.537A2FEB.00F6,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=aZC/a2Ut c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=KB8eDnsVEd0A:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=93LIDp2gneCQ3YU11zAA:9
+ a=CjuIK1q_8ugA:10 a=5J4dqd8BriAA:10 a=4vB-4DCPJfMA:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Mon, 19 May 2014 16:23:07 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <21252130.101400516587216.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.1 on Android -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.218;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB314;H:eastrmfepo203.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH08.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: cdc64e16-58df-4282-6a3e-08d14195c6f5
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH41.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform = Android OS
+Device Type = "Android, samsung, lt01wifiue, SM-T310 |
+screen.pixels=1280x800 | screen.dpi=188.148x187.93"
+OS Version = 4.2.2
+App Version = 1.2.1a
+App Name = Contour
+Business Type = Residential
+Business Name = Residential
+Device UID = f28a1796b685b7f4
+Account GUID = 2c10b580-b68e-11e2-af8f-14feb5d95de2
+Is In Home = false
+Device IP = "fe80::24c6:96ff:fe57:79de%p2p0"
+Profile name = tim0239
+Is Analog = false
+Controller ID = 3458
+ChannelMap ID =24
+IDM Login Name = tim0239@cox.net
+Tutorial Viewed to End = false
+Last 5 Errors = 181,181,102,163,163
+External IP of Device     = 98.170.197.80
+
+Sender Information:
+Name          = 
+Email         = tim0239@cox.net
+Feedback Type = connectivity
+
+

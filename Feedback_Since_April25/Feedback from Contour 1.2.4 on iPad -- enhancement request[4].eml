@@ -1,0 +1,101 @@
+Received: from CARZ0EXCH17.CORP.COX.com (10.8.64.17) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Wed, 28 May 2014 23:30:06 -0400
+Received: from CARZ0EXCH15.CORP.COX.com (10.8.64.15) by
+ CARZ0EXCH17.corp.cox.com (10.8.64.17) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 28 May 2014 20:30:04 -0700
+Received: from CARZ0EXCH47.CORP.COX.com (10.8.64.30) by
+ CARZ0EXCH15.corp.cox.com (10.8.64.15) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 28 May 2014 20:30:03 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH47.CORP.COX.com (10.8.64.30) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Wed, 28 May 2014 20:30:03 -0700
+Received: from BLUPR01CA004.prod.exchangelabs.com (10.255.223.162) by
+ BLUPR01MB273.prod.exchangelabs.com (10.242.202.23) with Microsoft SMTP Server
+ (TLS) id 15.0.949.11; Thu, 29 May 2014 03:29:38 +0000
+Received: from BN1AFFO11FD029.protection.gbl (2a01:111:f400:7c10::199) by
+ BLUPR01CA004.outlook.office365.com (2a01:111:e400:841::34) with Microsoft
+ SMTP Server (TLS) id 15.0.949.11 via Frontend Transport; Thu, 29 May 2014
+ 03:29:38 +0000
+Received: from eastrmfepo203.cox.net (68.230.241.218) by
+ BN1AFFO11FD029.mail.protection.outlook.com (10.58.52.184) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Thu, 29 May 2014 03:29:38 +0000
+Received: from eastrmimpo209 ([68.230.241.224]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140529032938.EYLO31964.eastrmfepo203.cox.net@eastrmimpo209>
+          for <feedback_tvconnect.labs@cox.com>;          Wed, 28 May 2014
+ 23:29:38 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo209 with cox	id
+ 7fVe1o0010rkN0201fVe7k; Wed, 28 May 2014 23:29:38 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020204.5386A9A2.000F,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=H/cFNZki c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=ILq4lESVa0sA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=EWNMQX4gCgFhpXT0U8IA:9
+ a=CjuIK1q_8ugA:10 a=jwkQQ7ggTIUA:10 a=4vB-4DCPJfMA:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Thu, 29 May 2014 03:29:38 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <5679340.71401334178066.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- enhancement request
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.218;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB273;H:eastrmfepo203.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH15.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: f50f561d-9391-4a44-3e49-08d1490569bf
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH47.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,5
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 52d25bd73a3462eed99ec55d1072d7517258b81f
+Account GUID   = 09057690-e103-11e1-9b79-14feb5d950bc
+Is In Home     = true
+Device IP      = 10.10.10.104
+Profile name   = don
+Is Analog      = false
+Controller ID  = 3450
+ChannelMap ID  = 21
+IDM Login Name = dmad2@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    182,
+    182,
+    182,
+    182,
+    182
+)
+
+External IP of Device     = 24.251.28.120
+
+Sender Information:
+Name          = 
+Email         = dmad1@cox.net
+Feedback Type = enhancement request
+
+

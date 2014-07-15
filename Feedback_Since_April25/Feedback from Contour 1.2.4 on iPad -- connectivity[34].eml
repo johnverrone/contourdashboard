@@ -1,0 +1,95 @@
+Received: from CARZ0EXCH16.CORP.COX.com (10.8.64.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sun, 1 Jun 2014 17:10:49 -0400
+Received: from CARZ0EXCH46.CORP.COX.com (10.8.64.29) by
+ CARZ0EXCH16.corp.cox.com (10.8.64.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sun, 1 Jun 2014 14:10:47 -0700
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH46.CORP.COX.com (10.8.64.29) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sun, 1 Jun 2014 14:10:47 -0700
+Received: from BY2PR01CA0046.prod.exchangelabs.com (10.255.242.36) by
+ BY2PR01MB140.prod.exchangelabs.com (10.242.233.154) with Microsoft SMTP
+ Server (TLS) id 15.0.949.11; Sun, 1 Jun 2014 21:10:43 +0000
+Received: from BY2FFO11FD004.protection.gbl (2a01:111:f400:7c0c::188) by
+ BY2PR01CA0046.outlook.office365.com (2a01:111:e400:2c76::36) with Microsoft
+ SMTP Server (TLS) id 15.0.949.11 via Frontend Transport; Sun, 1 Jun 2014
+ 21:10:43 +0000
+Received: from eastrmfepo102.cox.net (68.230.241.214) by
+ BY2FFO11FD004.mail.protection.outlook.com (10.1.14.158) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Sun, 1 Jun 2014 21:10:42 +0000
+Received: from eastrmimpo305 ([68.230.241.237]) by eastrmfepo102.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140601211042.RNIU18526.eastrmfepo102.cox.net@eastrmimpo305>
+          for <feedback_tvconnect.labs@cox.com>;          Sun, 1 Jun 2014
+ 17:10:42 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo305 with cox	id
+ 99Ai1o0050rkN02019AitW; Sun, 01 Jun 2014 17:10:42 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020207.538B96D2.004B,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=CMj0q2XD c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=SB1MHSvu5tMZuboY8cgA:9 a=CjuIK1q_8ugA:10 a=LBi5dIJpRs8A:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sun, 1 Jun 2014 21:10:42 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <23657315.261401657042227.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.214;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB140;H:eastrmfepo102.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH16.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 7d0ce154-38cc-4611-b5b4-08d14bf517e1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH46.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+  Can not get out of out  of home mode.
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad4,2
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 3071766091b2ce3c034f569cf531e19534ae0a5e
+Account GUID   = c3384730-c1f1-11e1-a9c6-14feb5d9357d
+Is In Home     = false
+Device IP      = 10.0.1.41
+Profile name   = gedison
+Is Analog      = false
+Controller ID  = 3458
+ChannelMap ID  = 24
+IDM Login Name = gedison19@cox.net
+Tutorial viewed to end = false
+Last 1 errors = (
+    "No errors."
+)
+
+External IP of Device     = 98.173.16.54
+
+Sender Information:
+Name          =   Ed Holland
+Email         = gedison19@gmail.com.
+Feedback Type = connectivity
+
+

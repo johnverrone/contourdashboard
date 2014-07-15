@@ -9,6 +9,11 @@ angular.module('myApp').config(['$routeProvider', '$locationProvider', function(
 		.when('/reviews', {
 			templateUrl: 'views/reviews.html',
 			controller: 'ReviewController'
+		})
+
+		.when('/feedback', {
+			templateUrl: 'views/feedback.html',
+			controller: 'FeedbackController'
 		});
 
 	$locationProvider.html5Mode(true);

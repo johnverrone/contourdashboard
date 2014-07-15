@@ -1,0 +1,101 @@
+Received: from CATL0EXCH05.CORP.COX.com (10.62.10.15) by
+ CATL0MS401.corp.cox.com (10.62.236.87) with Microsoft SMTP Server (TLS) id
+ 8.3.298.1; Wed, 14 May 2014 02:25:27 -0400
+Received: from CATL0EXCH42.CORP.COX.com (10.62.10.26) by
+ CATL0EXCH05.corp.cox.com (10.62.10.15) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 14 May 2014 02:25:00 -0400
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH42.CORP.COX.com (10.62.10.26) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Wed, 14 May 2014 02:25:00 -0400
+Received: from BY2PR01CA014.prod.exchangelabs.com (10.242.234.172) by
+ BY2PR01MB140.prod.exchangelabs.com (10.242.233.154) with Microsoft SMTP
+ Server (TLS) id 15.0.944.11; Wed, 14 May 2014 06:24:57 +0000
+Received: from BY2FFO11FD005.protection.gbl (2a01:111:f400:7c0c::194) by
+ BY2PR01CA014.outlook.office365.com (2a01:111:e400:2c2c::44) with Microsoft
+ SMTP Server (TLS) id 15.0.944.11 via Frontend Transport; Wed, 14 May 2014
+ 06:24:57 +0000
+Received: from eastrmfepo201.cox.net (68.230.241.216) by
+ BY2FFO11FD005.mail.protection.outlook.com (10.1.14.126) with Microsoft SMTP
+ Server id 15.0.939.9 via Frontend Transport; Wed, 14 May 2014 06:24:57 +0000
+Received: from eastrmimpo109 ([68.230.241.222]) by eastrmfepo201.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140514062456.NEHC31475.eastrmfepo201.cox.net@eastrmimpo109>
+          for <feedback_tvconnect.labs@cox.com>;          Wed, 14 May 2014
+ 02:24:56 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo109 with cox	id
+ 1iQw1o00B0rkN0201iQw0c; Wed, 14 May 2014 02:24:56 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020202.53730C38.0075,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=F4SJgNdN c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=KB8eDnsVEd0A:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=pGLkceISAAAA:8 a=fQy-sc7RCAcF5g8EU0IA:9
+ a=CjuIK1q_8ugA:10 a=1hL2wbPcRaUA:10 a=MSl-tDqOz04A:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Wed, 14 May 2014 06:24:56 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <30740440.71400048696390.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.1 on Android -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.216;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB140;H:eastrmfepo201.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH05.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+I am in my own apartment and it is
+telling me i am away from home and wont log into watch live from my device.
+How do I fix this?
+
+Customer Information: 
+Platform = Android OS 
+Device
+Type = "Android, LGE, altev_vzw, VK810 4G | screen.pixels=1920x1114 |
+screen.dpi=274.594x273.977" 
+OS Version = 4.2.2
+App Version = 1.2.1a
+App
+Name = Contour
+Business Type = Residential
+Business Name =
+Residential
+Device UID = 721de71d9d3d7b82
+Account GUID =
+0a07dec0-e828-11e2-b45f-14feb5d9513a
+Is In Home = false
+Device IP =
+"2600:1012:8123:c85b:c9b6:9780:7bea:2009%23" 
+Profile name = erin
+Is Analog
+= false
+Controller ID = 3491
+ChannelMap ID =3461
+IDM Login Name =
+Rndmgrll32
+Tutorial Viewed to End = false
+Last 5 Errors = 122,122
+External
+IP of Device     = 68.225.250.18
+
+Sender Information:
+Name          = Erin
+Rettino
+Email         = usctrojan4ever@gmail.com
+Feedback Type =
+connectivity
+
+

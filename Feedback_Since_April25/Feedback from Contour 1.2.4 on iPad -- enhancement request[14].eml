@@ -1,0 +1,104 @@
+Received: from CATL0EXCH10.CORP.COX.com (10.62.10.20) by
+ CATL0MS403.corp.cox.com (10.62.236.91) with Microsoft SMTP Server (TLS) id
+ 8.3.298.1; Wed, 30 Apr 2014 20:11:56 -0400
+Received: from CATL0EXCH43.CORP.COX.com (10.62.10.27) by
+ CATL0EXCH10.corp.cox.com (10.62.10.20) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 30 Apr 2014 20:11:55 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH43.CORP.COX.com (10.62.10.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Wed, 30 Apr 2014 20:11:55 -0400
+Received: from BLUPR01CA006.prod.exchangelabs.com (10.255.223.164) by
+ BLUPR01MB305.prod.exchangelabs.com (10.242.202.13) with Microsoft SMTP Server
+ (TLS) id 15.0.929.12; Thu, 1 May 2014 00:11:51 +0000
+Received: from BN1AFFO11FD056.protection.gbl (2a01:111:f400:7c10::189) by
+ BLUPR01CA006.outlook.office365.com (2a01:111:e400:841::36) with Microsoft
+ SMTP Server (TLS) id 15.0.929.12 via Frontend Transport; Thu, 1 May 2014
+ 00:11:51 +0000
+Received: from eastrmfepo101.cox.net (68.230.241.213) by
+ BN1AFFO11FD056.mail.protection.outlook.com (10.58.53.71) with Microsoft SMTP
+ Server id 15.0.929.8 via Frontend Transport; Thu, 1 May 2014 00:11:51 +0000
+Received: from eastrmimpo110 ([68.230.241.223]) by eastrmfepo101.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140501001150.IXXE30009.eastrmfepo101.cox.net@eastrmimpo110>
+          for <feedback_tvconnect.labs@cox.com>;          Wed, 30 Apr 2014
+ 20:11:50 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo110 with cox	id
+ wQBq1n0050qShfm01QBqz1; Wed, 30 Apr 2014 20:11:50 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020203.53619146.0087,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=GKHW5JxK c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=ILq4lESVa0sA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=SeVGOxTqudFjUIhY73YA:9 a=CjuIK1q_8ugA:10 a=0XJSbtROYIIA:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Thu, 1 May 2014 00:11:50 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <10332141.1251398903110324.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- enhancement request
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.213;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB305;H:eastrmfepo101.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH10.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Ability to schedule Series Recordings
+instead of one time recordings through the Contour app.
+
+Customer
+Information:
+Platform       = iPhone OS
+Device Type    = iPad3,5
+OS Version
+= 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  =
+Residential
+Business Name  = Residential
+Device UID     =
+653dc830a0a4f38c2cf2f2bf0a4242cedf55fabb
+Account GUID   =
+95667160-6ac4-11e3-9456-14feb5d9513a
+Is In Home     = true
+Device IP      =
+10.0.1.6
+Profile name   = devin
+Is Analog      = false
+Controller ID  =
+3497
+ChannelMap ID  = 3494
+IDM Login Name = devindg79@cox.net
+Tutorial
+viewed to end = false
+Last 2 errors = (
+    752,
+    182
+)
+
+External IP of
+Device     = 98.163.197.56
+
+Sender Information:
+Name          = Devin
+George
+Email         = devindg79@gmail.com
+Feedback Type = enhancement
+request
+
+

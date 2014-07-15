@@ -1,0 +1,98 @@
+Received: from CATL0EXCH09.CORP.COX.com (10.62.10.19) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Fri, 16 May 2014 14:40:51 -0400
+Received: from CATL0EXCH05.CORP.COX.com (10.62.10.15) by
+ CATL0EXCH09.corp.cox.com (10.62.10.19) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Fri, 16 May 2014 14:40:50 -0400
+Received: from CATL0EXCH41.CORP.COX.com (10.62.10.25) by
+ CATL0EXCH05.corp.cox.com (10.62.10.15) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Fri, 16 May 2014 14:40:49 -0400
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH41.corp.cox.com (10.62.10.25) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Fri, 16 May 2014 14:40:49 -0400
+Received: from BY2PR01CA004.prod.exchangelabs.com (10.255.247.34) by
+ BY2PR01MB316.prod.exchangelabs.com (10.242.232.154) with Microsoft SMTP
+ Server (TLS) id 15.0.944.11; Fri, 16 May 2014 18:40:45 +0000
+Received: from BY2FFO11FD036.protection.gbl (2a01:111:f400:7c0c::116) by
+ BY2PR01CA004.outlook.office365.com (2a01:111:e400:2c16::34) with Microsoft
+ SMTP Server (TLS) id 15.0.944.11 via Frontend Transport; Fri, 16 May 2014
+ 18:40:45 +0000
+Received: from eastrmfepo201.cox.net (68.230.241.216) by
+ BY2FFO11FD036.mail.protection.outlook.com (10.1.14.221) with Microsoft SMTP
+ Server id 15.0.939.9 via Frontend Transport; Fri, 16 May 2014 18:40:45 +0000
+Received: from eastrmimpo209 ([68.230.241.224]) by eastrmfepo201.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140516184045.URGZ31475.eastrmfepo201.cox.net@eastrmimpo209>
+          for <feedback_tvconnect.labs@cox.com>;          Fri, 16 May 2014
+ 14:40:45 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo209 with cox	id
+ 2igk1o00T0rkN0201igk8J; Fri, 16 May 2014 14:40:44 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020202.53765BAC.01EF,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=H/cFNZki c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=YgMKIeaKJGeinuksUVAA:9
+ a=CjuIK1q_8ugA:10 a=okKUywuMvEIA:10 a=4vB-4DCPJfMA:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Fri, 16 May 2014 18:40:44 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <19136947.01400265644816.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.216;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB316;H:eastrmfepo201.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH05.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 9050f6b7-064c-4ede-fda3-08d13f4d7de4
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH41.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+I cannot watch content on Contour.  Application states I am in out of home
+mode while in home on Wi-Fi
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad3,2
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = f3a710b9102ad8dde28fd39957cdb325446f620a
+Account GUID   = 1661ad64-36ba-11dd-b727-00007f000001
+Is In Home     = false
+Device IP      = 192.168.1.116
+Profile name   = tammie
+Is Analog      = false
+Controller ID  = 3491
+ChannelMap ID  = 3465
+IDM Login Name = ttalarico@cox.net
+Tutorial viewed to end = false
+Last 1 errors = (
+    "No errors."
+)
+
+External IP of Device     = 72.219.135.157
+
+Sender Information:
+Name          = 
+Email         = ttalarico@cox.net
+Feedback Type = connectivity
+
+

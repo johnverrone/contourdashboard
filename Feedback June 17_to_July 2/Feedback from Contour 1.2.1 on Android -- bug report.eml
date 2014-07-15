@@ -1,0 +1,96 @@
+Received: from CARZ0EXCH17.CORP.COX.com (10.8.64.17) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Tue, 24 Jun 2014 21:43:13 -0400
+Received: from CARZ0EXCH47.CORP.COX.com (10.8.64.30) by
+ CARZ0EXCH17.corp.cox.com (10.8.64.17) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 24 Jun 2014 18:43:11 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH47.CORP.COX.com (10.8.64.30) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Tue, 24 Jun 2014 18:43:11 -0700
+Received: from BLUPR01CA008.prod.exchangelabs.com (10.255.223.166) by
+ BLUPR01MB375.prod.exchangelabs.com (10.141.76.149) with Microsoft SMTP Server
+ (TLS) id 15.0.969.15; Wed, 25 Jun 2014 01:42:50 +0000
+Received: from BY2FFO11FD019.protection.gbl (2a01:111:f400:7c0c::190) by
+ BLUPR01CA008.outlook.office365.com (2a01:111:e400:841::38) with Microsoft
+ SMTP Server (TLS) id 15.0.969.15 via Frontend Transport; Wed, 25 Jun 2014
+ 01:42:49 +0000
+Received: from eastrmfepo101.cox.net (68.230.241.213) by
+ BY2FFO11FD019.mail.protection.outlook.com (10.1.14.107) with Microsoft SMTP
+ Server id 15.0.969.12 via Frontend Transport; Wed, 25 Jun 2014 01:42:49 +0000
+Received: from eastrmimpo209 ([68.230.241.224]) by eastrmfepo101.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140625014249.NYHN30009.eastrmfepo101.cox.net@eastrmimpo209>
+          for <feedback_tvconnect.labs@cox.com>;          Tue, 24 Jun 2014
+ 21:42:49 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo209 with cox	id
+ JRie1o00Q0qShfm01Rievx; Tue, 24 Jun 2014 21:42:38 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020208.53AA2919.0006,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=H/cFNZki c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=lImAtu1NDo4A:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=VbKQRfdBph0SuFuGJrwA:9
+ a=CjuIK1q_8ugA:10 a=D5NwppOoe-sA:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Wed, 25 Jun 2014 01:42:38 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <22293092.81403660558634.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.1 on Android -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.213;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB375;H:eastrmfepo101.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH17.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: fc502a6a-3736-49d1-c060-08d15e2df4fe
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH47.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Every time i set up a recording either from live tv or future programming
+as soon as i close my contour app, the recordings are not kept in my
+library.  As soon as I open the app again, my library is empty.
+
+Customer Information:
+Platform = Android OS
+Device Type = "Android, samsung, p4notewifiue, GT-N8013 |
+screen.pixels=1280x752 | screen.dpi=149.82489x150.51852"
+OS Version = 4.1.2
+App Version = 1.2.1a
+App Name = Contour
+Business Type = Residential
+Business Name = Residential
+Device UID = b559a051c01ed9a
+Account GUID = e27dd224-36b5-11dd-b727-00007f000001
+Is In Home = true
+Device IP = "fe80::5cf8:a1ff:fe03:6f1a%p2p0"
+Profile name = chris
+Is Analog = false
+Controller ID = 3496
+ChannelMap ID =3401
+IDM Login Name = rmarsh13@cox.net
+Tutorial Viewed to End = true
+Last 5 Errors = 181,181,181,181,181
+External IP of Device     = 68.107.156.95
+
+Sender Information:
+Name          = Chris Marsh
+Email         = trongod1@cox.net
+Feedback Type = bug report
+
+

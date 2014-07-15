@@ -1,0 +1,105 @@
+Received: from CARZ0EXCH17.CORP.COX.com (10.8.64.17) by
+ CATL0MS402.corp.cox.com (10.62.236.89) with Microsoft SMTP Server (TLS) id
+ 8.3.298.1; Mon, 12 May 2014 23:14:12 -0400
+Received: from CARZ0EXCH46.CORP.COX.com (10.8.64.29) by
+ CARZ0EXCH17.corp.cox.com (10.8.64.17) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Mon, 12 May 2014 20:14:06 -0700
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH46.CORP.COX.com (10.8.64.29) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Mon, 12 May 2014 20:14:06 -0700
+Received: from DM2PR01CA008.prod.exchangelabs.com (10.141.52.176) by
+ BN1PR01MB310.prod.exchangelabs.com (10.242.213.143) with Microsoft SMTP
+ Server (TLS) id 15.0.939.12; Tue, 13 May 2014 03:14:04 +0000
+Received: from BN1BFFO11FD030.protection.gbl (2a01:111:f400:7c10::1:129) by
+ DM2PR01CA008.outlook.office365.com (2a01:111:e400:2414::48) with Microsoft
+ SMTP Server (TLS) id 15.0.939.12 via Frontend Transport; Tue, 13 May 2014
+ 03:14:03 +0000
+Received: from eastrmfepo101.cox.net (68.230.241.213) by
+ BN1BFFO11FD030.mail.protection.outlook.com (10.58.144.93) with Microsoft SMTP
+ Server id 15.0.939.9 via Frontend Transport; Tue, 13 May 2014 03:14:03 +0000
+Received: from eastrmimpo210 ([68.230.241.225]) by eastrmfepo101.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140513031403.KMXB30009.eastrmfepo101.cox.net@eastrmimpo210>
+          for <feedback_tvconnect.labs@cox.com>;          Mon, 12 May 2014
+ 23:14:03 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo210 with cox	id
+ 1FE31o0040qShfm01FE35M; Mon, 12 May 2014 23:14:03 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020206.53718DFB.0011,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=aZC/a2Ut c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=N_j-UZcehzkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pcLIrrrKAAAA:8
+ a=6R5RPCK0oqb4bvnrtW8A:9 a=CjuIK1q_8ugA:10 a=StmBfgpTs5kA:10
+ a=4vB-4DCPJfMA:10 a=ftFGBYpk1mUA:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Tue, 13 May 2014 03:14:03 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <26674139.431399950843061.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.213;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BN1PR01MB310;H:eastrmfepo101.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH17.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Where is espn?!?
+
+Customer
+Information:
+Platform       = iPhone OS
+Device Type    = iPad4,1
+OS Version
+= 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  =
+Residential
+Business Name  = Residential
+Device UID     =
+b7b3c9463a7951ed936c7b759978822f8457d870
+Account GUID   =
+63197040-3d01-11e3-8b47-14feb5d95de2
+Is In Home     = true
+Device IP      =
+192.168.0.104
+Profile name   = aaron
+Is Analog      = false
+Controller ID  =
+3454
+ChannelMap ID  = 11
+IDM Login Name = abonfilio@cox.net
+Tutorial viewed
+to end = false
+Last 5 errors = (
+    102,
+    102,
+    102,
+    102,
+
+140
+)
+
+External IP of Device     = 68.6.78.213
+
+Sender Information:
+Name
+= aaron
+Email         = ecopool@sbcglobal.net
+Feedback Type = bug report
+
+

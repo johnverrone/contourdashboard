@@ -1,0 +1,104 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Mon, 16 Jun 2014 17:19:22 -0400
+Received: from CATL0EXCH40.CORP.COX.com (10.62.10.24) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Mon, 16 Jun 2014 17:19:21 -0400
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH40.CORP.COX.com (10.62.10.24) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Mon, 16 Jun 2014 17:19:21 -0400
+Received: from BY2PR01CA014.prod.exchangelabs.com (10.242.234.172) by
+ BY2PR01MB380.prod.exchangelabs.com (10.141.139.153) with Microsoft SMTP
+ Server (TLS) id 15.0.959.24; Mon, 16 Jun 2014 21:19:01 +0000
+Received: from BN1AFFO11FD023.protection.gbl (2a01:111:f400:7c10::138) by
+ BY2PR01CA014.outlook.office365.com (2a01:111:e400:2c2c::44) with Microsoft
+ SMTP Server (TLS) id 15.0.959.24 via Frontend Transport; Mon, 16 Jun 2014
+ 21:19:00 +0000
+Received: from eastrmfepo102.cox.net (68.230.241.214) by
+ BN1AFFO11FD023.mail.protection.outlook.com (10.58.52.83) with Microsoft SMTP
+ Server id 15.0.959.15 via Frontend Transport; Mon, 16 Jun 2014 21:19:00 +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo102.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140616211900.KQZS18526.eastrmfepo102.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Mon, 16 Jun 2014
+ 17:19:00 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo306 with cox	id
+ F9Jz1o00U0rkN02019Jzys; Mon, 16 Jun 2014 17:18:59 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020201.539F5F43.0154,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=MtSMHRme c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=eIhxMilvRf8A:10 a=KtKYaqrNTC8A:10
+ a=5mJXXb0GGSAA:10 a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8
+ a=jvBPTotbVEb3VK_NbgwA:9 a=CjuIK1q_8ugA:10 a=UHEWkle30z0A:10
+ a=4vB-4DCPJfMA:10 a=qgZ896TVJDMA:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Mon, 16 Jun 2014 21:18:59 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <31600603.121402953539881.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.3.1.1.0.0_01 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.214;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB380;H:eastrmfepo102.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 935ea1ed-9ded-41a8-20dd-08d157bfc62e
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH40.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Video refuses to play on iOS 8 beta 1. Gives a "contour is unavailable at
+this time" error.
+
+No reply needed from tier 2 tech support. This email intended for the
+development team. For questions, please call Doug Gravino at x7614.
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad3,1
+OS Version     = 8.0
+App Version    = 1.3.1.1.0.0_01
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = 72e15fe3482b78482d312a46cb448da24f99e59f
+Account GUID   = 7da15cf0-ebc4-11e1-a271-14feb5d94d4a
+Is In Home     = true
+Device IP      = 192.168.1.122
+Profile name   = cscarbo
+Is Analog      = false
+Controller ID  = 3491
+ChannelMap ID  = 3459
+IDM Login Name = coxatllocals3@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    148,
+    752,
+    148,
+    752,
+    148
+)
+
+External IP of Device     = 24.248.74.254
+
+Sender Information:
+Name          = Doug Gravino
+Email         = doug.gravino@cox.com
+Feedback Type = bug report
+
+

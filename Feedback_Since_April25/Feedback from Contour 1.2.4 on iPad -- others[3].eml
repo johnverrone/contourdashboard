@@ -1,0 +1,94 @@
+Received: from CARZ0EXCH17.CORP.COX.com (10.8.64.17) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Thu, 15 May 2014 21:41:26 -0400
+Received: from CARZ0EXCH47.CORP.COX.com (10.8.64.30) by
+ CARZ0EXCH17.corp.cox.com (10.8.64.17) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Thu, 15 May 2014 18:41:24 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH47.CORP.COX.com (10.8.64.30) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Thu, 15 May 2014 18:41:23 -0700
+Received: from DM2PR01CA010.prod.exchangelabs.com (10.141.52.178) by
+ BN1PR01MB216.prod.exchangelabs.com (10.242.213.28) with Microsoft SMTP Server
+ (TLS) id 15.0.939.12; Fri, 16 May 2014 01:41:22 +0000
+Received: from BY2FFO11FD047.protection.gbl (2a01:111:f400:7c0c::190) by
+ DM2PR01CA010.outlook.office365.com (2a01:111:e400:2414::50) with Microsoft
+ SMTP Server (TLS) id 15.0.944.11 via Frontend Transport; Fri, 16 May 2014
+ 01:41:21 +0000
+Received: from eastrmfepo103.cox.net (68.230.241.215) by
+ BY2FFO11FD047.mail.protection.outlook.com (10.1.15.175) with Microsoft SMTP
+ Server id 15.0.939.9 via Frontend Transport; Fri, 16 May 2014 01:41:21 +0000
+Received: from eastrmimpo209 ([68.230.241.224]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140516014121.DQIB31158.eastrmfepo103.cox.net@eastrmimpo209>
+          for <feedback_tvconnect.labs@cox.com>;          Thu, 15 May 2014
+ 21:41:21 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo209 with cox	id
+ 2RhL1o00S0qShfm01RhLw2; Thu, 15 May 2014 21:41:20 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A02020A.53756CC0.00A2,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=H/cFNZki c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=seZV9q_iY-WCdGj1Vv0A:9 a=CjuIK1q_8ugA:10 a=75EUNzC63dsA:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Fri, 16 May 2014 01:41:20 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <22183005.11400204480838.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- others
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.215;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BN1PR01MB216;H:eastrmfepo103.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH17.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 260b6de8-0edb-415c-45ad-08d13ebf1499
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH47.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,5
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 53aa7c68c0696375a88ddd1acdd62c267289af6a
+Account GUID   = 4dbdbf20-ca42-11e3-9d02-14feb5d9357d
+Is In Home     = true
+Device IP      = 192.168.0.11
+Profile name   = tawana
+Is Analog      = false
+Controller ID  = 3496
+ChannelMap ID  = 3401
+IDM Login Name = Tawanawhitehead21@cox.net
+Tutorial viewed to end = false
+Last 1 errors = (
+    "No errors."
+)
+
+External IP of Device     = 72.218.216.142
+
+Sender Information:
+Name          = 
+Email         = tawanawhite21@gmail.com
+Feedback Type = others
+
+

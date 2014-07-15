@@ -1,0 +1,97 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sat, 31 May 2014 14:47:33 -0400
+Received: from CATL0EXCH40.CORP.COX.com (10.62.10.24) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sat, 31 May 2014 14:47:32 -0400
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH40.CORP.COX.com (10.62.10.24) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sat, 31 May 2014 14:47:26 -0400
+Received: from BLUPR01CA008.prod.exchangelabs.com (10.255.223.166) by
+ BLUPR01MB132.prod.exchangelabs.com (10.242.201.27) with Microsoft SMTP Server
+ (TLS) id 15.0.949.11; Sat, 31 May 2014 18:47:05 +0000
+Received: from BY2FFO11FD048.protection.gbl (2a01:111:f400:7c0c::163) by
+ BLUPR01CA008.outlook.office365.com (2a01:111:e400:841::38) with Microsoft
+ SMTP Server (TLS) id 15.0.949.11 via Frontend Transport; Sat, 31 May 2014
+ 18:47:05 +0000
+Received: from eastrmfepo203.cox.net (68.230.241.218) by
+ BY2FFO11FD048.mail.protection.outlook.com (10.1.15.176) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Sat, 31 May 2014 18:47:04 +0000
+Received: from eastrmimpo305 ([68.230.241.237]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140531184704.IPZY31964.eastrmfepo203.cox.net@eastrmimpo305>
+          for <feedback_tvconnect.labs@cox.com>;          Sat, 31 May 2014
+ 14:47:04 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo305 with cox	id
+ 8in41o0030rkN0201in4w5; Sat, 31 May 2014 14:47:04 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020207.538A23A8.0028,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=CMj0q2XD c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=P3A4mwF8c9BvaR__f-cA:9
+ a=CjuIK1q_8ugA:10 a=Y1Wz7FuNiQcA:10 a=4vB-4DCPJfMA:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sat, 31 May 2014 18:47:04 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <9594467.211401562024059.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.218;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB132;H:eastrmfepo203.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 6449c5f8-caf7-4063-c440-08d14b17ea26
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH40.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad3,6
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 171a96cdf2a87ea317df521eb0185bb4e488312a
+Account GUID   = 37268e30-36bf-11dd-b727-00007f000001
+Is In Home     = false
+Device IP      = 192.168.1.4
+Profile name   = pete
+Is Analog      = false
+Controller ID  = 3491
+ChannelMap ID  = 3463
+IDM Login Name = Truckman926@cox.net
+Tutorial viewed to end = false
+Last 3 errors = (
+    182,
+    182,
+    182
+)
+
+External IP of Device     = 72.194.68.1
+
+Sender Information:
+Name          = Wendell Mahatha
+Email         = Truckman926@cox.net
+Feedback Type = connectivity
+
+

@@ -7,7 +7,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="#">App Store Reviews</a>
+			<a class="navbar-brand" href="#">In App Feedback</a>
 		</div>
 		<form class="navbar-form navbar-left" role="search">
 		  <div class="form-group">
@@ -24,11 +24,13 @@
 	</div>
 </nav>
 
+{{feedback}}
+
 <ul class="list-group">
-	<li class="list-group-item" ng-repeat="review in reviews | filter:searchText">
-		<h4 class="list-group-item-heading">{{ review.title.label }}</h4>
-		<span class="glyphicon glyphicon-star" ng-repeat="i in reviews | limitTo: review['im:rating'].label"></span>
-		<p class="list-group-item-text">by {{ review.author.name.label + ' Version '+ review['im:version'].label + ' ' + review.date }}</p>
-		<p class="list-group-item-text">{{ review.content.label }}</p>
+	<li class="list-group-item" ng-repeat="fb in feedback | filter:searchText">
+		<h4 class="list-group-item-heading inline">{{ fb.subject }}</h4>
+		<p class="list-group-item-text">from {{ fb.from[0].address }}</p>
+		<br />
+		<p class="list-group-item-text">{{ fb.body }}</p>
 	</li>
 </ul>

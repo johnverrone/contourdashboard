@@ -1,0 +1,100 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Tue, 3 Jun 2014 21:22:42 -0400
+Received: from CATL0EXCH41.CORP.COX.com (10.62.10.25) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 3 Jun 2014 21:22:35 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH41.corp.cox.com (10.62.10.25) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Tue, 3 Jun 2014 21:22:35 -0400
+Received: from BLUPR01CA003.prod.exchangelabs.com (10.255.223.161) by
+ BLUPR01MB375.prod.exchangelabs.com (10.141.76.149) with Microsoft SMTP Server
+ (TLS) id 15.0.954.9; Wed, 4 Jun 2014 01:22:12 +0000
+Received: from BN1BFFO11FD011.protection.gbl (2a01:111:f400:7c10::1:185) by
+ BLUPR01CA003.outlook.office365.com (2a01:111:e400:841::33) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Wed, 4 Jun 2014
+ 01:22:12 +0000
+Received: from eastrmfepo203.cox.net (68.230.241.218) by
+ BN1BFFO11FD011.mail.protection.outlook.com (10.58.144.74) with Microsoft SMTP
+ Server id 15.0.959.15 via Frontend Transport; Wed, 4 Jun 2014 01:22:11 +0000
+Received: from eastrmimpo110 ([68.230.241.223]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140604012211.NIIX31964.eastrmfepo203.cox.net@eastrmimpo110>
+          for <feedback_tvconnect.labs@cox.com>;          Tue, 3 Jun 2014
+ 21:22:11 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo110 with cox	id
+ A1NB1o0090qShfm011NBVc; Tue, 03 Jun 2014 21:22:11 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020207.538E74C3.0053,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=GKHW5JxK c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=3WeNyt34tdkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=3oc9M9_CAAAA:8
+ a=jNByjwo61-sq347btZgA:9 a=CjuIK1q_8ugA:10 a=fg3-COSoseUA:10
+ a=4vB-4DCPJfMA:10 a=U8Ie8EnqySEA:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Wed, 4 Jun 2014 01:22:11 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <327926.491401844931288.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- streaming video
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.218;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB375;H:eastrmfepo203.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: a517f8a9-f02b-433f-e1ff-08d14daa9987
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH41.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad4,5
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 3065ecf53bd842677c0c02a34b086ed735372530
+Account GUID   = 90501871-36bd-11dd-b727-00007f000001
+Is In Home     = false
+Device IP      = 10.0.1.7
+Profile name   = cilfinco
+Is Analog      = false
+Controller ID  = 3491
+ChannelMap ID  = 3465
+IDM Login Name = cledgerwood@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    224,
+    224,
+    224,
+    224,
+    224
+)
+
+External IP of Device     = 23.110.21.75
+
+Sender Information:
+Name          = 
+Email         = cilfinco@aol.com
+Feedback Type = streaming video
+
+

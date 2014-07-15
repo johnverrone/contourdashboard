@@ -1,0 +1,98 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0MS401.corp.cox.com (10.62.236.87) with Microsoft SMTP Server (TLS) id
+ 8.3.298.1; Sat, 10 May 2014 02:21:41 -0400
+Received: from CATL0EXCH42.CORP.COX.com (10.62.10.26) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sat, 10 May 2014 02:21:28 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH42.CORP.COX.com (10.62.10.26) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sat, 10 May 2014 02:21:28 -0400
+Received: from DM2PR01CA006.prod.exchangelabs.com (10.141.52.174) by
+ CO1PR01MB319.prod.exchangelabs.com (10.242.169.17) with Microsoft SMTP Server
+ (TLS) id 15.0.939.12; Sat, 10 May 2014 06:21:26 +0000
+Received: from BN1AFFO11FD052.protection.gbl (2a01:111:f400:7c10::121) by
+ DM2PR01CA006.outlook.office365.com (2a01:111:e400:2414::46) with Microsoft
+ SMTP Server (TLS) id 15.0.939.12 via Frontend Transport; Sat, 10 May 2014
+ 06:21:25 +0000
+Received: from eastrmfepo203.cox.net (68.230.241.218) by
+ BN1AFFO11FD052.mail.protection.outlook.com (10.58.53.67) with Microsoft SMTP
+ Server id 15.0.929.8 via Frontend Transport; Sat, 10 May 2014 06:21:25 +0000
+Received: from eastrmimpo210 ([68.230.241.225]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140510062125.LCQO31964.eastrmfepo203.cox.net@eastrmimpo210>
+          for <feedback_tvconnect.labs@cox.com>;          Sat, 10 May 2014
+ 02:21:25 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo210 with cox	id
+ 06MR1o0020rkN02016MRgA; Sat, 10 May 2014 02:21:25 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020203.536DC565.002D,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=aZC/a2Ut c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=Ruu2XB8hd0sA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=ugFZ04gQleU6iM-GLUkA:9 a=CjuIK1q_8ugA:10 a=nDOcy7vKAVMA:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sat, 10 May 2014 06:21:25 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <11092867.281399702885180.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.1 on Android -- streaming video
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.218;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:CO1PR01MB319;H:eastrmfepo203.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information: 
+Platform =
+Android OS 
+Device Type = "Android, samsung, santos10wifiue, GT-P5210 |
+screen.pixels=1280x800 | screen.dpi=149.824x149.411" 
+OS Version = 4.2.2
+App
+Version = 1.2.1a
+App Name = Contour
+Business Type = Residential
+Business
+Name = Residential
+Device UID = 72524ce0268f6ac7
+Account GUID =
+261c6bc0-9b07-11e3-8079-14feb5d95de2
+Is In Home = false
+Device IP =
+"fe80::3019:66ff:fef0:3ae2%p2p0" 
+Profile name = tushar
+Is Analog =
+false
+Controller ID = 3450
+ChannelMap ID =21
+IDM Login Name =
+kanabar78@cox.net
+Tutorial Viewed to End = true
+Last 5 Errors = 194
+External
+IP of Device     = 70.209.71.94
+
+Sender Information:
+Name          = 
+Email
+= kanabar78@gmail.com
+Feedback Type = streaming video
+
+

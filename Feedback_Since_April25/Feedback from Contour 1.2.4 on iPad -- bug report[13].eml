@@ -1,0 +1,100 @@
+Received: from CARZ0EXCH17.CORP.COX.com (10.8.64.17) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sat, 17 May 2014 10:48:18 -0400
+Received: from CARZ0EXCH94.CORP.COX.com (10.8.64.85) by
+ CARZ0EXCH17.corp.cox.com (10.8.64.17) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sat, 17 May 2014 07:48:15 -0700
+Received: from CARZ0EXCH45.CORP.COX.com (10.8.64.28) by
+ carz0exch94.corp.cox.com (10.8.64.85) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sat, 17 May 2014 07:47:56 -0700
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH45.CORP.COX.com (10.8.64.28) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sat, 17 May 2014 07:47:56 -0700
+Received: from BLUPR01MB504.prod.exchangelabs.com (10.141.81.152) by
+ BLUPR01MB487.prod.exchangelabs.com (10.141.81.19) with Microsoft SMTP Server
+ (TLS) id 15.0.944.11; Sat, 17 May 2014 14:43:29 +0000
+Received: from BLUPR01CA035.prod.exchangelabs.com (25.160.23.25) by
+ BLUPR01MB504.prod.exchangelabs.com (10.141.81.152) with Microsoft SMTP Server
+ (TLS) id 15.0.944.11; Sat, 17 May 2014 14:43:28 +0000
+Received: from BY2FFO11FD041.protection.gbl (2a01:111:f400:7c0c::197) by
+ BLUPR01CA035.outlook.office365.com (2a01:111:e400:8a4::25) with Microsoft
+ SMTP Server (TLS) id 15.0.944.11 via Frontend Transport; Sat, 17 May 2014
+ 14:43:27 +0000
+Received: from eastrmfepo102.cox.net (68.230.241.214) by
+ BY2FFO11FD041.mail.protection.outlook.com (10.1.14.226) with Microsoft SMTP
+ Server id 15.0.939.9 via Frontend Transport; Sat, 17 May 2014 14:43:27 +0000
+Received: from eastrmimpo305 ([68.230.241.237]) by eastrmfepo102.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140517144327.CYNQ18526.eastrmfepo102.cox.net@eastrmimpo305>
+          for <feedback_tvconnect.labs@cox.com>;          Sat, 17 May 2014
+ 10:43:27 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo305 with cox	id
+ 32jS1o00d0rkN02012jShe; Sat, 17 May 2014 10:43:26 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020207.5377758E.024B,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=cJg+RCiN c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=N_j-UZcehzkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=5MAzOSqKAAAA:8
+ a=pfahRSsqYhTrKWZ-18EA:9 a=CjuIK1q_8ugA:10 a=Wp_Ohj2y0EEA:10
+ a=4vB-4DCPJfMA:10 a=ixcjfxJ-Su4A:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sat, 17 May 2014 14:43:26 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <8995936.31400337806940.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.214;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB504;H:eastrmfepo102.cox.net;FPR:;LANG:en;;SKIP:1;
+X-MS-Exchange-Organization-Network-Message-Id: 525c2948-fcdc-4743-ef9c-08d13ff61fa4
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH45.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Says out if home mode but I am in the house
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad3,6
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = a4b6af268f64a863e5171f9027a00965fcd8fdac
+Account GUID   = 3f100d63-36b5-11dd-b727-00007f000001
+Is In Home     = false
+Device IP      = 192.168.5.110
+Profile name   = dattomo
+Is Analog      = false
+Controller ID  = 3451
+ChannelMap ID  = 26
+IDM Login Name = tdattomo@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    182,
+    182,
+    182,
+    182,
+    203
+)
+
+External IP of Device     = 98.162.212.253
+
+Sender Information:
+Name          = dattomo
+Email         = tony@dattomo.com
+Feedback Type = bug report
+
+

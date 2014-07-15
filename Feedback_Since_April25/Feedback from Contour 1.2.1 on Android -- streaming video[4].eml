@@ -1,0 +1,95 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Tue, 3 Jun 2014 19:18:49 -0400
+Received: from CATL0EXCH43.CORP.COX.com (10.62.10.27) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 3 Jun 2014 19:18:47 -0400
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH43.CORP.COX.com (10.62.10.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Tue, 3 Jun 2014 19:18:47 -0400
+Received: from BLUPR01CA054.prod.exchangelabs.com (25.160.23.44) by
+ BLUPR01MB375.prod.exchangelabs.com (10.141.76.149) with Microsoft SMTP Server
+ (TLS) id 15.0.954.9; Tue, 3 Jun 2014 23:17:26 +0000
+Received: from BL2FFO11FD024.protection.gbl (2a01:111:f400:7c09::171) by
+ BLUPR01CA054.outlook.office365.com (2a01:111:e400:8a4::44) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Tue, 3 Jun 2014
+ 23:17:26 +0000
+Received: from eastrmfepo102.cox.net (68.230.241.214) by
+ BL2FFO11FD024.mail.protection.outlook.com (10.173.161.103) with Microsoft
+ SMTP Server id 15.0.949.9 via Frontend Transport; Tue, 3 Jun 2014 23:17:26
+ +0000
+Received: from eastrmimpo210 ([68.230.241.225]) by eastrmfepo102.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140603231726.PALM18526.eastrmfepo102.cox.net@eastrmimpo210>
+          for <feedback_tvconnect.labs@cox.com>;          Tue, 3 Jun 2014
+ 19:17:26 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo210 with cox	id
+ 9zHR1o00Z0qShfm01zHRLr; Tue, 03 Jun 2014 19:17:25 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020208.538E5785.00F4,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=aZC/a2Ut c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=Ruu2XB8hd0sA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=qoXSbYz8GtmkoNSgBd0A:9
+ a=CjuIK1q_8ugA:10 a=1-9gnHNtNOgA:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Tue, 3 Jun 2014 23:17:25 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <21144405.471401837445897.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.1 on Android -- streaming video
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.214;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB375;H:eastrmfepo102.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 02950af5-937f-49a4-7c3d-08d14d994e53
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH43.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform = Android OS
+Device Type = "Android, Amazon, soho, KFSOWI | screen.pixels=1280x800 |
+screen.dpi=216.0x215.0"
+OS Version = 4.2.2
+App Version = 1.2.1a
+App Name = Contour
+Business Type = Residential
+Business Name = Residential
+Device UID = f78f6aad8f9d88d6
+Account GUID = e132c570-c8df-11e3-8ca3-14feb5d9513a
+Is In Home = false
+Device IP = "fe80::bb:3aff:fe50:5ac4%p2p0"
+Profile name = ronniet1
+Is Analog = false
+Controller ID = 3495
+ChannelMap ID =3461
+IDM Login Name = ronnierthompson1964@cox.net
+Tutorial Viewed to End = true
+Last 5 Errors = 
+External IP of Device     = 68.99.151.10
+
+Sender Information:
+Name          = 
+Email         = ronnierthompson1964@cox.net
+Feedback Type = streaming video
+
+

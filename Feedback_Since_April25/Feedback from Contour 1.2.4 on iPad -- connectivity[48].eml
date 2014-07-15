@@ -1,0 +1,96 @@
+Received: from CATL0EXCH07.CORP.COX.com (10.62.10.17) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Thu, 29 May 2014 16:26:22 -0400
+Received: from CATL0EXCH40.CORP.COX.com (10.62.10.24) by
+ CATL0EXCH07.corp.cox.com (10.62.10.17) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Thu, 29 May 2014 16:26:04 -0400
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH40.CORP.COX.com (10.62.10.24) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Thu, 29 May 2014 16:26:04 -0400
+Received: from DM2PR01CA001.prod.exchangelabs.com (10.141.52.169) by
+ BN1PR01MB280.prod.exchangelabs.com (10.242.213.154) with Microsoft SMTP
+ Server (TLS) id 15.0.944.11; Thu, 29 May 2014 20:26:01 +0000
+Received: from BY2FFO11FD009.protection.gbl (2a01:111:f400:7c0c::197) by
+ DM2PR01CA001.outlook.office365.com (2a01:111:e400:2414::41) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Thu, 29 May 2014
+ 20:26:00 +0000
+Received: from eastrmfepo102.cox.net (68.230.241.214) by
+ BY2FFO11FD009.mail.protection.outlook.com (10.1.14.73) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Thu, 29 May 2014 20:26:00 +0000
+Received: from eastrmimpo305 ([68.230.241.237]) by eastrmfepo102.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140529202559.UGRW18526.eastrmfepo102.cox.net@eastrmimpo305>
+          for <feedback_tvconnect.labs@cox.com>;          Thu, 29 May 2014
+ 16:25:59 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo305 with cox	id
+ 7wRz1o00K0rkN0201wRzjL; Thu, 29 May 2014 16:25:59 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020206.538797D7.0127,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=CMj0q2XD c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=JFRDeyYYKedttrhGd2cA:9 a=CjuIK1q_8ugA:10 a=4OiVAPYnW88A:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Thu, 29 May 2014 20:25:59 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <165042.91401395159684.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.214;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BN1PR01MB280;H:eastrmfepo102.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH07.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: a5ea4c84-9349-4a0a-a1b3-08d1499363af
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH40.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+How do I turn off the out of home mode ?
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,1
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = b90f485ebc623867d2cfd0c5ca3fe12d37a02392
+Account GUID   = 4a129cd0-36e5-11e1-8633-14feb5d9510d
+Is In Home     = false
+Device IP      = 192.168.1.4
+Profile name   = elsie
+Is Analog      = false
+Controller ID  = 3494
+ChannelMap ID  = 3461
+IDM Login Name = gbmini05@cox.net
+Tutorial viewed to end = false
+Last 2 errors = (
+    752,
+    752
+)
+
+External IP of Device     = 72.218.33.58
+
+Sender Information:
+Name          = 
+Email         = elsieconnick@gmail.com
+Feedback Type = connectivity
+
+

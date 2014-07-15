@@ -1,0 +1,97 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sun, 1 Jun 2014 20:25:14 -0400
+Received: from CATL0EXCH42.CORP.COX.com (10.62.10.26) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sun, 1 Jun 2014 20:25:13 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH42.CORP.COX.com (10.62.10.26) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sun, 1 Jun 2014 20:25:13 -0400
+Received: from DM2PR01CA003.prod.exchangelabs.com (10.141.52.171) by
+ BN1PR01MB133.prod.exchangelabs.com (10.242.217.20) with Microsoft SMTP Server
+ (TLS) id 15.0.954.9; Mon, 2 Jun 2014 00:25:05 +0000
+Received: from BN1AFFO11FD046.protection.gbl (2a01:111:f400:7c10::100) by
+ DM2PR01CA003.outlook.office365.com (2a01:111:e400:2414::43) with Microsoft
+ SMTP Server (TLS) id 15.0.949.11 via Frontend Transport; Mon, 2 Jun 2014
+ 00:25:05 +0000
+Received: from eastrmfepo102.cox.net (68.230.241.214) by
+ BN1AFFO11FD046.mail.protection.outlook.com (10.58.53.61) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Mon, 2 Jun 2014 00:25:05 +0000
+Received: from eastrmimpo210 ([68.230.241.225]) by eastrmfepo102.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140602002504.YOUY18526.eastrmfepo102.cox.net@eastrmimpo210>
+          for <feedback_tvconnect.labs@cox.com>;          Sun, 1 Jun 2014
+ 20:25:04 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo210 with cox	id
+ 9CR41o0060rkN0201CR4k3; Sun, 01 Jun 2014 20:25:04 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020205.538BC460.005C,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=aZC/a2Ut c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=N_j-UZcehzkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pcLIrrrKAAAA:8
+ a=L2T7V6o_Q_1zWPs-QyIA:9 a=CjuIK1q_8ugA:10 a=9_Iq6Y4i58AA:10
+ a=4vB-4DCPJfMA:10 a=ftFGBYpk1mUA:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Mon, 2 Jun 2014 00:25:04 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <29275153.271401668704580.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.214;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BN1PR01MB133;H:eastrmfepo102.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 398a18d2-0423-4b94-7113-08d14c104113
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH42.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,1
+OS Version     = 7.0.4
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = febc75d8c7edc71ebfd100da8627eddce33e384b
+Account GUID   = 6a7e6330-de85-11e1-9b79-14feb5d950bc
+Is In Home     = true
+Device IP      = 192.168.1.11
+Profile name   = jack
+Is Analog      = false
+Controller ID  = 3493
+ChannelMap ID  = 3495
+IDM Login Name = deebarcus@cox.net
+Tutorial viewed to end = false
+Last 3 errors = (
+    102,
+    148,
+    148
+)
+
+External IP of Device     = 70.189.79.194
+
+Sender Information:
+Name          = 
+Email         = jkbarcus@sbcglobal.net
+Feedback Type = bug report
+
+

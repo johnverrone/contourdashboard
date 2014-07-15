@@ -1,0 +1,93 @@
+Received: from CARZ0EXCH17.CORP.COX.com (10.8.64.17) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Fri, 6 Jun 2014 15:08:12 -0400
+Received: from CARZ0EXCH93.CORP.COX.com (10.8.64.84) by
+ CARZ0EXCH17.corp.cox.com (10.8.64.17) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Fri, 6 Jun 2014 12:08:10 -0700
+Received: from CARZ0EXCH44.CORP.COX.com (10.8.64.27) by
+ carz0exch93.corp.cox.com (10.8.64.84) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Fri, 6 Jun 2014 12:08:01 -0700
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH44.CORP.COX.com (10.8.64.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Fri, 6 Jun 2014 12:08:01 -0700
+Received: from BY2PR01CA001.prod.exchangelabs.com (10.255.247.31) by
+ BY2PR01MB377.prod.exchangelabs.com (10.141.139.147) with Microsoft SMTP
+ Server (TLS) id 15.0.949.11; Fri, 6 Jun 2014 19:07:41 +0000
+Received: from BY2FFO11FD038.protection.gbl (2a01:111:f400:7c0c::179) by
+ BY2PR01CA001.outlook.office365.com (2a01:111:e400:2c16::31) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Fri, 6 Jun 2014
+ 19:07:41 +0000
+Received: from eastrmfepo103.cox.net (68.230.241.215) by
+ BY2FFO11FD038.mail.protection.outlook.com (10.1.14.223) with Microsoft SMTP
+ Server id 15.0.959.15 via Frontend Transport; Fri, 6 Jun 2014 19:07:40 +0000
+Received: from eastrmimpo109 ([68.230.241.222]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140606190740.DVNU31158.eastrmfepo103.cox.net@eastrmimpo109>
+          for <feedback_tvconnect.labs@cox.com>;          Fri, 6 Jun 2014
+ 15:07:40 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo109 with cox	id
+ B77f1o00S0qShfm0177fX1; Fri, 06 Jun 2014 15:07:39 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020201.5392117C.0001,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=F4SJgNdN c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=eIhxMilvRf8A:10 a=selA_yvjBa4A:10
+ a=5mJXXb0GGSAA:10 a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8
+ a=r6LF-9bVAAAA:8 a=Fhc_SnZTdB3vtkEOrqEA:9 a=CjuIK1q_8ugA:10 a=cYsVUCDEYnQA:10
+ a=4vB-4DCPJfMA:10 a=YsTJZVchlVYA:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Fri, 6 Jun 2014 19:07:39 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <28084878.701402081659963.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.3.0.2.7.0_01 on Android -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.215;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB377;H:eastrmfepo103.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-Network-Message-Id: b4ea808d-e026-46d4-df7b-08d14fd1c55e
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH44.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform = Android OS
+Device Type = "Android, samsung, lt01wifiue, SM-T310 |
+screen.pixels=1280x800 | screen.dpi=188.148x187.93"
+OS Version = 4.2.2
+App Version = 1.3.0.2.7.0_01a
+App Name = Contour
+Business Type = Residential
+Business Name = Residential
+DRM ID = c91b4b82e43ec9f
+Account GUID = 372be6f0-d791-11e2-a608-14feb5d95de2
+Is In Home = true
+Device IP = "fe80::bc72:b1ff:fe71:dbda%p2p0"
+Profile name = prime
+Is Analog = false
+Controller ID = 3495
+ChannelMap ID =3461
+IDM Login Name = pve3@cox.net
+Tutorial Viewed to End = false
+Last 5 Errors = 177 517,181 402,181 402,102 310,102 310
+External IP of Device     = 174.68.245.106
+
+Sender Information:
+Name          = app dev test
+Email         = appdevtest@test.com
+Feedback Type = bug report
+
+

@@ -1,0 +1,100 @@
+Received: from CATL0EXCH09.CORP.COX.com (10.62.10.19) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Mon, 16 Jun 2014 22:50:46 -0400
+Received: from CATL0EXCH41.CORP.COX.com (10.62.10.25) by
+ CATL0EXCH09.corp.cox.com (10.62.10.19) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Mon, 16 Jun 2014 22:50:26 -0400
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH41.corp.cox.com (10.62.10.25) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Mon, 16 Jun 2014 22:50:15 -0400
+Received: from BLUPR01CA034.prod.exchangelabs.com (25.160.23.24) by
+ BLUPR01MB375.prod.exchangelabs.com (10.141.76.149) with Microsoft SMTP Server
+ (TLS) id 15.0.954.9; Tue, 17 Jun 2014 02:49:09 +0000
+Received: from BL2FFO11FD032.protection.gbl (2a01:111:f400:7c09::142) by
+ BLUPR01CA034.outlook.office365.com (2a01:111:e400:8a4::24) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Tue, 17 Jun 2014
+ 02:49:09 +0000
+Received: from eastrmfepo202.cox.net (68.230.241.217) by
+ BL2FFO11FD032.mail.protection.outlook.com (10.173.160.73) with Microsoft SMTP
+ Server id 15.0.959.15 via Frontend Transport; Tue, 17 Jun 2014 02:49:09 +0000
+Received: from eastrmimpo305 ([68.230.241.237]) by eastrmfepo202.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140617024909.KUPS22448.eastrmfepo202.cox.net@eastrmimpo305>
+          for <feedback_tvconnect.labs@cox.com>;          Mon, 16 Jun 2014
+ 22:49:09 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo305 with cox	id
+ FEp91o0020rkN0201Ep9qx; Mon, 16 Jun 2014 22:49:09 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020202.539FACA5.002E,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=RbRO/SRv c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=X90vKPy7HzQA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=h2oifb6SDnjkXAypDnAA:9
+ a=CjuIK1q_8ugA:10 a=PUn7DCK22OgA:10 a=4vB-4DCPJfMA:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Tue, 17 Jun 2014 02:49:09 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <21456129.161402973349100.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.3.1 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.217;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB375;H:eastrmfepo202.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH09.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: ce59fb92-0d1e-4056-c0f8-08d157ee1220
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH41.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+I have been having extended trouble with the Contour app failing to fully
+boot up on any of my iPads.  It usually gets to the part where I select the
+user profile, then simply pops off and back to the home screen.  It's
+occurred on multiple iPads and my WiFi is working fine.  I have alreDy
+rebooted all cable devices already.
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,1
+OS Version     = 7.1.1
+App Version    = 1.3.1
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = 85a407dc8bb5cc0135f1199c295a7bdd49110603
+Account GUID   = d0691467-36b9-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      = 192.168.1.141
+Profile name   = jim
+Is Analog      = false
+Controller ID  = 3450
+ChannelMap ID  = 21
+IDM Login Name = gunslinger9477@cox.net
+Tutorial viewed to end = false
+Last 1 errors = (
+    185
+)
+
+External IP of Device     = 68.109.150.76
+
+Sender Information:
+Name          = Jim
+Email         = gunslinger9477@cox.net
+Feedback Type = bug report
+
+

@@ -1,0 +1,98 @@
+Received: from CARZ0EXCH16.CORP.COX.com (10.8.64.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Wed, 28 May 2014 15:38:13 -0400
+Received: from CARZ0EXCH46.CORP.COX.com (10.8.64.29) by
+ CARZ0EXCH16.corp.cox.com (10.8.64.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 28 May 2014 12:38:11 -0700
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH46.CORP.COX.com (10.8.64.29) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Wed, 28 May 2014 12:38:10 -0700
+Received: from DM2PR01CA010.prod.exchangelabs.com (10.141.52.178) by
+ BLUPR01MB275.prod.exchangelabs.com (10.242.202.25) with Microsoft SMTP Server
+ (TLS) id 15.0.949.11; Wed, 28 May 2014 19:37:48 +0000
+Received: from BN1AFFO11FD036.protection.gbl (2a01:111:f400:7c10::130) by
+ DM2PR01CA010.outlook.office365.com (2a01:111:e400:2414::50) with Microsoft
+ SMTP Server (TLS) id 15.0.949.11 via Frontend Transport; Wed, 28 May 2014
+ 19:37:47 +0000
+Received: from eastrmfepo101.cox.net (68.230.241.213) by
+ BN1AFFO11FD036.mail.protection.outlook.com (10.58.52.240) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Wed, 28 May 2014 19:37:47 +0000
+Received: from eastrmimpo110 ([68.230.241.223]) by eastrmfepo101.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140528193747.TSOY30009.eastrmfepo101.cox.net@eastrmimpo110>
+          for <feedback_tvconnect.labs@cox.com>;          Wed, 28 May 2014
+ 15:37:47 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo110 with cox	id
+ 7Xdm1o00P0rkN0201Xdm5N; Wed, 28 May 2014 15:37:46 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A02020A.53863B0A.0186,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=GKHW5JxK c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=323vQsLogeAQ8irvfgMA:9
+ a=CjuIK1q_8ugA:10 a=SWZ3OYkL6LoA:10 a=4vB-4DCPJfMA:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Wed, 28 May 2014 19:37:46 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <1890423.01401305866796.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.213;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB275;H:eastrmfepo101.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH16.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 6cb0ec18-19e7-49e6-294a-08d148c37e6e
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH46.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad4,4
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 8d50c274d87067f095f85092eb646bd4fe71da79
+Account GUID   = dc5dc0c0-8357-11e0-bd9a-00144f8c34bc
+Is In Home     = false
+Device IP      = 192.168.63.233
+Profile name   = michelle
+Is Analog      = false
+Controller ID  = 3452
+ChannelMap ID  = 226
+IDM Login Name = tlm_mcrm@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    102,
+    102,
+    102,
+    102,
+    203
+)
+
+External IP of Device     = 24.120.239.160
+
+Sender Information:
+Name          = Michelle
+Email         = tlm_mcrm@cox.net
+Feedback Type = connectivity
+
+

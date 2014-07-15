@@ -1,0 +1,93 @@
+Received: from CATL0EXCH09.CORP.COX.com (10.62.10.19) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Wed, 25 Jun 2014 18:45:47 -0400
+Received: from CATL0EXCH92.CORP.COX.com (10.62.10.92) by
+ CATL0EXCH09.corp.cox.com (10.62.10.19) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 25 Jun 2014 18:45:46 -0400
+Received: from CATL0EXCH42.CORP.COX.com (10.62.10.26) by
+ CATL0EXCH92.corp.cox.com (10.62.10.92) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 25 Jun 2014 18:45:45 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH42.CORP.COX.com (10.62.10.26) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Wed, 25 Jun 2014 18:45:45 -0400
+Received: from DM2PR01CA009.prod.exchangelabs.com (10.141.52.177) by
+ DM2PR01MB381.prod.exchangelabs.com (10.141.83.11) with Microsoft SMTP Server
+ (TLS) id 15.0.969.15; Wed, 25 Jun 2014 22:45:33 +0000
+Received: from BN1BFFO11FD057.protection.gbl (2a01:111:f400:7c10::1:160) by
+ DM2PR01CA009.outlook.office365.com (2a01:111:e400:2414::49) with Microsoft
+ SMTP Server (TLS) id 15.0.959.24 via Frontend Transport; Wed, 25 Jun 2014
+ 22:45:32 +0000
+Received: from eastrmfepo102.cox.net (68.230.241.214) by
+ BN1BFFO11FD057.mail.protection.outlook.com (10.58.145.12) with Microsoft SMTP
+ Server id 15.0.969.12 via Frontend Transport; Wed, 25 Jun 2014 22:45:32 +0000
+Received: from eastrmimpo109 ([68.230.241.222]) by eastrmfepo102.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140625224532.WNNO18526.eastrmfepo102.cox.net@eastrmimpo109>
+          for <feedback_tvconnect.labs@cox.com>;          Wed, 25 Jun 2014
+ 18:45:32 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo109 with cox	id
+ JmlY1o0010qShfm01mlYES; Wed, 25 Jun 2014 18:45:32 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020206.53AB510C.0017,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=F4SJgNdN c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=Ruu2XB8hd0sA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=ahnvDxdCTAy60fX9fPAA:9
+ a=CjuIK1q_8ugA:10 a=WQYm4KKJnIwA:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Wed, 25 Jun 2014 22:45:32 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <32472160.201403736332011.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.1 on Android -- streaming video
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.214;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DM2PR01MB381;H:eastrmfepo102.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-Network-Message-Id: 55fc9b62-6916-4da3-59af-08d15ede55e4
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH42.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform = Android OS
+Device Type = "Android, samsung, p4notewifiue, GT-N8013 |
+screen.pixels=1280x752 | screen.dpi=149.82489x150.51852"
+OS Version = 4.1.2
+App Version = 1.2.1a
+App Name = Contour
+Business Type = Residential
+Business Name = Residential
+Device UID = c128e7cd77ace9bb
+Account GUID = 12b51db0-fcb0-11e3-a091-14feb5d950bc
+Is In Home = false
+Device IP = "fe80::2002:afff:febd:9bd8%p2p0"
+Profile name = 
+Is Analog = true
+Controller ID = 3496
+ChannelMap ID =3492
+IDM Login Name = digabooo1@cox.net
+Tutorial Viewed to End = true
+Last 5 Errors = 
+External IP of Device     = 74.98.160.120
+
+Sender Information:
+Name          = 
+Email         = digabooo1@cox.net
+Feedback Type = streaming video
+
+

@@ -1,0 +1,100 @@
+Received: from CARZ0EXCH16.CORP.COX.com (10.8.64.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sat, 21 Jun 2014 00:52:01 -0400
+Received: from CARZ0EXCH44.CORP.COX.com (10.8.64.27) by
+ CARZ0EXCH16.corp.cox.com (10.8.64.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Fri, 20 Jun 2014 21:51:41 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH44.CORP.COX.com (10.8.64.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Fri, 20 Jun 2014 21:51:29 -0700
+Received: from BY2PR01CA019.prod.exchangelabs.com (10.242.234.177) by
+ BY2PR01MB379.prod.exchangelabs.com (10.141.139.151) with Microsoft SMTP
+ Server (TLS) id 15.0.959.24; Sat, 21 Jun 2014 04:51:08 +0000
+Received: from BN1BFFO11FD051.protection.gbl (2a01:111:f400:7c10::1:117) by
+ BY2PR01CA019.outlook.office365.com (2a01:111:e400:2c2c::49) with Microsoft
+ SMTP Server (TLS) id 15.0.959.24 via Frontend Transport; Sat, 21 Jun 2014
+ 04:51:08 +0000
+Received: from eastrmfepo203.cox.net (68.230.241.218) by
+ BN1BFFO11FD051.mail.protection.outlook.com (10.58.145.6) with Microsoft SMTP
+ Server id 15.0.969.12 via Frontend Transport; Sat, 21 Jun 2014 04:51:07 +0000
+Received: from eastrmimpo109 ([68.230.241.222]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140621045107.LAJM2658.eastrmfepo203.cox.net@eastrmimpo109>
+          for <feedback_tvconnect.labs@cox.com>;          Sat, 21 Jun 2014
+ 00:51:07 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo109 with cox	id
+ Gsr71o0080qShfm01sr7PL; Sat, 21 Jun 2014 00:51:07 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020208.53A50F3B.004D,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=F4SJgNdN c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=7nLqM_vkuyMA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=A7qsHLDHAAAA:8 a=5o7YnBrIWBhJ8_WqRvgA:9
+ a=CjuIK1q_8ugA:10 a=FvcGw8SeNewA:10 a=c_KS6Sri2TwA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sat, 21 Jun 2014 04:51:07 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <19667130.261403326267399.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.3.1 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.218;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB379;H:eastrmfepo203.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH16.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 8b7f38f3-d58e-4b78-615a-08d15b23a0f0
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH44.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad4,5
+OS Version     = 7.1.1
+App Version    = 1.3.1
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = cbe2b2d54657d90fd23bd04dcf96211a4055f6ac
+Account GUID   = 1c8d5db0-36b5-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      = 192.168.1.8
+Profile name   = dan
+Is Analog      = false
+Controller ID  = 3492
+ChannelMap ID  = 3469
+IDM Login Name = pmaag
+Tutorial viewed to end = false
+Last 5 errors = (
+    203,
+    203,
+    203,
+    203,
+    122
+)
+
+External IP of Device     = 68.13.157.210
+
+Sender Information:
+Name          = 
+Email         = drbeninato@premiersmile.com
+Feedback Type = connectivity
+
+

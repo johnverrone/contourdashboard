@@ -1,0 +1,100 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Wed, 2 Jul 2014 05:43:16 -0400
+Received: from CATL0EXCH41.CORP.COX.com (10.62.10.25) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 2 Jul 2014 05:43:14 -0400
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH41.corp.cox.com (10.62.10.25) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Wed, 2 Jul 2014 05:43:13 -0400
+Received: from BY2PR01CA012.prod.exchangelabs.com (10.242.234.170) by
+ BN1PR0101MB0787.prod.exchangelabs.com (25.160.168.11) with Microsoft SMTP
+ Server (TLS) id 15.0.974.11; Wed, 2 Jul 2014 09:42:59 +0000
+Received: from BN1AFFO11FD054.protection.gbl (2a01:111:f400:7c10::179) by
+ BY2PR01CA012.outlook.office365.com (2a01:111:e400:2c2c::42) with Microsoft
+ SMTP Server (TLS) id 15.0.974.11 via Frontend Transport; Wed, 2 Jul 2014
+ 09:42:58 +0000
+Received: from eastrmfepo103.cox.net (68.230.241.215) by
+ BN1AFFO11FD054.mail.protection.outlook.com (10.58.53.69) with Microsoft SMTP
+ Server id 15.0.969.12 via Frontend Transport; Wed, 2 Jul 2014 09:42:58 +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140702094248.LNRF31158.eastrmfepo103.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Wed, 2 Jul 2014
+ 05:42:48 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo306 with cox	id
+ MMi41o00Q0rkN0201Mi4R8; Wed, 02 Jul 2014 05:42:04 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020203.53B3D418.001C,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=VOEDaazX c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=7nLqM_vkuyMA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=MbW5eVq8X8Rmu2C8LckA:9 a=CjuIK1q_8ugA:10 a=y5kICBZhuHkA:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Wed, 2 Jul 2014 09:42:04 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <21780471.461404294124459.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.3.1 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.215;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BN1PR0101MB0787;H:eastrmfepo103.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 33f9a9f6-61f4-4c70-e40c-08d163f12dc5
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH41.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad3,1
+OS Version     = 7.1.1
+App Version    = 1.3.1
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = 2c9959daad0fcc0ae4889396f9e85e4319b8d9a1
+Account GUID   = d76632d0-b034-11dd-9c0b-0003babd1f99
+Is In Home     = true
+Device IP      = 192.168.1.6
+Profile name   = gwen
+Is Analog      = false
+Controller ID  = 3496
+ChannelMap ID  = 3401
+IDM Login Name = gwenmatt88@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    182,
+    182,
+    203,
+    182,
+    182
+)
+
+External IP of Device     = 68.10.94.17
+
+Sender Information:
+Name          = 
+Email         = gwenmatt7288@gmail.com
+Feedback Type = connectivity
+
+

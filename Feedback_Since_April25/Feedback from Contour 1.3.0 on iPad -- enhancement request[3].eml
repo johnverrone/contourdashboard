@@ -1,0 +1,99 @@
+Received: from CATL0EXCH10.CORP.COX.com (10.62.10.20) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Fri, 6 Jun 2014 21:04:42 -0400
+Received: from CATL0EXCH92.CORP.COX.com (10.62.10.92) by
+ CATL0EXCH10.corp.cox.com (10.62.10.20) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Fri, 6 Jun 2014 21:04:40 -0400
+Received: from CATL0EXCH40.CORP.COX.com (10.62.10.24) by
+ CATL0EXCH92.corp.cox.com (10.62.10.92) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Fri, 6 Jun 2014 21:04:22 -0400
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH40.CORP.COX.com (10.62.10.24) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Fri, 6 Jun 2014 21:04:21 -0400
+Received: from BY2PR01CA0054.prod.exchangelabs.com (10.255.242.44) by
+ BY2PR01MB379.prod.exchangelabs.com (10.141.139.151) with Microsoft SMTP
+ Server (TLS) id 15.0.949.11; Sat, 7 Jun 2014 01:04:19 +0000
+Received: from BN1BFFO11FD021.protection.gbl (2a01:111:f400:7c10::1:152) by
+ BY2PR01CA0054.outlook.office365.com (2a01:111:e400:2c76::44) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Sat, 7 Jun 2014
+ 01:04:18 +0000
+Received: from eastrmfepo202.cox.net (68.230.241.217) by
+ BN1BFFO11FD021.mail.protection.outlook.com (10.58.144.84) with Microsoft SMTP
+ Server id 15.0.959.15 via Frontend Transport; Sat, 7 Jun 2014 01:04:18 +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo202.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140607010418.NVRO22448.eastrmfepo202.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Fri, 6 Jun 2014
+ 21:04:18 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo306 with cox	id
+ BD4J1o0030qShfm01D4JCU; Fri, 06 Jun 2014 21:04:18 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020202.53926512.0011,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=TblIQ2sh c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=hW2AGEEIoHoA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=NEapsvR8cOmWxrVMTiEA:9
+ a=CjuIK1q_8ugA:10 a=FZLqDf-HZCAA:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sat, 7 Jun 2014 01:04:18 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <5689192.751402103058050.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.3.0 on iPad -- enhancement request
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.217;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB379;H:eastrmfepo202.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-Network-Message-Id: 364ac119-d926-4b87-8855-08d150038d48
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH40.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad3,4
+OS Version     = 7.1.1
+App Version    = 1.3.0
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = 0b621d9a86b024929edf7eb459adff2148ae3632
+Account GUID   = 37b69930-36bf-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      = 192.168.1.100
+Profile name   = kit
+Is Analog      = false
+Controller ID  = 3491
+ChannelMap ID  = 3463
+IDM Login Name = ookit@cox.net
+Tutorial viewed to end = true
+Last 5 errors = (
+    752,
+    102,
+    102,
+    102,
+    102
+)
+
+External IP of Device     = 70.187.150.100
+
+Sender Information:
+Name          = kit
+Email         = ookit@cox.net
+Feedback Type = enhancement request
+
+

@@ -1,0 +1,101 @@
+Received: from CATL0EXCH09.CORP.COX.com (10.62.10.19) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Thu, 5 Jun 2014 21:08:17 -0400
+Received: from CATL0EXCH05.CORP.COX.com (10.62.10.15) by
+ CATL0EXCH09.corp.cox.com (10.62.10.19) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Thu, 5 Jun 2014 21:08:09 -0400
+Received: from CATL0EXCH43.CORP.COX.com (10.62.10.27) by
+ CATL0EXCH05.corp.cox.com (10.62.10.15) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Thu, 5 Jun 2014 21:08:02 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH43.CORP.COX.com (10.62.10.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Thu, 5 Jun 2014 21:08:02 -0400
+Received: from DM2PR01CA004.prod.exchangelabs.com (10.141.52.172) by
+ DM2PR01MB384.prod.exchangelabs.com (10.141.83.25) with Microsoft SMTP Server
+ (TLS) id 15.0.954.9; Fri, 6 Jun 2014 01:07:52 +0000
+Received: from BN1AFFO11FD028.protection.gbl (2a01:111:f400:7c10::121) by
+ DM2PR01CA004.outlook.office365.com (2a01:111:e400:2414::44) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Fri, 6 Jun 2014
+ 01:07:51 +0000
+Received: from eastrmfepo201.cox.net (68.230.241.216) by
+ BN1AFFO11FD028.mail.protection.outlook.com (10.58.52.88) with Microsoft SMTP
+ Server id 15.0.959.15 via Frontend Transport; Fri, 6 Jun 2014 01:07:51 +0000
+Received: from eastrmimpo210 ([68.230.241.225]) by eastrmfepo201.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140606010751.VELY31475.eastrmfepo201.cox.net@eastrmimpo210>
+          for <feedback_tvconnect.labs@cox.com>;          Thu, 5 Jun 2014
+ 21:07:51 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo210 with cox	id
+ Ap7r1o0070qShfm01p7rRC; Thu, 05 Jun 2014 21:07:51 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020207.53911467.0060,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=aZC/a2Ut c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=N_j-UZcehzkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=3oc9M9_CAAAA:8
+ a=Pc3frL-4OWDFHPyYxU0A:9 a=CjuIK1q_8ugA:10 a=rxcFrOuwop4A:10
+ a=4vB-4DCPJfMA:10 a=U8Ie8EnqySEA:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Fri, 6 Jun 2014 01:07:51 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <31872668.671402016871247.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.216;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DM2PR01MB384;H:eastrmfepo201.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH05.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: eb2d5da1-8ca5-4120-4f55-08d14f3ae65a
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH43.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Beginning this morning, there are no channels in my guide & I get a message
+that I don't subscribe to certain channels like ID. Please advise. I've
+rebooted my iPad & reinstalled the app several times.
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,1
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 87384e45a86f5bf4c308aa7b8512c4289fc53964
+Account GUID   = a9bbb585-36b3-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      = 192.168.1.100
+Profile name   = jennifer
+Is Analog      = false
+Controller ID  = 3489
+ChannelMap ID  = 3402
+IDM Login Name = jmg264@cox.net
+Tutorial viewed to end = false
+Last 1 errors = (
+    "No errors."
+)
+
+External IP of Device     = 72.221.72.85
+
+Sender Information:
+Name          = Jennifer
+Email         = jmg264@aol.com
+Feedback Type = bug report
+
+

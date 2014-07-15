@@ -1,0 +1,97 @@
+Received: from CATL0EXCH10.CORP.COX.com (10.62.10.20) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Wed, 28 May 2014 19:06:18 -0400
+Received: from CATL0EXCH03.CORP.COX.com (10.62.10.13) by
+ CATL0EXCH10.corp.cox.com (10.62.10.20) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 28 May 2014 19:06:15 -0400
+Received: from CATL0EXCH41.CORP.COX.com (10.62.10.25) by
+ CATL0EXCH03.corp.cox.com (10.62.10.13) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 28 May 2014 19:05:52 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH41.corp.cox.com (10.62.10.25) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Wed, 28 May 2014 19:05:51 -0400
+Received: from BY2PR01CA002.prod.exchangelabs.com (10.255.247.32) by
+ BY2PR01MB281.prod.exchangelabs.com (10.242.232.140) with Microsoft SMTP
+ Server (TLS) id 15.0.949.11; Wed, 28 May 2014 23:05:49 +0000
+Received: from BN1AFFO11FD043.protection.gbl (2a01:111:f400:7c10::109) by
+ BY2PR01CA002.outlook.office365.com (2a01:111:e400:2c16::32) with Microsoft
+ SMTP Server (TLS) id 15.0.949.11 via Frontend Transport; Wed, 28 May 2014
+ 23:05:49 +0000
+Received: from eastrmfepo103.cox.net (68.230.241.215) by
+ BN1AFFO11FD043.mail.protection.outlook.com (10.58.52.190) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Wed, 28 May 2014 23:05:48 +0000
+Received: from eastrmimpo305 ([68.230.241.237]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140528230548.RNIS31158.eastrmfepo103.cox.net@eastrmimpo305>
+          for <feedback_tvconnect.labs@cox.com>;          Wed, 28 May 2014
+ 19:05:48 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo305 with cox	id
+ 7b5o1o00J0rkN0201b5oju; Wed, 28 May 2014 19:05:48 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020207.53866BCC.00E3,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=CMj0q2XD c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=HZJGGiqLAAAA:8
+ a=wDyv4lUNutraiLqpo5YA:9 a=CjuIK1q_8ugA:10 a=xYBOgkrKgP4A:10
+ a=4vB-4DCPJfMA:10 a=HeoGohOdMD0A:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Wed, 28 May 2014 23:05:48 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <26678664.21401318348626.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.215;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB281;H:eastrmfepo103.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH03.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 30455ae6-f32d-40d2-982f-08d148e088bf
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH41.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,5
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 0575ff2d0f21827858d64e6943bcef923b8c1816
+Account GUID   = a4579392-36bb-11dd-b727-00007f000001
+Is In Home     = false
+Device IP      = 192.168.1.64
+Profile name   = kari
+Is Analog      = false
+Controller ID  = 3456
+ChannelMap ID  = 101
+IDM Login Name = kjporter12@cox.net
+Tutorial viewed to end = false
+Last 1 errors = (
+    "No errors."
+)
+
+External IP of Device     = 162.196.69.144
+
+Sender Information:
+Name          = 
+Email         = kari.porter@att.net
+Feedback Type = connectivity
+
+

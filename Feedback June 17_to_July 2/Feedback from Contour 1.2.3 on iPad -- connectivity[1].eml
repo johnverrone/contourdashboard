@@ -1,0 +1,105 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Tue, 17 Jun 2014 19:51:34 -0400
+Received: from CATL0EXCH40.CORP.COX.com (10.62.10.24) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 17 Jun 2014 19:51:32 -0400
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH40.CORP.COX.com (10.62.10.24) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Tue, 17 Jun 2014 19:51:32 -0400
+Received: from DM2PR01CA007.prod.exchangelabs.com (10.141.52.175) by
+ DM2PR01MB384.prod.exchangelabs.com (10.141.83.25) with Microsoft SMTP Server
+ (TLS) id 15.0.954.9; Tue, 17 Jun 2014 23:51:29 +0000
+Received: from BN1BFFO11FD046.protection.gbl (2a01:111:f400:7c10::1:165) by
+ DM2PR01CA007.outlook.office365.com (2a01:111:e400:2414::47) with Microsoft
+ SMTP Server (TLS) id 15.0.959.24 via Frontend Transport; Tue, 17 Jun 2014
+ 23:51:29 +0000
+Received: from eastrmfepo203.cox.net (68.230.241.218) by
+ BN1BFFO11FD046.mail.protection.outlook.com (10.58.145.1) with Microsoft SMTP
+ Server id 15.0.959.15 via Frontend Transport; Tue, 17 Jun 2014 23:51:29 +0000
+Received: from eastrmimpo109 ([68.230.241.222]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140617235129.DAYG31964.eastrmfepo203.cox.net@eastrmimpo109>
+          for <feedback_tvconnect.labs@cox.com>;          Tue, 17 Jun 2014
+ 19:51:29 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo109 with cox	id
+ FbrV1o0060qShfm01brV9S; Tue, 17 Jun 2014 19:51:29 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020205.53A0D481.003F,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=F4SJgNdN c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=uyng88EJpy8A:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=i5J9E1obAAAA:8
+ a=cpnAAxSgYo60mK9-GJ8A:9 a=CjuIK1q_8ugA:10 a=vfUIrO_bRd8A:10
+ a=4vB-4DCPJfMA:10 a=htsmAicw4goA:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Tue, 17 Jun 2014 23:51:29 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <13961735.71403049089138.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.3 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.218;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DM2PR01MB384;H:eastrmfepo203.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: f123bbe5-6334-4649-8f9d-08d1589e337d
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH40.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+I am married to and living with my wife Celine Lemieux the primary account
+holder here at 840 Tchoupitoulas St., Unit 212, New Orleans, LA 70130 for
+cable tv service with Cox. I also have internet service with Cox as a
+separate account for my business. Contour does not recognize my internet
+connection as home, even though it is, and it is Cox.
+
+How do I fix this?
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad3,1
+OS Version     = 7.0.2
+App Version    = 1.2.3
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 4ebf8c97489ce1af28171ddaa3def5db78484018
+Account GUID   = 4cdf1d20-93bc-11e0-8c75-00212810c176
+Is In Home     = false
+Device IP      = 192.168.1.108
+Profile name   = denny
+Is Analog      = false
+Controller ID  = 3497
+ChannelMap ID  = 3494
+IDM Login Name = drc961@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    203,
+    102,
+    102,
+    102,
+    102
+)
+
+External IP of Device     = 72.204.179.139
+
+Sender Information:
+Name          = Denny Ebersole
+Email         = denny@dennyebersole.com
+Feedback Type = connectivity
+
+

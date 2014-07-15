@@ -1,0 +1,108 @@
+Received: from CATL0EXCH09.CORP.COX.com (10.62.10.19) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sun, 8 Jun 2014 02:41:34 -0400
+Received: from CATL0EXCH90.CORP.COX.com (10.62.10.90) by
+ CATL0EXCH09.corp.cox.com (10.62.10.19) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sun, 8 Jun 2014 02:41:33 -0400
+Received: from CATL0EXCH43.CORP.COX.com (10.62.10.27) by
+ CATL0EXCH90.corp.cox.com (10.62.10.90) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sun, 8 Jun 2014 02:41:13 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH43.CORP.COX.com (10.62.10.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sun, 8 Jun 2014 02:41:01 -0400
+Received: from BLUPR01CA008.prod.exchangelabs.com (10.255.223.166) by
+ BLUPR01MB374.prod.exchangelabs.com (10.141.76.144) with Microsoft SMTP Server
+ (TLS) id 15.0.954.9; Sun, 8 Jun 2014 06:40:57 +0000
+Received: from BL2FFO11FD021.protection.gbl (2a01:111:f400:7c09::177) by
+ BLUPR01CA008.outlook.office365.com (2a01:111:e400:841::38) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Sun, 8 Jun 2014
+ 06:40:57 +0000
+Received: from eastrmfepo201.cox.net (68.230.241.216) by
+ BL2FFO11FD021.mail.protection.outlook.com (10.173.161.100) with Microsoft
+ SMTP Server id 15.0.959.15 via Frontend Transport; Sun, 8 Jun 2014 06:40:57
+ +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo201.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140608064057.JWAE31475.eastrmfepo201.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Sun, 8 Jun 2014
+ 02:40:57 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo306 with cox	id
+ Bigx1o0010rkN0201igxCu; Sun, 08 Jun 2014 02:40:57 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020205.53940579.0017,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=TblIQ2sh c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=RjQcGdaCdMUA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=69EAbJreAAAA:8
+ a=fWj1AI3zZ5b8apZBVTcA:9 a=CjuIK1q_8ugA:10 a=Sgo8R8_vVwMA:10
+ a=4vB-4DCPJfMA:10 a=EfJqPEOeqlMA:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sun, 8 Jun 2014 06:40:57 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <13625385.641402209657156.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.3.0 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.216;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB374;H:eastrmfepo201.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH90.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 88eb1363-3399-4bac-d820-08d150fbc6b0
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH43.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+No picture.  Sometimes it works sometime it doesn't.  So annoying.  Right
+now there's no picture. Other times it's just a black screen.  Show time and
+hbo work just fine so it's contours that has these problems. Didn't have
+them before under the old system.
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad4,1
+OS Version     = 7.1.1
+App Version    = 1.3.0
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = c09935411c4f026065d7d1e6ce0b5110a54bf552
+Account GUID   = facc78f0-25a6-11e3-a882-14feb5d94d4a
+Is In Home     = true
+Device IP      = 192.168.0.13
+Profile name   = anja
+Is Analog      = false
+Controller ID  = 3491
+ChannelMap ID  = 3464
+IDM Login Name = afreuden@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    182,
+    182,
+    182,
+    182,
+    182
+)
+
+External IP of Device     = 68.5.22.231
+
+Sender Information:
+Name          = 
+Email         = afreudenthal@hotmail.com
+Feedback Type = bug report
+
+

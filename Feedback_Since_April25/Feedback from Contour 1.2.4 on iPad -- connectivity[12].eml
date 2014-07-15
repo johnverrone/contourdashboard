@@ -1,0 +1,100 @@
+Received: from CARZ0EXCH18.CORP.COX.com (10.8.64.18) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Fri, 6 Jun 2014 21:37:42 -0400
+Received: from CARZ0EXCH45.CORP.COX.com (10.8.64.28) by
+ CARZ0EXCH18.corp.cox.com (10.8.64.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Fri, 6 Jun 2014 18:37:40 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH45.CORP.COX.com (10.8.64.28) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Fri, 6 Jun 2014 18:37:22 -0700
+Received: from BLUPR01CA019.prod.exchangelabs.com (10.141.30.49) by
+ BLUPR01MB376.prod.exchangelabs.com (10.141.76.153) with Microsoft SMTP Server
+ (TLS) id 15.0.954.9; Sat, 7 Jun 2014 01:36:58 +0000
+Received: from BN1AFFO11FD032.protection.gbl (2a01:111:f400:7c10::116) by
+ BLUPR01CA019.outlook.office365.com (2a01:111:e400:879::49) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Sat, 7 Jun 2014
+ 01:36:58 +0000
+Received: from eastrmfepo203.cox.net (68.230.241.218) by
+ BN1AFFO11FD032.mail.protection.outlook.com (10.58.52.186) with Microsoft SMTP
+ Server id 15.0.959.15 via Frontend Transport; Sat, 7 Jun 2014 01:36:58 +0000
+Received: from eastrmimpo109 ([68.230.241.222]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140607013657.UVLY31964.eastrmfepo203.cox.net@eastrmimpo109>
+          for <feedback_tvconnect.labs@cox.com>;          Fri, 6 Jun 2014
+ 21:36:57 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo109 with cox	id
+ BDcx1o00G0qShfm01DcxER; Fri, 06 Jun 2014 21:36:57 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020208.53926CB9.0071,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=F4SJgNdN c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=IkcTkHD0fZMA:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=O5EjB08bUuGqxgeGJBcA:9
+ a=QEXdDO2ut3YA:10 a=PGQgMs2zYyEA:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sat, 7 Jun 2014 01:36:57 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <12335153.761402105017604.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.218;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB376;H:eastrmfepo203.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH18.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 46a44703-5ae4-4de6-4cc2-08d15008343b
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH45.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+Feedback Received:
+------------------
+Intermittent streaming =F0=9F=98=9E
+
+Customer Information:
+Platform       =3D iPhone OS
+Device Type    =3D iPad2,1
+OS Version     =3D 7.1.1
+App Version    =3D 1.2.4
+App Name       =3D Contour
+Business Type  =3D Residential
+Business Name  =3D Residential
+Device UID     =3D 98ec2edbd9b473aaf3bd13938b3a872e64e9dde8
+Account GUID   =3D 4cb6e153-36bf-11dd-b727-00007f000001
+Is In Home     =3D true
+Device IP      =3D 192.168.1.103
+Profile name   =3D sharon
+Is Analog      =3D false
+Controller ID  =3D 3489
+ChannelMap ID  =3D 3402
+IDM Login Name =3D pbush261@cox.net
+Tutorial viewed to end =3D false
+Last 5 errors =3D (
+    140,
+    140,
+    203,
+    140,
+    140
+)
+
+External IP of Device     =3D 68.9.114.16
+
+Sender Information:
+Name          =3D=20
+Email         =3D tierney1612@cox.net
+Feedback Type =3D connectivity
+
+

@@ -1,0 +1,99 @@
+Received: from CARZ0EXCH20.CORP.COX.com (10.8.64.20) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sun, 29 Jun 2014 23:02:57 -0400
+Received: from CARZ0EXCH94.CORP.COX.com (10.8.64.85) by
+ CARZ0EXCH20.corp.cox.com (10.8.64.20) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sun, 29 Jun 2014 20:02:50 -0700
+Received: from CARZ0EXCH47.CORP.COX.com (10.8.64.30) by
+ carz0exch94.corp.cox.com (10.8.64.85) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sun, 29 Jun 2014 20:02:31 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH47.CORP.COX.com (10.8.64.30) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sun, 29 Jun 2014 20:02:31 -0700
+Received: from BLUPR01CA020.prod.exchangelabs.com (10.141.30.50) by
+ BY2PR01MB378.prod.exchangelabs.com (10.141.139.150) with Microsoft SMTP
+ Server (TLS) id 15.0.974.11; Mon, 30 Jun 2014 03:01:57 +0000
+Received: from BY2FFO11FD037.protection.gbl (2a01:111:f400:7c0c::124) by
+ BLUPR01CA020.outlook.office365.com (2a01:111:e400:879::50) with Microsoft
+ SMTP Server (TLS) id 15.0.974.11 via Frontend Transport; Mon, 30 Jun 2014
+ 03:01:57 +0000
+Received: from eastrmfepo101.cox.net (68.230.241.213) by
+ BY2FFO11FD037.mail.protection.outlook.com (10.1.14.222) with Microsoft SMTP
+ Server id 15.0.969.12 via Frontend Transport; Mon, 30 Jun 2014 03:01:56 +0000
+Received: from eastrmimpo305 ([68.230.241.237]) by eastrmfepo101.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140630030156.EPXT30009.eastrmfepo101.cox.net@eastrmimpo305>
+          for <feedback_tvconnect.labs@cox.com>;          Sun, 29 Jun 2014
+ 23:01:56 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo305 with cox	id
+ LT1w1o0010rkN0201T1weG; Sun, 29 Jun 2014 23:01:56 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020206.53B0D324.0016,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=KtmTLxqN c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=AIDSN29a9g4o14o41YkA:9 a=CjuIK1q_8ugA:10 a=vO4i7WzaJc8A:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Mon, 30 Jun 2014 03:01:56 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <6426101.241404097316024.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.213;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB378;H:eastrmfepo101.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-Network-Message-Id: 058e0f06-221f-4fac-c246-08d16226de4b
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH47.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,1
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 77e8cd4082f9b800a828a304bfdb22d1b97ba9d5
+Account GUID   = 90b33621-36b4-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      = 192.168.1.4
+Profile name   = amber
+Is Analog      = false
+Controller ID  = 3456
+ChannelMap ID  = 101
+IDM Login Name = acoe2@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    206,
+    142,
+    142,
+    182,
+    182
+)
+
+External IP of Device     = 68.97.103.40
+
+Sender Information:
+Name          = steve and Amber
+Email         = svajaustin@gmail.com
+Feedback Type = connectivity
+
+

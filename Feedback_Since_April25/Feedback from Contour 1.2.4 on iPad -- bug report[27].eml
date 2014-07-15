@@ -1,0 +1,106 @@
+Received: from CATL0EXCH09.CORP.COX.com (10.62.10.19) by
+ CATL0MS402.corp.cox.com (10.62.236.89) with Microsoft SMTP Server (TLS) id
+ 8.3.298.1; Sun, 27 Apr 2014 21:48:50 -0400
+Received: from CATL0EXCH40.CORP.COX.com (10.62.10.24) by
+ CATL0EXCH09.corp.cox.com (10.62.10.19) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sun, 27 Apr 2014 21:48:44 -0400
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH40.CORP.COX.com (10.62.10.24) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sun, 27 Apr 2014 21:48:44 -0400
+Received: from DM2PR01CA007.prod.exchangelabs.com (10.141.52.175) by
+ BLUPR01MB305.prod.exchangelabs.com (10.242.202.13) with Microsoft SMTP Server
+ (TLS) id 15.0.929.12; Mon, 28 Apr 2014 01:48:41 +0000
+Received: from BL2FFO11FD025.protection.gbl (2a01:111:f400:7c09::190) by
+ DM2PR01CA007.outlook.office365.com (2a01:111:e400:2414::47) with Microsoft
+ SMTP Server (TLS) id 15.0.929.12 via Frontend Transport; Mon, 28 Apr 2014
+ 01:48:41 +0000
+Received: from eastrmfepo202.cox.net (68.230.241.217) by
+ BL2FFO11FD025.mail.protection.outlook.com (10.173.161.104) with Microsoft
+ SMTP Server id 15.0.929.8 via Frontend Transport; Mon, 28 Apr 2014 01:48:41
+ +0000
+Received: from eastrmimpo305 ([68.230.241.237]) by eastrmfepo202.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140428014840.SOIV22448.eastrmfepo202.cox.net@eastrmimpo305>
+          for <feedback_tvconnect.labs@cox.com>;          Sun, 27 Apr 2014
+ 21:48:40 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo305 with cox	id
+ vDog1n00F0rkN0201DogkR; Sun, 27 Apr 2014 21:48:40 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020206.535DB378.0079,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=e+DYv9V/ c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=N_j-UZcehzkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=ssqEkmDZakwPYYo0zjgA:9 a=CjuIK1q_8ugA:10 a=SXKI7wDZJ_IA:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Mon, 28 Apr 2014 01:48:40 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <20734571.791398649720451.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.217;CTRY:US;IPV:CAL;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB305;H:eastrmfepo202.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH09.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Video frequently pauses and goes out
+of sync with audio
+
+Customer Information:
+Platform       = iPhone OS
+Device
+Type    = iPad4,1
+OS Version     = 7.1
+App Version    = 1.2.4
+App Name
+= Contour
+Business Type  = Residential
+Business Name  = Residential
+Device
+UID     = 56b25c9b8a06b85d5048baa32a222a899bcc3ad5
+Account GUID   =
+be9a6430-577b-11e3-b528-14feb5d9513a
+Is In Home     = true
+Device IP      =
+192.168.0.10
+Profile name   = brian
+Is Analog      = false
+Controller ID  =
+3489
+ChannelMap ID  = 3402
+IDM Login Name = garrity43@cox.net
+Tutorial
+viewed to end = false
+Last 5 errors = (
+    148,
+    148,
+    148,
+    148,
+
+148
+)
+
+External IP of Device     = 68.9.27.92
+
+Sender Information:
+Name
+= brian
+Email         = garrity43@gmail.com
+Feedback Type = bug report
+
+

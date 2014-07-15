@@ -1,0 +1,102 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0MS401.corp.cox.com (10.62.236.87) with Microsoft SMTP Server (TLS) id
+ 8.3.298.1; Tue, 13 May 2014 00:00:48 -0400
+Received: from CATL0EXCH43.CORP.COX.com (10.62.10.27) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 13 May 2014 00:00:47 -0400
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH43.CORP.COX.com (10.62.10.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Tue, 13 May 2014 00:00:46 -0400
+Received: from BLUPR01CA004.prod.exchangelabs.com (10.255.223.162) by
+ BLUPR01MB307.prod.exchangelabs.com (10.242.202.15) with Microsoft SMTP Server
+ (TLS) id 15.0.939.12; Tue, 13 May 2014 03:59:34 +0000
+Received: from BN1BFFO11FD059.protection.gbl (2a01:111:f400:7c10::1:142) by
+ BLUPR01CA004.outlook.office365.com (2a01:111:e400:841::34) with Microsoft
+ SMTP Server (TLS) id 15.0.939.12 via Frontend Transport; Tue, 13 May 2014
+ 03:59:34 +0000
+Received: from eastrmfepo202.cox.net (68.230.241.217) by
+ BN1BFFO11FD059.mail.protection.outlook.com (10.58.145.14) with Microsoft SMTP
+ Server id 15.0.939.9 via Frontend Transport; Tue, 13 May 2014 03:59:34 +0000
+Received: from eastrmimpo109 ([68.230.241.222]) by eastrmfepo202.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140513035934.CKRP22448.eastrmfepo202.cox.net@eastrmimpo109>
+          for <feedback_tvconnect.labs@cox.com>;          Mon, 12 May 2014
+ 23:59:34 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo109 with cox	id
+ 1Fza1o0010qShfm01Fza3r; Mon, 12 May 2014 23:59:34 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020206.537198A6.0011,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=F4SJgNdN c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=ILq4lESVa0sA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=5fc6CwheraEoOoy7pXUA:9
+ a=CjuIK1q_8ugA:10 a=na68cW58wY4A:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Tue, 13 May 2014 03:59:34 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <22302877.451399953574062.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- enhancement request
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.217;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB307;H:eastrmfepo202.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+I would like to be able to access
+content recorded on my DVR.  Is there a a way to access that?
+Customer
+Information:
+Platform       = iPhone OS
+Device Type    = iPad3,2
+OS Version
+= 7.0.4
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  =
+Residential
+Business Name  = Residential
+Device UID     =
+5d5fe22cc6d71f69d990c8b645cf3a95143a2499
+Account GUID   =
+0dab0612-36b7-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      =
+10.0.1.2
+Profile name   = david
+Is Analog      = false
+Controller ID  =
+3452
+ChannelMap ID  = 226
+IDM Login Name = dsslv@cox.net
+Tutorial viewed to
+end = false
+Last 1 errors = (
+    "No errors."
+)
+
+External IP of Device
+= 68.104.40.145
+
+Sender Information:
+Name          = David
+Email         =
+dsslv@cox.net
+Feedback Type = enhancement request
+
+

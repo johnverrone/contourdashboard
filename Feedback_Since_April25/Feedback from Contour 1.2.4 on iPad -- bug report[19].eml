@@ -1,0 +1,107 @@
+Received: from CARZ0EXCH20.CORP.COX.com (10.8.64.20) by
+ CATL0MS404.corp.cox.com (10.62.236.93) with Microsoft SMTP Server (TLS) id
+ 8.3.298.1; Wed, 7 May 2014 14:37:27 -0400
+Received: from CARZ0EXCH45.CORP.COX.com (10.8.64.28) by
+ CARZ0EXCH20.corp.cox.com (10.8.64.20) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 7 May 2014 11:37:26 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH45.CORP.COX.com (10.8.64.28) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Wed, 7 May 2014 11:37:26 -0700
+Received: from BY2PR01MB140.prod.exchangelabs.com (10.242.233.154) by
+ BY2PR01MB553.prod.exchangelabs.com (10.141.145.11) with Microsoft SMTP Server
+ (TLS) id 15.0.939.12; Wed, 7 May 2014 18:37:20 +0000
+Received: from BY2PR01CA011.prod.exchangelabs.com (10.242.234.169) by
+ BY2PR01MB140.prod.exchangelabs.com (10.242.233.154) with Microsoft SMTP
+ Server (TLS) id 15.0.934.12; Wed, 7 May 2014 18:37:14 +0000
+Received: from BN1AFFO11FD059.protection.gbl (2a01:111:f400:7c10::103) by
+ BY2PR01CA011.outlook.office365.com (2a01:111:e400:2c2c::41) with Microsoft
+ SMTP Server (TLS) id 15.0.939.12 via Frontend Transport; Wed, 7 May 2014
+ 18:37:14 +0000
+Received: from eastrmfepo203.cox.net (68.230.241.218) by
+ BN1AFFO11FD059.mail.protection.outlook.com (10.58.53.74) with Microsoft SMTP
+ Server id 15.0.929.8 via Frontend Transport; Wed, 7 May 2014 18:37:13 +0000
+Received: from eastrmimpo210 ([68.230.241.225]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140507183713.FTHE31964.eastrmfepo203.cox.net@eastrmimpo210>
+          for <feedback_tvconnect.labs@cox.com>;          Wed, 7 May 2014
+ 14:37:13 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo210 with cox	id
+ z6dD1n00Q0rkN02016dDLb; Wed, 07 May 2014 14:37:13 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020201.536A7D59.00DD,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=aZC/a2Ut c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=N_j-UZcehzkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=Zk3OmFfbAAAA:8
+ a=RsuMv94Y4CfK1zjQeYwA:9 a=CjuIK1q_8ugA:10 a=NTyKQiNQYOgA:10
+ a=4vB-4DCPJfMA:10 a=x46t9oslO7cA:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Wed, 7 May 2014 18:37:13 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <33356759.101399487833553.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.218;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB140;H:eastrmfepo203.cox.net;FPR:;LANG:en;;SKIP:1;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH20.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform
+= iPhone OS
+Device Type    = iPad4,1
+OS Version     = 7.1.1
+App Version    =
+1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  =
+Residential
+Device UID     =
+dde8015747e0e4f17a753c41267bd75288f86f6b
+Account GUID   =
+5dcedf40-aa80-11e1-b46a-14feb5d95de2
+Is In Home     = false
+Device IP      =
+10.0.1.6
+Profile name   = melissa
+Is Analog      = false
+Controller ID  =
+3497
+ChannelMap ID  = 3494
+IDM Login Name = melissalalone@cox.net
+Tutorial
+viewed to end = false
+Last 1 errors = (
+    "No errors."
+)my count our is
+not working. I am sitting in my home on my ipad but it says I'm not
+connected to my home network- which I am but it says I am in " out of home
+mode" please fix
+
+External IP of Device     = 68.11.114.46
+
+Sender
+Information:
+Name          = melissa lalone
+Email         =
+littlered67@live.com
+Feedback Type = bug report
+
+

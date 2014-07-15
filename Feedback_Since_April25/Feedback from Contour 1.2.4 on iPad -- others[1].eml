@@ -1,0 +1,98 @@
+Received: from CARZ0EXCH18.CORP.COX.com (10.8.64.18) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Tue, 3 Jun 2014 00:48:17 -0400
+Received: from CARZ0EXCH95.CORP.COX.com (10.8.64.86) by
+ CARZ0EXCH18.corp.cox.com (10.8.64.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Mon, 2 Jun 2014 21:48:09 -0700
+Received: from CARZ0EXCH44.CORP.COX.com (10.8.64.27) by
+ carz0exch95.corp.cox.com (10.8.64.86) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Mon, 2 Jun 2014 21:47:57 -0700
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH44.CORP.COX.com (10.8.64.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Mon, 2 Jun 2014 21:47:56 -0700
+Received: from BY2PR01CA0039.prod.exchangelabs.com (10.255.242.29) by
+ BY2PR01MB377.prod.exchangelabs.com (10.141.139.147) with Microsoft SMTP
+ Server (TLS) id 15.0.949.11; Tue, 3 Jun 2014 04:47:51 +0000
+Received: from BN1BFFO11FD047.protection.gbl (2a01:111:f400:7c10::1:143) by
+ BY2PR01CA0039.outlook.office365.com (2a01:111:e400:2c76::29) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Tue, 3 Jun 2014
+ 04:47:51 +0000
+Received: from eastrmfepo202.cox.net (68.230.241.217) by
+ BN1BFFO11FD047.mail.protection.outlook.com (10.58.145.2) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Tue, 3 Jun 2014 04:47:51 +0000
+Received: from eastrmimpo110 ([68.230.241.223]) by eastrmfepo202.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140603044750.TKOY22448.eastrmfepo202.cox.net@eastrmimpo110>
+          for <feedback_tvconnect.labs@cox.com>;          Tue, 3 Jun 2014
+ 00:47:50 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo110 with cox	id
+ 9gnq1o00P0qShfm01gnqK7; Tue, 03 Jun 2014 00:47:50 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020202.538D5376.00B1,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=GKHW5JxK c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=HHGDD-5mAAAA:8
+ a=7dl5x4huQQYLa7rT6U0A:9 a=CjuIK1q_8ugA:10 a=sB3WqE4s6kwA:10
+ a=4vB-4DCPJfMA:10 a=i1zE5R4R5dEA:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Tue, 3 Jun 2014 04:47:50 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <28193663.421401770870685.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- others
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.217;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB377;H:eastrmfepo202.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-Network-Message-Id: 64ec88fe-586a-47f1-1742-08d14cfe1f86
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH44.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad3,3
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = e61585658fec74795458312f6f141d2852839289
+Account GUID   = 93d72790-e512-11e3-9bf3-14feb5d950bc
+Is In Home     = false
+Device IP      = 
+Profile name   = jennifer
+Is Analog      = false
+Controller ID  = 3452
+ChannelMap ID  = 226
+IDM Login Name = jennifer.pitterle@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    187,
+    752,
+    210,
+    102,
+    126
+)
+
+External IP of Device     = 166.137.122.58
+
+Sender Information:
+Name          = Jennifer
+Email         = pitterle@me.com
+Feedback Type = others
+
+

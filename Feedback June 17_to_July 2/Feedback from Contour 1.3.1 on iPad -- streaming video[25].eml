@@ -1,0 +1,103 @@
+Received: from CARZ0EXCH18.CORP.COX.com (10.8.64.18) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sat, 21 Jun 2014 00:51:22 -0400
+Received: from CARZ0EXCH11.CORP.COX.com (10.8.64.11) by
+ CARZ0EXCH18.corp.cox.com (10.8.64.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Fri, 20 Jun 2014 21:51:20 -0700
+Received: from CARZ0EXCH46.CORP.COX.com (10.8.64.29) by
+ CARZ0EXCH11.corp.cox.com (10.8.64.11) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Fri, 20 Jun 2014 21:50:49 -0700
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH46.CORP.COX.com (10.8.64.29) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Fri, 20 Jun 2014 21:50:49 -0700
+Received: from DM2PR01CA004.prod.exchangelabs.com (10.141.52.172) by
+ DM2PR01MB381.prod.exchangelabs.com (10.141.83.11) with Microsoft SMTP Server
+ (TLS) id 15.0.969.15; Sat, 21 Jun 2014 04:50:41 +0000
+Received: from BY2FFO11FD045.protection.gbl (2a01:111:f400:7c0c::115) by
+ DM2PR01CA004.outlook.office365.com (2a01:111:e400:2414::44) with Microsoft
+ SMTP Server (TLS) id 15.0.969.15 via Frontend Transport; Sat, 21 Jun 2014
+ 04:50:41 +0000
+Received: from eastrmfepo102.cox.net (68.230.241.214) by
+ BY2FFO11FD045.mail.protection.outlook.com (10.1.15.177) with Microsoft SMTP
+ Server id 15.0.969.12 via Frontend Transport; Sat, 21 Jun 2014 04:50:40 +0000
+Received: from eastrmimpo209 ([68.230.241.224]) by eastrmfepo102.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140621045040.ZGPW18526.eastrmfepo102.cox.net@eastrmimpo209>
+          for <feedback_tvconnect.labs@cox.com>;          Sat, 21 Jun 2014
+ 00:50:40 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo209 with cox	id
+ Gsqg1o0050rkN0201sqgFb; Sat, 21 Jun 2014 00:50:40 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A02020A.53A50F20.003A,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=H/cFNZki c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=wYGG_SPudfAA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=A7qsHLDHAAAA:8 a=5o7YnBrIWBhJ8_WqRvgA:9
+ a=CjuIK1q_8ugA:10 a=FvcGw8SeNewA:10 a=c_KS6Sri2TwA:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sat, 21 Jun 2014 04:50:40 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <5847968.251403326240254.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.3.1 on iPad -- streaming video
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.214;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DM2PR01MB381;H:eastrmfepo102.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH11.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: d4f5d6d9-bf70-424c-39dc-08d15b2381f2
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH46.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad4,5
+OS Version     = 7.1.1
+App Version    = 1.3.1
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = cbe2b2d54657d90fd23bd04dcf96211a4055f6ac
+Account GUID   = 1c8d5db0-36b5-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      = 192.168.1.8
+Profile name   = dan
+Is Analog      = false
+Controller ID  = 3492
+ChannelMap ID  = 3469
+IDM Login Name = pmaag
+Tutorial viewed to end = false
+Last 5 errors = (
+    203,
+    203,
+    203,
+    203,
+    122
+)
+
+External IP of Device     = 68.13.157.210
+
+Sender Information:
+Name          = 
+Email         = drbeninato@premiersmile.com
+Feedback Type = streaming video
+
+
