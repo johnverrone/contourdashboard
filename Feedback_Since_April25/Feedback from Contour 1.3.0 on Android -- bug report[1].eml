@@ -1,0 +1,94 @@
+Received: from CATL0EXCH07.CORP.COX.com (10.62.10.17) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Mon, 9 Jun 2014 15:21:03 -0400
+Received: from CATL0EXCH42.CORP.COX.com (10.62.10.26) by
+ CATL0EXCH07.corp.cox.com (10.62.10.17) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Mon, 9 Jun 2014 15:21:02 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH42.CORP.COX.com (10.62.10.26) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Mon, 9 Jun 2014 15:21:02 -0400
+Received: from BY2PR01CA013.prod.exchangelabs.com (10.242.234.171) by
+ BY2PR01MB251.prod.exchangelabs.com (10.242.233.20) with Microsoft SMTP Server
+ (TLS) id 15.0.954.9; Mon, 9 Jun 2014 19:20:59 +0000
+Received: from BY2FFO11FD006.protection.gbl (2a01:111:f400:7c0c::193) by
+ BY2PR01CA013.outlook.office365.com (2a01:111:e400:2c2c::43) with Microsoft
+ SMTP Server (TLS) id 15.0.959.24 via Frontend Transport; Mon, 9 Jun 2014
+ 19:20:58 +0000
+Received: from eastrmfepo201.cox.net (68.230.241.216) by
+ BY2FFO11FD006.mail.protection.outlook.com (10.1.14.127) with Microsoft SMTP
+ Server id 15.0.959.15 via Frontend Transport; Mon, 9 Jun 2014 19:20:58 +0000
+Received: from eastrmimpo209 ([68.230.241.224]) by eastrmfepo201.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140609192058.XNQB31475.eastrmfepo201.cox.net@eastrmimpo209>
+          for <feedback_tvconnect.labs@cox.com>;          Mon, 9 Jun 2014
+ 15:20:58 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo209 with cox	id
+ CKLx1o00J0rkN0201KLxPY; Mon, 09 Jun 2014 15:20:57 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020201.53960919.0186,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=H/cFNZki c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=39mhYEkVPJ4A:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=AUd_NHdVAAAA:8 a=wqC0XnFB-95uSQAakVMA:9
+ a=CjuIK1q_8ugA:10 a=_qvorNxd9okA:10 a=JfD0Fch1gWkA:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Mon, 9 Jun 2014 19:20:57 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <304812.731402341657775.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.3.0 on Android -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.216;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB251;H:eastrmfepo201.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH07.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 522c7bad-04df-4ec8-7f49-08d1522f1665
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH42.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform = Android OS
+Device Type = "Android, samsung, santos10wifiue, GT-P5210 |
+screen.pixels=1280x800 | screen.dpi=149.824x149.411"
+OS Version = 4.2.2
+App Version = 1.3.0a
+App Name = Contour
+Business Type = Residential
+Business Name = Residential
+DRM ID = bbe67cdd7ec9abbd
+Account GUID = 6144fc80-f410-11e0-8130-00144fcbed8c
+Is In Home = true
+Device IP = "fe80::781f:dbff:fe9e:35e2%p2p0"
+Profile name = primary
+Is Analog = false
+Controller ID = 3496
+ChannelMap ID =3401
+IDM Login Name = coxatltest2
+Tutorial Viewed to End = false
+Last 5 Errors = 181 402,181 402,181 402
+External IP of Device     = 199.117.35.36
+
+Sender Information:
+Name          = yeezus
+Email         = jeyee@cisco.com
+Feedback Type = bug report
+
+

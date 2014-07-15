@@ -1,0 +1,105 @@
+Received: from CARZ0EXCH19.CORP.COX.com (10.8.64.19) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Tue, 17 Jun 2014 18:37:18 -0400
+Received: from CARZ0EXCH44.CORP.COX.com (10.8.64.27) by
+ CARZ0EXCH19.corp.cox.com (10.8.64.19) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 17 Jun 2014 15:37:16 -0700
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH44.CORP.COX.com (10.8.64.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Tue, 17 Jun 2014 15:37:16 -0700
+Received: from BY2PR01CA0035.prod.exchangelabs.com (10.255.242.25) by
+ BY2PR01MB377.prod.exchangelabs.com (10.141.139.147) with Microsoft SMTP
+ Server (TLS) id 15.0.959.24; Tue, 17 Jun 2014 22:36:52 +0000
+Received: from BN1BFFO11FD047.protection.gbl (2a01:111:f400:7c10::1:199) by
+ BY2PR01CA0035.outlook.office365.com (2a01:111:e400:2c76::25) with Microsoft
+ SMTP Server (TLS) id 15.0.969.15 via Frontend Transport; Tue, 17 Jun 2014
+ 22:36:52 +0000
+Received: from eastrmfepo103.cox.net (68.230.241.215) by
+ BN1BFFO11FD047.mail.protection.outlook.com (10.58.145.2) with Microsoft SMTP
+ Server id 15.0.959.15 via Frontend Transport; Tue, 17 Jun 2014 22:36:51 +0000
+Received: from eastrmimpo209 ([68.230.241.224]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140617223651.XJKR31158.eastrmfepo103.cox.net@eastrmimpo209>
+          for <feedback_tvconnect.labs@cox.com>;          Tue, 17 Jun 2014
+ 18:36:51 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo209 with cox	id
+ Facr1o00K0qShfm01acr3L; Tue, 17 Jun 2014 18:36:51 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A02020A.53A0C303.00AB,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=H/cFNZki c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=X90vKPy7HzQA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=MGWu1RWBByVpkYJWhv8A:9 a=CjuIK1q_8ugA:10 a=QNefvz5Suk0A:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Tue, 17 Jun 2014 22:36:51 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <31360846.51403044611547.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.3.1 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.215;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB377;H:eastrmfepo103.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH19.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 697baaaa-5929-4500-fe50-08d15893d33a
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH44.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Why are there channels missing from the guide?  In particular, ESPN which
+is carrying the World Cup.  Even if you can't watch the channels live thru
+Contour, all channels on the cable should be listed in the guide.   I wanted
+to set up recording of a World Cup match via the Contour ap & couldn't do it
+since channel isn't listed in the guide.  There is a link in Contour for the
+ESPN ap.
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,4
+OS Version     = 7.1.1
+App Version    = 1.3.1
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = 7af0436097401a8add7030d68b9f4a747fcd8060
+Account GUID   = a79b7b90-aa95-11e2-ac95-14feb5d9513a
+Is In Home     = true
+Device IP      = 192.168.0.6
+Profile name   = poppie
+Is Analog      = false
+Controller ID  = 3496
+ChannelMap ID  = 3401
+IDM Login Name = danamt@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    162,
+    182,
+    182,
+    182,
+    182
+)
+
+External IP of Device     = 72.218.225.36
+
+Sender Information:
+Name          = Floyd Taylor
+Email         = fbtjr1947@gmail.com
+Feedback Type = bug report
+
+

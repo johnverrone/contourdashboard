@@ -1,0 +1,106 @@
+Received: from CARZ0EXCH18.CORP.COX.com (10.8.64.18) by
+ CATL0MS402.corp.cox.com (10.62.236.89) with Microsoft SMTP Server (TLS) id
+ 8.3.298.1; Mon, 5 May 2014 19:07:48 -0400
+Received: from CARZ0EXCH46.CORP.COX.com (10.8.64.29) by
+ CARZ0EXCH18.corp.cox.com (10.8.64.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Mon, 5 May 2014 16:07:34 -0700
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH46.CORP.COX.com (10.8.64.29) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Mon, 5 May 2014 16:07:34 -0700
+Received: from BLUPR01CA003.prod.exchangelabs.com (10.255.223.161) by
+ BLUPR01MB305.prod.exchangelabs.com (10.242.202.13) with Microsoft SMTP Server
+ (TLS) id 15.0.934.12; Mon, 5 May 2014 23:07:27 +0000
+Received: from BY2FFO11FD009.protection.gbl (2a01:111:f400:7c0c::114) by
+ BLUPR01CA003.outlook.office365.com (2a01:111:e400:841::33) with Microsoft
+ SMTP Server (TLS) id 15.0.939.12 via Frontend Transport; Mon, 5 May 2014
+ 23:07:26 +0000
+Received: from eastrmfepo102.cox.net (68.230.241.214) by
+ BY2FFO11FD009.mail.protection.outlook.com (10.1.14.73) with Microsoft SMTP
+ Server id 15.0.929.8 via Frontend Transport; Mon, 5 May 2014 23:07:26 +0000
+Received: from eastrmimpo209 ([68.230.241.224]) by eastrmfepo102.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140505230726.FOCV18526.eastrmfepo102.cox.net@eastrmimpo209>
+          for <feedback_tvconnect.labs@cox.com>;          Mon, 5 May 2014
+ 19:07:26 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo209 with cox	id
+ yP7R1n00J0rkN0201P7RoP; Mon, 05 May 2014 19:07:25 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020208.536819AD.01CF,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=H/cFNZki c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=N_j-UZcehzkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=WCYpqGzFQK8eB6oZ0k8A:9 a=CjuIK1q_8ugA:10 a=m-7D_ueiw9wA:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Mon, 5 May 2014 23:07:25 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <25087281.01399331245945.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.214;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB305;H:eastrmfepo102.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH18.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+iPad cannot download iOS 7, crashes on
+many games easily,  and starting to lose lots of battery without
+use
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    =
+iPad2,4
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       =
+Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID
+= 239ddaec9168c12a38433fc84b50a457787f4a4d
+Account GUID   =
+b4687890-fe15-11e2-9f87-14feb5d9357d
+Is In Home     = false
+Device IP      =
+192.168.1.80
+Profile name   = michelle
+Is Analog      = false
+Controller ID
+= 3450
+ChannelMap ID  = 21
+IDM Login Name = camelback0229@cox.net
+Tutorial
+viewed to end = false
+Last 5 errors = (
+    752,
+    752,
+    752,
+    182,
+
+182
+)
+
+External IP of Device     = 184.186.223.110
+
+Sender Information:
+Name
+= 
+Email         = josefinasanchez81@gmail.com
+Feedback Type = bug report
+
+

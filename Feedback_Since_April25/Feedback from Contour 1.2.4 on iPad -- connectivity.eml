@@ -1,0 +1,96 @@
+Received: from CARZ0EXCH20.CORP.COX.com (10.8.64.20) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Wed, 11 Jun 2014 21:09:42 -0400
+Received: from CARZ0EXCH95.CORP.COX.com (10.8.64.86) by
+ CARZ0EXCH20.corp.cox.com (10.8.64.20) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 11 Jun 2014 18:09:40 -0700
+Received: from CARZ0EXCH45.CORP.COX.com (10.8.64.28) by
+ carz0exch95.corp.cox.com (10.8.64.86) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 11 Jun 2014 18:09:21 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH45.CORP.COX.com (10.8.64.28) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Wed, 11 Jun 2014 18:09:20 -0700
+Received: from BLUPR01CA048.prod.exchangelabs.com (25.160.23.38) by
+ BLUPR01MB376.prod.exchangelabs.com (10.141.76.153) with Microsoft SMTP Server
+ (TLS) id 15.0.954.9; Thu, 12 Jun 2014 01:08:45 +0000
+Received: from BL2FFO11FD057.protection.gbl (2a01:111:f400:7c09::163) by
+ BLUPR01CA048.outlook.office365.com (2a01:111:e400:8a4::38) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Thu, 12 Jun 2014
+ 01:08:45 +0000
+Received: from eastrmfepo103.cox.net (68.230.241.215) by
+ BL2FFO11FD057.mail.protection.outlook.com (10.173.161.185) with Microsoft
+ SMTP Server id 15.0.959.15 via Frontend Transport; Thu, 12 Jun 2014 01:08:45
+ +0000
+Received: from eastrmimpo109 ([68.230.241.222]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140612010844.DHHT31158.eastrmfepo103.cox.net@eastrmimpo109>
+          for <feedback_tvconnect.labs@cox.com>;          Wed, 11 Jun 2014
+ 21:08:44 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo109 with cox	id
+ DD8k1o00T0rkN0201D8k39; Wed, 11 Jun 2014 21:08:44 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020204.5398FD9C.00C5,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=F4SJgNdN c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=HHnKNuHZuqBPArBXwNgA:9 a=CjuIK1q_8ugA:10 a=LzjA7Yqm2KcA:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Thu, 12 Jun 2014 01:08:44 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <33440366.881402535324812.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.215;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB376;H:eastrmfepo103.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-Network-Message-Id: 50e3d370-e3ed-48c3-417e-08d153f213ae
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH45.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,4
+OS Version     = 7.0
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 5cd2eb1aee4250c92f740b0b1901275c34114667
+Account GUID   = c8002550-4fd4-11e2-b47b-14feb5d95de2
+Is In Home     = false
+Device IP      = 10.1.1.101
+Profile name   = tturley
+Is Analog      = false
+Controller ID  = 3496
+ChannelMap ID  = 3401
+IDM Login Name = tturley13@cox.net
+Tutorial viewed to end = false
+Last 1 errors = (
+    "No errors."
+)
+
+External IP of Device     = 68.10.23.110
+
+Sender Information:
+Name          = 
+Email         = tturley@gmail.com
+Feedback Type = connectivity
+
+

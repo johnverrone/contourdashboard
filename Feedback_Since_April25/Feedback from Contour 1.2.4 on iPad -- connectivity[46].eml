@@ -1,0 +1,97 @@
+Received: from CARZ0EXCH18.CORP.COX.com (10.8.64.18) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Thu, 29 May 2014 20:38:01 -0400
+Received: from CARZ0EXCH44.CORP.COX.com (10.8.64.27) by
+ CARZ0EXCH18.corp.cox.com (10.8.64.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Thu, 29 May 2014 17:37:59 -0700
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH44.CORP.COX.com (10.8.64.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Thu, 29 May 2014 17:37:59 -0700
+Received: from BLUPR01CA032.prod.exchangelabs.com (25.160.23.22) by
+ BLUPR01MB291.prod.exchangelabs.com (10.242.202.17) with Microsoft SMTP Server
+ (TLS) id 15.0.949.11; Fri, 30 May 2014 00:36:22 +0000
+Received: from BN1AFFO11FD018.protection.gbl (2a01:111:f400:7c10::147) by
+ BLUPR01CA032.outlook.office365.com (2a01:111:e400:8a4::22) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Fri, 30 May 2014
+ 00:36:21 +0000
+Received: from eastrmfepo101.cox.net (68.230.241.213) by
+ BN1AFFO11FD018.mail.protection.outlook.com (10.58.52.78) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Fri, 30 May 2014 00:36:21 +0000
+Received: from eastrmimpo305 ([68.230.241.237]) by eastrmfepo101.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140530003621.HSYP30009.eastrmfepo101.cox.net@eastrmimpo305>
+          for <feedback_tvconnect.labs@cox.com>;          Thu, 29 May 2014
+ 20:36:21 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo305 with cox	id
+ 80cM1o0050qShfm010cM7Q; Thu, 29 May 2014 20:36:21 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020205.5387D285.0051,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=CMj0q2XD c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=8c10LWGHLrIyXtKWbSsA:9
+ a=CjuIK1q_8ugA:10 a=LiUU1x2IWMIA:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Fri, 30 May 2014 00:36:21 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <24431883.71401410181265.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.213;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB291;H:eastrmfepo101.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH18.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 9a5bb2b4-590d-4621-3c28-08d149b68ab9
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH44.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Why does the contour app say "out of home mode" even though I'm hooked up
+to my cox internet wifi in home?
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad3,4
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 14f315db3714c566c9347aa16e440810c5bbc053
+Account GUID   = e9f1ffb0-ae4d-11df-b4a7-00212810c176
+Is In Home     = false
+Device IP      = 10.0.1.7
+Profile name   = other
+Is Analog      = false
+Controller ID  = 3489
+ChannelMap ID  = 3402
+IDM Login Name = j.giammarino@cox.net
+Tutorial viewed to end = false
+Last 2 errors = (
+    203,
+    752
+)
+
+External IP of Device     = 68.14.128.192
+
+Sender Information:
+Name          = jesse
+Email         = j.giammarino@cox.net
+Feedback Type = connectivity
+
+

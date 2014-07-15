@@ -1,0 +1,98 @@
+Received: from CARZ0EXCH18.CORP.COX.com (10.8.64.18) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Tue, 20 May 2014 21:25:34 -0400
+Received: from CARZ0EXCH44.CORP.COX.com (10.8.64.27) by
+ CARZ0EXCH18.corp.cox.com (10.8.64.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 20 May 2014 18:25:32 -0700
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH44.CORP.COX.com (10.8.64.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Tue, 20 May 2014 18:25:26 -0700
+Received: from DM2PR01CA005.prod.exchangelabs.com (10.141.52.173) by
+ BLUPR01MB305.prod.exchangelabs.com (10.242.202.13) with Microsoft SMTP Server
+ (TLS) id 15.0.944.11; Wed, 21 May 2014 01:25:20 +0000
+Received: from BY2FFO11FD011.protection.gbl (2a01:111:f400:7c0c::181) by
+ DM2PR01CA005.outlook.office365.com (2a01:111:e400:2414::45) with Microsoft
+ SMTP Server (TLS) id 15.0.944.11 via Frontend Transport; Wed, 21 May 2014
+ 01:25:19 +0000
+Received: from eastrmfepo201.cox.net (68.230.241.216) by
+ BY2FFO11FD011.mail.protection.outlook.com (10.1.14.129) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Wed, 21 May 2014 01:25:19 +0000
+Received: from eastrmimpo210 ([68.230.241.225]) by eastrmfepo201.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140521012518.CEEK31475.eastrmfepo201.cox.net@eastrmimpo210>
+          for <feedback_tvconnect.labs@cox.com>;          Tue, 20 May 2014
+ 21:25:18 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo210 with cox	id
+ 4RRJ1o00H0rkN0201RRJf6; Tue, 20 May 2014 21:25:18 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020204.537C007E.0099,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=aZC/a2Ut c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=3WeNyt34tdkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=CjxXgO3LAAAA:8
+ a=oqUxeoKU9CIZcHsBLMsA:9 a=CjuIK1q_8ugA:10 a=0TYI_wWP6oIA:10
+ a=4vB-4DCPJfMA:10 a=rC2wZJ5BpNYA:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Wed, 21 May 2014 01:25:18 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <3624814.181400635518701.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- streaming video
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.216;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB305;H:eastrmfepo201.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH18.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: f2c2fe99-f55f-4232-ed13-08d142aab18c
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH44.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad4,4
+OS Version     = 7.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = d823f8f1ae904af7ff1d87053c56be036da20912
+Account GUID   = 85895eb0-1128-11de-a1fc-00144f3c3846
+Is In Home     = true
+Device IP      = 192.168.0.17
+Profile name   = collins
+Is Analog      = false
+Controller ID  = 3451
+ChannelMap ID  = 26
+IDM Login Name = kayla08@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    206,
+    206,
+    206,
+    206,
+    102
+)
+
+External IP of Device     = 72.201.21.238
+
+Sender Information:
+Name          = Collins
+Email         = c_appiah74@yahoo.com
+Feedback Type = streaming video
+
+

@@ -1,0 +1,35 @@
+<nav class="navbar navbar-default" role="navigation">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="#">App Store Reviews</a>
+		</div>
+		<form class="navbar-form navbar-left" role="search">
+		  <div class="form-group">
+		    <input type="text" class="form-control" placeholder="Search" width="100%" ng-model="searchText">
+		  </div>
+			<div class="btn-group">
+			  <button type="button" class="btn btn-default">1</button>
+			  <button type="button" class="btn btn-default">2</button>
+			  <button type="button" class="btn btn-default">3</button>
+				<button type="button" class="btn btn-default">4</button>
+				<button type="button" class="btn btn-default">5</button>
+			</div>
+		</form>
+	</div>
+</nav>
+
+<p align="right">Showing {{filtered.length - 1}} reviews</p>
+<ul class="list-group">
+	<li class="list-group-item" ng-repeat="review in filtered = (reviews | filter:searchText | orderBy:'date':true)" ng-show="!$first">
+		<h4 class="list-group-item-heading inline">{{ review.title }}</h4> <span class="glyphicon glyphicon-star" ng-repeat="i in reviews | limitTo: review['im:rating']['#']"></span>
+		<p class="list-group-item-text">by {{ review.author }} - Version {{ review['im:version']['#'] }} - {{ review.date | date : medium}}</p>
+		<br />
+		<p class="list-group-item-text">{{ review.description }}</p>
+	</li>
+</ul>

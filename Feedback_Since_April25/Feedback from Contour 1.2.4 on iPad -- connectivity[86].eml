@@ -1,0 +1,98 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Tue, 20 May 2014 18:21:11 -0400
+Received: from CATL0EXCH40.CORP.COX.com (10.62.10.24) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 20 May 2014 18:21:09 -0400
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH40.CORP.COX.com (10.62.10.24) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Tue, 20 May 2014 18:21:10 -0400
+Received: from BLUPR01CA010.prod.exchangelabs.com (10.255.223.168) by
+ BLUPR01MB307.prod.exchangelabs.com (10.242.202.15) with Microsoft SMTP Server
+ (TLS) id 15.0.944.11; Tue, 20 May 2014 22:20:42 +0000
+Received: from BN1AFFO11FD051.protection.gbl (2a01:111:f400:7c10::133) by
+ BLUPR01CA010.outlook.office365.com (2a01:111:e400:841::40) with Microsoft
+ SMTP Server (TLS) id 15.0.944.11 via Frontend Transport; Tue, 20 May 2014
+ 22:20:42 +0000
+Received: from eastrmfepo101.cox.net (68.230.241.213) by
+ BN1AFFO11FD051.mail.protection.outlook.com (10.58.53.66) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Tue, 20 May 2014 22:20:41 +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo101.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140520222041.DPZQ30009.eastrmfepo101.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Tue, 20 May 2014
+ 18:20:41 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo306 with cox	id
+ 4NLh1o0090rkN0201NLh3g; Tue, 20 May 2014 18:20:41 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020208.537BD539.00A4,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=LtdMPAhc c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=CjxXgO3LAAAA:8
+ a=IcbO5UsrFoFEnetvy3IA:9 a=CjuIK1q_8ugA:10 a=Xp9oYpgNWvQA:10
+ a=4vB-4DCPJfMA:10 a=rC2wZJ5BpNYA:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Tue, 20 May 2014 22:20:41 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <2371761.171400624441350.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.213;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB307;H:eastrmfepo101.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 22d5ea2d-94b6-4990-5609-08d14290ef80
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH40.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad4,1
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = b0f43242c986b0b80f14c4d83e610a0b6bdf1466
+Account GUID   = bc2855a0-863a-11e0-bd9a-00144f8c34bc
+Is In Home     = false
+Device IP      = 10.6.20.171
+Profile name   = will
+Is Analog      = false
+Controller ID  = 3496
+ChannelMap ID  = 3401
+IDM Login Name = will41157@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    182,
+    102,
+    210,
+    210,
+    210
+)
+
+External IP of Device     = 68.167.49.154
+
+Sender Information:
+Name          = Will
+Email         = deepsea1624@yahoo.com
+Feedback Type = connectivity
+
+

@@ -1,0 +1,96 @@
+Received: from CARZ0EXCH19.CORP.COX.com (10.8.64.19) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Wed, 4 Jun 2014 20:48:29 -0400
+Received: from CARZ0EXCH46.CORP.COX.com (10.8.64.29) by
+ CARZ0EXCH19.corp.cox.com (10.8.64.19) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 4 Jun 2014 17:48:27 -0700
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH46.CORP.COX.com (10.8.64.29) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Wed, 4 Jun 2014 17:48:27 -0700
+Received: from BLUPR01CA009.prod.exchangelabs.com (10.255.223.167) by
+ BLUPR01MB375.prod.exchangelabs.com (10.141.76.149) with Microsoft SMTP Server
+ (TLS) id 15.0.954.9; Thu, 5 Jun 2014 00:48:17 +0000
+Received: from BN1BFFO11FD006.protection.gbl (2a01:111:f400:7c10::1:118) by
+ BLUPR01CA009.outlook.office365.com (2a01:111:e400:841::39) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Thu, 5 Jun 2014
+ 00:48:17 +0000
+Received: from eastrmfepo101.cox.net (68.230.241.213) by
+ BN1BFFO11FD006.mail.protection.outlook.com (10.58.144.69) with Microsoft SMTP
+ Server id 15.0.959.15 via Frontend Transport; Thu, 5 Jun 2014 00:48:16 +0000
+Received: from eastrmimpo210 ([68.230.241.225]) by eastrmfepo101.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140605004816.PTQE30009.eastrmfepo101.cox.net@eastrmimpo210>
+          for <feedback_tvconnect.labs@cox.com>;          Wed, 4 Jun 2014
+ 20:48:16 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo210 with cox	id
+ AQoG1o0030qShfm01QoGWV; Wed, 04 Jun 2014 20:48:16 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020203.538FBE50.0022,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=aZC/a2Ut c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=3WeNyt34tdkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=Ib5-uTfJ2tMyZed4ExEA:9
+ a=CjuIK1q_8ugA:10 a=mA78QyVFU4QA:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Thu, 5 Jun 2014 00:48:16 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <32966085.621401929296114.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- streaming video
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.213;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB375;H:eastrmfepo101.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH19.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 044df11e-4b0e-47eb-57b9-08d14e6eff40
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH46.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad3,2
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 15c6ebd2fa5ffc4215d7377ea648cb64285fdc53
+Account GUID   = ac46a521-36be-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      = 192.168.1.172
+Profile name   = steven
+Is Analog      = false
+Controller ID  = 3459
+ChannelMap ID  = 304
+IDM Login Name = estark1@cox.net
+Tutorial viewed to end = false
+Last 1 errors = (
+    752
+)
+
+External IP of Device     = 70.171.7.246
+
+Sender Information:
+Name          = 
+Email         = estark1@cox.net
+Feedback Type = streaming video
+
+

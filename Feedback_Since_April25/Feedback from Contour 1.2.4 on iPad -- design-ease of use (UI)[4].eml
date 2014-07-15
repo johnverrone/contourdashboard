@@ -1,0 +1,141 @@
+Received: from CARZ0EXCH14.CORP.COX.com (10.8.64.14) by
+ CATL0MS404.corp.cox.com (10.62.236.93) with Microsoft SMTP Server (TLS) id
+ 8.3.298.1; Mon, 28 Apr 2014 18:25:09 -0400
+Received: from CARZ0EXCH47.CORP.COX.com (10.8.64.30) by
+ CARZ0EXCH14.corp.cox.com (10.8.64.14) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Mon, 28 Apr 2014 15:24:56 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH47.CORP.COX.com (10.8.64.30) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Mon, 28 Apr 2014 15:24:56 -0700
+Received: from BY2PR01CA016.prod.exchangelabs.com (10.242.234.174) by
+ BY2PR01MB313.prod.exchangelabs.com (10.242.232.147) with Microsoft SMTP
+ Server (TLS) id 15.0.929.12; Mon, 28 Apr 2014 22:24:55 +0000
+Received: from BN1AFFO11FD049.protection.gbl (2a01:111:f400:7c10::160) by
+ BY2PR01CA016.outlook.office365.com (2a01:111:e400:2c2c::46) with Microsoft
+ SMTP Server (TLS) id 15.0.929.12 via Frontend Transport; Mon, 28 Apr 2014
+ 22:24:55 +0000
+Received: from eastrmfepo102.cox.net (68.230.241.214) by
+ BN1AFFO11FD049.mail.protection.outlook.com (10.58.53.64) with Microsoft SMTP
+ Server id 15.0.929.8 via Frontend Transport; Mon, 28 Apr 2014 22:24:53 +0000
+Received: from eastrmimpo210 ([68.230.241.225]) by eastrmfepo102.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140428222453.NMGM18526.eastrmfepo102.cox.net@eastrmimpo210>
+          for <feedback_tvconnect.labs@cox.com>;          Mon, 28 Apr 2014
+ 18:24:53 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo210 with cox	id
+ vaQt1n00D0rkN0201aQtpJ; Mon, 28 Apr 2014 18:24:53 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020204.535ED535.00AD,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=aZC/a2Ut c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=ICiKbKKLFKgA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=CjxXgO3LAAAA:8
+ a=OwWi-zNy1XXes9T2pXkA:9 a=CjuIK1q_8ugA:10 a=87SfHiV2SyIA:10
+ a=4vB-4DCPJfMA:10 a=rC2wZJ5BpNYA:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Mon, 28 Apr 2014 22:24:53 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <25572060.851398723893433.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- design/ease of use (UI)
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.214;CTRY:US;IPV:CAL;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB313;H:eastrmfepo102.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH14.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Hello,
+
+For your App Design people.
+You need to be made aware that you have designed the most useless and
+confusing and non-functional app I have EVER seen, and I have at least 350
+apps on my device.
+
+Now, I must say it does "cool things" in the same way
+that one could say that some CGI graphics are cool in a movie. However in a
+movie, if the story is totally nonsensical and is an "assault upon the human
+brain" - that would be a description of your app.
+
+People want to "do
+something useful" with an app, and if it's an app that has "shows" on it,
+then it means one wants to do something useful in accessing those shows and
+seeing those shows.
+
+Your app has done nothing but ASSAULT ME in trying to
+do ANYTHING useful with shows. It's amazing to see that this level of
+assault was even possible ... but you have certainly accomplished it.
+
+I'm
+totally flabbergasted it was even possible to have app design people put
+together something that "looks cool" and yet assaults the user at the same
+time.
+
+I hope you get some new design people and TOTALLY REWRITE your app
+from the ground up, starting with a concept that has RATIONALITY attached to
+it.
+
+I don't hardly ever write to complain about things, but you have
+certainly managed to get me to do so with this app.
+
+David
+Hindman
+
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    =
+iPad3,5
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       =
+Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID
+= b42dc9a810cf5630d220453bc48a68b14377362d
+Account GUID   =
+697cc263-36b4-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      =
+10.0.1.5
+Profile name   = david
+Is Analog      = false
+Controller ID  =
+3493
+ChannelMap ID  = 3495
+IDM Login Name = shaymarshall@cox.net
+Tutorial
+viewed to end = false
+Last 5 errors = (
+    102,
+    102,
+    102,
+    752,
+
+752
+)
+
+External IP of Device     = 72.192.77.15
+
+Sender Information:
+Name
+= David Hindman
+Email         = dhindman6640@yahoo.com
+Feedback Type =
+design/ease of use (UI)
+
+

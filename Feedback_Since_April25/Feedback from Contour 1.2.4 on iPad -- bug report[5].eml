@@ -1,0 +1,100 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Tue, 3 Jun 2014 06:22:30 -0400
+Received: from CATL0EXCH40.CORP.COX.com (10.62.10.24) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 3 Jun 2014 06:22:29 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH40.CORP.COX.com (10.62.10.24) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Tue, 3 Jun 2014 06:22:29 -0400
+Received: from BY2PR01CA016.prod.exchangelabs.com (10.242.234.174) by
+ BY2PR01MB377.prod.exchangelabs.com (10.141.139.147) with Microsoft SMTP
+ Server (TLS) id 15.0.949.11; Tue, 3 Jun 2014 10:22:26 +0000
+Received: from BN1BFFO11FD042.protection.gbl (2a01:111:f400:7c10::1:141) by
+ BY2PR01CA016.outlook.office365.com (2a01:111:e400:2c2c::46) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Tue, 3 Jun 2014
+ 10:22:25 +0000
+Received: from eastrmfepo202.cox.net (68.230.241.217) by
+ BN1BFFO11FD042.mail.protection.outlook.com (10.58.144.105) with Microsoft
+ SMTP Server id 15.0.949.9 via Frontend Transport; Tue, 3 Jun 2014 10:22:25
+ +0000
+Received: from eastrmimpo209 ([68.230.241.224]) by eastrmfepo202.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140603102225.BBPC22448.eastrmfepo202.cox.net@eastrmimpo209>
+          for <feedback_tvconnect.labs@cox.com>;          Tue, 3 Jun 2014
+ 06:22:25 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo209 with cox	id
+ 9mNR1o0060qShfm01mNRMe; Tue, 03 Jun 2014 06:22:25 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020203.538DA1E1.005F,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=H/cFNZki c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=N_j-UZcehzkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=Qu9AfO1oE-uu4JttO60A:9
+ a=CjuIK1q_8ugA:10 a=EuYK7iTKFYcA:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Tue, 3 Jun 2014 10:22:25 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <8987675.441401790945203.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.217;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB377;H:eastrmfepo202.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 0accc1c2-25ae-4c30-a538-08d14d2cdb67
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH40.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,3
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 5da315055d759cb8b9e09d64364bd1a4137c3ca5
+Account GUID   = aa85e255-36be-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      = 192.168.1.116
+Profile name   = gary
+Is Analog      = false
+Controller ID  = 3452
+ChannelMap ID  = 226
+IDM Login Name = gchope754@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    182,
+    182,
+    122,
+    126,
+    126
+)
+
+External IP of Device     = 70.173.224.123
+
+Sender Information:
+Name          = Lolanda Bunch-Cooper
+Email         = nciclb@cox.net
+Feedback Type = bug report
+
+

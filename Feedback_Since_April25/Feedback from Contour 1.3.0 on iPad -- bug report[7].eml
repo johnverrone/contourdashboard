@@ -1,0 +1,116 @@
+Received: from CARZ0EXCH16.CORP.COX.com (10.8.64.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sun, 8 Jun 2014 12:31:34 -0400
+Received: from CARZ0EXCH14.CORP.COX.com (10.8.64.14) by
+ CARZ0EXCH16.corp.cox.com (10.8.64.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sun, 8 Jun 2014 09:31:32 -0700
+Received: from CARZ0EXCH44.CORP.COX.com (10.8.64.27) by
+ CARZ0EXCH14.corp.cox.com (10.8.64.14) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sun, 8 Jun 2014 09:31:12 -0700
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH44.CORP.COX.com (10.8.64.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sun, 8 Jun 2014 09:31:12 -0700
+Received: from BLUPR01CA006.prod.exchangelabs.com (10.255.223.164) by
+ BLUPR01MB373.prod.exchangelabs.com (10.141.76.143) with Microsoft SMTP Server
+ (TLS) id 15.0.954.9; Sun, 8 Jun 2014 16:30:49 +0000
+Received: from BL2FFO11FD041.protection.gbl (2a01:111:f400:7c09::122) by
+ BLUPR01CA006.outlook.office365.com (2a01:111:e400:841::36) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Sun, 8 Jun 2014
+ 16:30:48 +0000
+Received: from eastrmfepo201.cox.net (68.230.241.216) by
+ BL2FFO11FD041.mail.protection.outlook.com (10.173.161.137) with Microsoft
+ SMTP Server id 15.0.959.15 via Frontend Transport; Sun, 8 Jun 2014 16:30:48
+ +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo201.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140608163048.ZCTR31475.eastrmfepo201.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Sun, 8 Jun 2014
+ 12:30:48 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo306 with cox	id
+ BsWn1o00U0qShfm01sWnGe; Sun, 08 Jun 2014 12:30:47 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020208.53948FB8.000B,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=TblIQ2sh c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=RjQcGdaCdMUA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=o1OHuDzbAAAA:8
+ a=C_XmFskxAC6phAQ2yvoA:9 a=CjuIK1q_8ugA:10 a=AsS62rdog1gA:10
+ a=4vB-4DCPJfMA:10 a=ILCZio5HsAgA:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sun, 8 Jun 2014 16:30:47 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <25254136.911402245047977.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.3.0 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.216;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB373;H:eastrmfepo201.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH14.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: e8b7d9e4-d497-451d-a798-08d1514e323c
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH44.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Your app is terrible and does not work.  I cannot utilize the app as
+described.  I cannot watch live TV nor watch any on demand programming.  You
+took away the "TV Connect" app, which worked perfectly, and replaced it with
+this non-functioning, worthless waste of memory/storage space.  Why even
+make this app available when it does not work?  I wish FiOS was in this area
+as I would drop Cox in a heartbeat.  Since you do not have any competition
+in this area, you feel like you can treat customers any way you see fit,
+including making promises on your Contour app and service, getting people to
+sign up for it, taking their money, and failing to deliver.  You should be
+ashamed of yourselves.  I will tell all of my friends and family to stay
+away from Cox and sign up for satellite service if Verizon FiOS or Comcast
+is unavailable in their area.  You should give me a refund on my bill.   Cox
+is a fraud.
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,5
+OS Version     = 7.1
+App Version    = 1.3.0
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = 464a26e4d8d7768ede23bb512fbb65d3d2857cc5
+Account GUID   = da596720-a750-11e1-a954-14feb5d950bc
+Is In Home     = true
+Device IP      = 192.168.1.110
+Profile name   = tony
+Is Analog      = false
+Controller ID  = 3494
+ChannelMap ID  = 3461
+IDM Login Name = uvalaura@cox.net
+Tutorial viewed to end = true
+Last 5 errors = (
+    182,
+    182,
+    182,
+    182,
+    182
+)
+
+External IP of Device     = 24.254.157.48
+
+Sender Information:
+Name          = Tony
+Email         = tonybisese@verizon.net
+Feedback Type = bug report
+
+

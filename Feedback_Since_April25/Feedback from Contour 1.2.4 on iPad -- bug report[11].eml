@@ -1,0 +1,98 @@
+Received: from CATL0EXCH07.CORP.COX.com (10.62.10.17) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Fri, 23 May 2014 21:35:51 -0400
+Received: from CATL0EXCH42.CORP.COX.com (10.62.10.26) by
+ CATL0EXCH07.corp.cox.com (10.62.10.17) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Fri, 23 May 2014 21:35:49 -0400
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH42.CORP.COX.com (10.62.10.26) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Fri, 23 May 2014 21:35:49 -0400
+Received: from BY2PR01CA015.prod.exchangelabs.com (10.242.234.173) by
+ BY2PR01MB281.prod.exchangelabs.com (10.242.232.140) with Microsoft SMTP
+ Server (TLS) id 15.0.949.11; Sat, 24 May 2014 01:35:43 +0000
+Received: from BN1AFFO11FD021.protection.gbl (2a01:111:f400:7c10::156) by
+ BY2PR01CA015.outlook.office365.com (2a01:111:e400:2c2c::45) with Microsoft
+ SMTP Server (TLS) id 15.0.944.11 via Frontend Transport; Sat, 24 May 2014
+ 01:35:43 +0000
+Received: from eastrmfepo201.cox.net (68.230.241.216) by
+ BN1AFFO11FD021.mail.protection.outlook.com (10.58.52.81) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Sat, 24 May 2014 01:35:42 +0000
+Received: from eastrmimpo110 ([68.230.241.223]) by eastrmfepo201.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140524013542.EOLD31475.eastrmfepo201.cox.net@eastrmimpo110>
+          for <feedback_tvconnect.labs@cox.com>;          Fri, 23 May 2014
+ 21:35:42 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo110 with cox	id
+ 5dbi1o0020rkN0201dbiXo; Fri, 23 May 2014 21:35:42 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020204.537FF76E.0053,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=GKHW5JxK c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=N_j-UZcehzkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=QnnfGeSw3s2yUpGCAjEA:9
+ a=CjuIK1q_8ugA:10 a=ST5AFToeLH4A:10 a=4vB-4DCPJfMA:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sat, 24 May 2014 01:35:42 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <3786787.261400895342189.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.216;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB281;H:eastrmfepo201.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH07.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: e09a0354-d96b-4b7c-4648-08d14507a08c
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH42.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,3
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 654f406488c8849d30a6e582b98f5e2b9bb7faf6
+Account GUID   = ea875ea2-36ba-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      = 192.168.1.100
+Profile name   = kennykee
+Is Analog      = false
+Controller ID  = 3494
+ChannelMap ID  = 3461
+IDM Login Name = klkeen1@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    752,
+    122,
+    122,
+    122,
+    122
+)
+
+External IP of Device     = 68.230.255.159
+
+Sender Information:
+Name          = 
+Email         = klkeen1@cox.net
+Feedback Type = bug report
+
+

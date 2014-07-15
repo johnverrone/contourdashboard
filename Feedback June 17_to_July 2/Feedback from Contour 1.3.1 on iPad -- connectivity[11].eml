@@ -1,0 +1,102 @@
+Received: from CARZ0EXCH17.CORP.COX.com (10.8.64.17) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Mon, 30 Jun 2014 17:59:04 -0400
+Received: from CARZ0EXCH44.CORP.COX.com (10.8.64.27) by
+ CARZ0EXCH17.corp.cox.com (10.8.64.17) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Mon, 30 Jun 2014 14:59:02 -0700
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH44.CORP.COX.com (10.8.64.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Mon, 30 Jun 2014 14:59:02 -0700
+Received: from BLUPR01CA024.prod.exchangelabs.com (25.160.23.14) by
+ DM2PR01MB384.prod.exchangelabs.com (10.141.83.25) with Microsoft SMTP Server
+ (TLS) id 15.0.974.11; Mon, 30 Jun 2014 21:58:39 +0000
+Received: from BL2FFO11FD013.protection.gbl (2a01:111:f400:7c09::111) by
+ BLUPR01CA024.outlook.office365.com (2a01:111:e400:8a4::14) with Microsoft
+ SMTP Server (TLS) id 15.0.974.11 via Frontend Transport; Mon, 30 Jun 2014
+ 21:58:39 +0000
+Received: from eastrmfepo101.cox.net (68.230.241.213) by
+ BL2FFO11FD013.mail.protection.outlook.com (10.173.160.221) with Microsoft
+ SMTP Server id 15.0.969.12 via Frontend Transport; Mon, 30 Jun 2014 21:58:39
+ +0000
+Received: from eastrmimpo110 ([68.230.241.223]) by eastrmfepo101.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140630215839.LTBD30009.eastrmfepo101.cox.net@eastrmimpo110>
+          for <feedback_tvconnect.labs@cox.com>;          Mon, 30 Jun 2014
+ 17:58:39 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo110 with cox	id
+ Llye1o00T0rkN0201lyeBC; Mon, 30 Jun 2014 17:58:38 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A02020A.53B1DD8E.0117,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=GKHW5JxK c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=7nLqM_vkuyMA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=Zk3OmFfbAAAA:8
+ a=cw4UGLpRFl4DsaiLkBMA:9 a=CjuIK1q_8ugA:10 a=6l3jptHNpjkA:10
+ a=4vB-4DCPJfMA:10 a=x46t9oslO7cA:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Mon, 30 Jun 2014 21:58:38 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <7095094.301404165518708.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.3.1 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.213;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DM2PR01MB384;H:eastrmfepo101.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH17.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 0b25568a-6d54-488c-ae4a-08d162c5a34f
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH44.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,6
+OS Version     = 7.1.1
+App Version    = 1.3.1
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = c6014b292feefc369053765fd3a875ca127986aa
+Account GUID   = 77842120-4224-11e2-9a15-14feb5d9357d
+Is In Home     = true
+Device IP      = 192.168.0.3
+Profile name   = theo
+Is Analog      = false
+Controller ID  = 3496
+ChannelMap ID  = 3401
+IDM Login Name = theoreed@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    752,
+    182,
+    182,
+    182,
+    182
+)
+
+External IP of Device     = 70.160.80.131
+
+Sender Information:
+Name          = Theodore Reed
+Email         = theoreed@live.com
+Feedback Type = connectivity
+
+

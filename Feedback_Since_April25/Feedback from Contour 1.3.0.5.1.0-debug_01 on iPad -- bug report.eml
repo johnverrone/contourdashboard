@@ -1,0 +1,96 @@
+Received: from CARZ0EXCH18.CORP.COX.com (10.8.64.18) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Fri, 30 May 2014 11:19:33 -0400
+Received: from CARZ0EXCH46.CORP.COX.com (10.8.64.29) by
+ CARZ0EXCH18.corp.cox.com (10.8.64.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Fri, 30 May 2014 08:19:25 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH46.CORP.COX.com (10.8.64.29) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Fri, 30 May 2014 08:19:24 -0700
+Received: from BY2PR01CA0060.prod.exchangelabs.com (10.255.242.50) by
+ BY2PR01MB138.prod.exchangelabs.com (10.242.233.151) with Microsoft SMTP
+ Server (TLS) id 15.0.949.11; Fri, 30 May 2014 15:19:02 +0000
+Received: from BN1BFFO11FD035.protection.gbl (2a01:111:f400:7c10::1:181) by
+ BY2PR01CA0060.outlook.office365.com (2a01:111:e400:2c76::50) with Microsoft
+ SMTP Server (TLS) id 15.0.949.11 via Frontend Transport; Fri, 30 May 2014
+ 15:19:01 +0000
+Received: from eastrmfepo202.cox.net (68.230.241.217) by
+ BN1BFFO11FD035.mail.protection.outlook.com (10.58.144.98) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Fri, 30 May 2014 15:19:00 +0000
+Received: from eastrmimpo305 ([68.230.241.237]) by eastrmfepo202.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140530151900.BFWQ22448.eastrmfepo202.cox.net@eastrmimpo305>
+          for <feedback_tvconnect.labs@cox.com>;          Fri, 30 May 2014
+ 11:19:00 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo305 with cox	id
+ 8FK01o00J0qShfm01FK01r; Fri, 30 May 2014 11:19:00 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020201.5388A164.0157,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=CMj0q2XD c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=eIhxMilvRf8A:10 a=4_SLDrC1XOUA:10
+ a=5mJXXb0GGSAA:10 a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8
+ a=KX9F7eNP2CXxRi3hypMA:9 a=CjuIK1q_8ugA:10 a=aU4YuwbhZN4A:10
+ a=4vB-4DCPJfMA:10 a=qgZ896TVJDMA:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Fri, 30 May 2014 15:19:00 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <11965680.111401463140513.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.3.0.5.1.0-debug_01 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.217;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB138;H:eastrmfepo202.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH18.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: e7412bdc-c184-44cd-de2e-08d14a31ad1e
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH46.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Chillers channels is not showing the right show. Channel 366 is showing
+Godzilla but it show be dead snow
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,5
+OS Version     = 7.0.4
+App Version    = 1.3.0.5.1.0-debug_01
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = 3c3f52f5542250e2798e3f2ee33ea6966a3236a2
+Account GUID   = 372be6f0-d791-11e2-a608-14feb5d95de2
+Is In Home     = true
+Device IP      = 192.168.1.117
+Profile name   = prime
+Is Analog      = false
+Controller ID  = 3495
+ChannelMap ID  = 3461
+IDM Login Name = pve3@cox.net
+Tutorial viewed to end = false
+Last 1 errors = (
+    "No errors."
+)
+
+External IP of Device     = 174.68.242.171
+
+Sender Information:
+Name          = 
+Email         = sean.cox@cox.com
+Feedback Type = bug report
+
+

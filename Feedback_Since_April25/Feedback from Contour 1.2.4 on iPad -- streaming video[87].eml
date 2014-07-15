@@ -1,0 +1,103 @@
+Received: from CARZ0EXCH12.corp.cox.com (10.8.64.12) by
+ CATL0MS403.corp.cox.com (10.62.236.91) with Microsoft SMTP Server (TLS) id
+ 8.3.298.1; Wed, 30 Apr 2014 21:31:39 -0400
+Received: from CARZ0EXCH44.CORP.COX.com (10.8.64.27) by
+ CARZ0EXCH12.corp.cox.com (10.8.64.12) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 30 Apr 2014 18:31:19 -0700
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH44.CORP.COX.com (10.8.64.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Wed, 30 Apr 2014 18:31:19 -0700
+Received: from DM2PR01CA004.prod.exchangelabs.com (10.141.52.172) by
+ BY2PR01MB314.prod.exchangelabs.com (10.242.232.149) with Microsoft SMTP
+ Server (TLS) id 15.0.929.12; Thu, 1 May 2014 01:31:03 +0000
+Received: from BL2FFO11FD005.protection.gbl (2a01:111:f400:7c09::198) by
+ DM2PR01CA004.outlook.office365.com (2a01:111:e400:2414::44) with Microsoft
+ SMTP Server (TLS) id 15.0.934.12 via Frontend Transport; Thu, 1 May 2014
+ 01:31:02 +0000
+Received: from eastrmfepo102.cox.net (68.230.241.214) by
+ BL2FFO11FD005.mail.protection.outlook.com (10.173.161.1) with Microsoft SMTP
+ Server id 15.0.929.8 via Frontend Transport; Thu, 1 May 2014 01:31:02 +0000
+Received: from eastrmimpo210 ([68.230.241.225]) by eastrmfepo102.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140501013101.GSML18526.eastrmfepo102.cox.net@eastrmimpo210>
+          for <feedback_tvconnect.labs@cox.com>;          Wed, 30 Apr 2014
+ 21:31:01 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo210 with cox	id
+ wRX11n00L0qShfm01RX1bY; Wed, 30 Apr 2014 21:31:01 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A02020A.5361A3D5.0096,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=aZC/a2Ut c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=3WeNyt34tdkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=STi63E4pAfKEeFxZ3dgA:9
+ a=CjuIK1q_8ugA:10 a=Ma2ZYXG0uyUA:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Thu, 1 May 2014 01:31:01 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <22526363.1261398907861634.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- streaming video
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.214;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB314;H:eastrmfepo102.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH12.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+The  live stream does not stay
+connected.  On demand works fine.
+
+Customer Information:
+Platform       =
+iPhone OS
+Device Type    = iPad4,1
+OS Version     = 7.1.1
+App Version    =
+1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  =
+Residential
+Device UID     =
+5ec207e92b85848b08f0ae5f69028e17b9071c64
+Account GUID   =
+16ff93b4-36bd-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      =
+192.168.10.196
+Profile name   = jon
+Is Analog      = false
+Controller ID  =
+3489
+ChannelMap ID  = 3406
+IDM Login Name = spinelli4@cox.net
+Tutorial
+viewed to end = false
+Last 2 errors = (
+    167,
+    210
+)
+
+External IP of
+Device     = 68.9.55.109
+
+Sender Information:
+Name          = Jon
+Email
+= spinelli4@cox.ney
+Feedback Type = streaming video
+
+

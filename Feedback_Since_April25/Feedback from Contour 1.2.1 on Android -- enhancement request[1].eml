@@ -1,0 +1,93 @@
+Received: from CARZ0EXCH17.CORP.COX.com (10.8.64.17) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Mon, 2 Jun 2014 00:09:19 -0400
+Received: from CARZ0EXCH46.CORP.COX.com (10.8.64.29) by
+ CARZ0EXCH17.corp.cox.com (10.8.64.17) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sun, 1 Jun 2014 21:09:15 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH46.CORP.COX.com (10.8.64.29) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sun, 1 Jun 2014 21:09:15 -0700
+Received: from BLUPR01CA044.prod.exchangelabs.com (25.160.23.34) by
+ BLUPR01MB130.prod.exchangelabs.com (10.242.201.21) with Microsoft SMTP Server
+ (TLS) id 15.0.949.11; Mon, 2 Jun 2014 04:09:10 +0000
+Received: from BN1AFFO11FD020.protection.gbl (2a01:111:f400:7c10::141) by
+ BLUPR01CA044.outlook.office365.com (2a01:111:e400:8a4::34) with Microsoft
+ SMTP Server (TLS) id 15.0.949.11 via Frontend Transport; Mon, 2 Jun 2014
+ 04:09:10 +0000
+Received: from eastrmfepo203.cox.net (68.230.241.218) by
+ BN1AFFO11FD020.mail.protection.outlook.com (10.58.52.80) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Mon, 2 Jun 2014 04:09:10 +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140602040909.YMHG31964.eastrmfepo203.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Mon, 2 Jun 2014
+ 00:09:09 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo306 with cox	id
+ 9G991o00C0qShfm01G990v; Mon, 02 Jun 2014 00:09:09 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020209.538BF8E5.0069,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=MJG+brll c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=K0y2PcXy9S4A:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=H0pMXBbkJS6IedLbRcMA:9
+ a=CjuIK1q_8ugA:10 a=YHHQwFslMV4A:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Mon, 2 Jun 2014 04:09:09 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <4392257.341401682149390.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.1 on Android -- enhancement request
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.218;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB130;H:eastrmfepo203.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH17.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: a18dd6b1-bee7-4261-9d4e-08d14c2f8d3c
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH46.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform = Android OS
+Device Type = "Android, samsung, lt02ltespr, SM-T217S |
+screen.pixels=1024x600 | screen.dpi=160.421x159.568"
+OS Version = 4.2.2
+App Version = 1.2.1a
+App Name = Contour
+Business Type = Residential
+Business Name = Residential
+Device UID = 2848e132a6d267ec
+Account GUID = 2f388384-36bb-11dd-b727-00007f000001
+Is In Home = true
+Device IP = "fe80::9635:aff:fe67:cccf%wlan0"
+Profile name = john
+Is Analog = false
+Controller ID = 3496
+ChannelMap ID =3401
+IDM Login Name = jhunt34@cox.net
+Tutorial Viewed to End = false
+Last 5 Errors = 181,181,181,181,181
+External IP of Device     = 68.229.99.2
+
+Sender Information:
+Name          = tower456
+Email         = jhunt34@cox.net
+Feedback Type = enhancement request
+
+

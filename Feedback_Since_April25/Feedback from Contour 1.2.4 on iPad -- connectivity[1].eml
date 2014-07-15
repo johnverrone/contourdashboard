@@ -1,0 +1,99 @@
+Received: from CARZ0EXCH18.CORP.COX.com (10.8.64.18) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Tue, 10 Jun 2014 22:33:43 -0400
+Received: from CARZ0EXCH93.CORP.COX.com (10.8.64.84) by
+ CARZ0EXCH18.corp.cox.com (10.8.64.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 10 Jun 2014 19:33:42 -0700
+Received: from CARZ0EXCH46.CORP.COX.com (10.8.64.29) by
+ carz0exch93.corp.cox.com (10.8.64.84) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 10 Jun 2014 19:33:40 -0700
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH46.CORP.COX.com (10.8.64.29) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Tue, 10 Jun 2014 19:33:40 -0700
+Received: from BLUPR01CA027.prod.exchangelabs.com (25.160.23.17) by
+ BLUPR01MB373.prod.exchangelabs.com (10.141.76.143) with Microsoft SMTP Server
+ (TLS) id 15.0.954.9; Wed, 11 Jun 2014 02:33:15 +0000
+Received: from BY2FFO11FD034.protection.gbl (2a01:111:f400:7c0c::165) by
+ BLUPR01CA027.outlook.office365.com (2a01:111:e400:8a4::17) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Wed, 11 Jun 2014
+ 02:33:14 +0000
+Received: from eastrmfepo103.cox.net (68.230.241.215) by
+ BY2FFO11FD034.mail.protection.outlook.com (10.1.14.219) with Microsoft SMTP
+ Server id 15.0.959.15 via Frontend Transport; Wed, 11 Jun 2014 02:33:13 +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140611023313.MZBH31158.eastrmfepo103.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Tue, 10 Jun 2014
+ 22:33:13 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo306 with cox	id
+ CqZD1o00D0rkN0201qZDmg; Tue, 10 Jun 2014 22:33:13 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020203.5397BFE9.0069,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=Wu31x6jv c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=CjxXgO3LAAAA:8
+ a=5Dm4jXFEvCZGl76Dmq4A:9 a=CjuIK1q_8ugA:10 a=yW0PXxOFW9YA:10
+ a=4vB-4DCPJfMA:10 a=rC2wZJ5BpNYA:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Wed, 11 Jun 2014 02:33:13 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <22081488.861402453993387.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.215;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB373;H:eastrmfepo103.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-Network-Message-Id: 73845e41-425d-4e5e-8c65-08d15334b105
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH46.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,2
+OS Version     = 7.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 34b785ed8cceacf57079ee9f8976a7baf81932a5
+Account GUID   = f0b9fd40-75fe-11e2-bbe0-14feb5d9357d
+Is In Home     = false
+Device IP      = 
+Profile name   = marvina
+Is Analog      = false
+Controller ID  = 3453
+ChannelMap ID  = 108
+IDM Login Name = mdelacruz0629@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    752,
+    102,
+    122,
+    122,
+    122
+)
+
+External IP of Device     = 198.228.208.56
+
+Sender Information:
+Name          = Johnson
+Email         = johnson_delacruz@yahoo.com
+Feedback Type = connectivity
+
+

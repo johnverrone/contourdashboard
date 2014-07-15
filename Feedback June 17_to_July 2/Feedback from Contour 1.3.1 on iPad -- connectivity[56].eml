@@ -1,0 +1,100 @@
+Received: from CARZ0EXCH17.CORP.COX.com (10.8.64.17) by
+ CATL0EXCH06.CORP.COX.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Thu, 19 Jun 2014 15:24:27 -0400
+Received: from CARZ0EXCH46.CORP.COX.com (10.8.64.29) by
+ CARZ0EXCH17.corp.cox.com (10.8.64.17) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Thu, 19 Jun 2014 12:24:25 -0700
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH46.CORP.COX.com (10.8.64.29) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Thu, 19 Jun 2014 12:24:25 -0700
+Received: from BLUPR01CA012.prod.exchangelabs.com (10.141.30.42) by
+ BLUPR01MB373.prod.exchangelabs.com (10.141.76.143) with Microsoft SMTP Server
+ (TLS) id 15.0.959.24; Thu, 19 Jun 2014 19:23:58 +0000
+Received: from BN1AFFO11FD009.protection.gbl (2a01:111:f400:7c10::129) by
+ BLUPR01CA012.outlook.office365.com (2a01:111:e400:879::42) with Microsoft
+ SMTP Server (TLS) id 15.0.969.15 via Frontend Transport; Thu, 19 Jun 2014
+ 19:23:58 +0000
+Received: from eastrmfepo102.cox.net (68.230.241.214) by
+ BN1AFFO11FD009.mail.protection.outlook.com (10.58.52.69) with Microsoft SMTP
+ Server id 15.0.969.12 via Frontend Transport; Thu, 19 Jun 2014 19:23:57 +0000
+Received: from eastrmimpo110 ([68.230.241.223]) by eastrmfepo102.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140619192357.MTIG18526.eastrmfepo102.cox.net@eastrmimpo110>
+          for <feedback_tvconnect.labs@cox.com>;          Thu, 19 Jun 2014
+ 15:23:57 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo110 with cox	id
+ GKPx1o0090qShfm01KPxDR; Thu, 19 Jun 2014 15:23:57 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020207.53A338CD.00DB,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=GKHW5JxK c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=7nLqM_vkuyMA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=nYYNEqbQfA8gRmC87V0A:9
+ a=CjuIK1q_8ugA:10 a=QT1EVt7uCbEA:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Thu, 19 Jun 2014 19:23:57 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <26477771.171403205837508.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.3.1 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.214;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB373;H:eastrmfepo102.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH17.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: cb0d2259-a7c0-4364-a19e-08d15a0b3746
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH46.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,4
+OS Version     = 7.1.1
+App Version    = 1.3.1
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = c693298b299d0851706938011155c3e796e79c72
+Account GUID   = d0326640-36b4-11dd-b727-00007f000001
+Is In Home     = false
+Device IP      = 192.168.1.110
+Profile name   = ronnie
+Is Analog      = false
+Controller ID  = 3452
+ChannelMap ID  = 226
+IDM Login Name = tonloc1611@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    752,
+    122,
+    122,
+    122,
+    122
+)
+
+External IP of Device     = 98.160.187.51
+
+Sender Information:
+Name          = 
+Email         = tonloc1611@cox.net
+Feedback Type = connectivity
+
+

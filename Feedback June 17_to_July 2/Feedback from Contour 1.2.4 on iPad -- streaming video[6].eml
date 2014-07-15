@@ -1,0 +1,104 @@
+Received: from CARZ0EXCH18.CORP.COX.com (10.8.64.18) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Tue, 17 Jun 2014 14:33:18 -0400
+Received: from CARZ0EXCH44.CORP.COX.com (10.8.64.27) by
+ CARZ0EXCH18.corp.cox.com (10.8.64.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 17 Jun 2014 11:33:15 -0700
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH44.CORP.COX.com (10.8.64.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Tue, 17 Jun 2014 11:33:09 -0700
+Received: from BN1PR01MB197.prod.exchangelabs.com (10.242.213.12) by
+ BN1PR01MB022.prod.exchangelabs.com (10.242.209.143) with Microsoft SMTP
+ Server (TLS) id 15.0.954.9; Tue, 17 Jun 2014 18:33:09 +0000
+Received: from DM2PR01CA001.prod.exchangelabs.com (10.141.52.169) by
+ BN1PR01MB197.prod.exchangelabs.com (10.242.213.12) with Microsoft SMTP Server
+ (TLS) id 15.0.969.15; Tue, 17 Jun 2014 18:33:05 +0000
+Received: from BN1BFFO11FD058.protection.gbl (2a01:111:f400:7c10::1:177) by
+ DM2PR01CA001.outlook.office365.com (2a01:111:e400:2414::41) with Microsoft
+ SMTP Server (TLS) id 15.0.969.15 via Frontend Transport; Tue, 17 Jun 2014
+ 18:33:04 +0000
+Received: from eastrmfepo102.cox.net (68.230.241.214) by
+ BN1BFFO11FD058.mail.protection.outlook.com (10.58.145.13) with Microsoft SMTP
+ Server id 15.0.959.15 via Frontend Transport; Tue, 17 Jun 2014 18:33:04 +0000
+Received: from eastrmimpo210 ([68.230.241.225]) by eastrmfepo102.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140617183304.YRTM18526.eastrmfepo102.cox.net@eastrmimpo210>
+          for <feedback_tvconnect.labs@cox.com>;          Tue, 17 Jun 2014
+ 14:33:04 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo210 with cox	id
+ FWZ41o0040rkN0201WZ4jB; Tue, 17 Jun 2014 14:33:04 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020205.53A089E0.0091,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=aZC/a2Ut c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=3WeNyt34tdkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=dNJGT1fLJvux7pCuoPgA:9 a=CjuIK1q_8ugA:10 a=dhyNMBbMqW8A:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Tue, 17 Jun 2014 18:33:04 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <16064623.11403029984283.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- streaming video
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.214;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BN1PR01MB197;H:eastrmfepo102.cox.net;FPR:;LANG:en;;SKIP:1;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH18.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 9a033e97-e462-484b-d1ac-08d15871bcd8
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH44.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad3,4
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 6ae9abdf1fc71057142471a3598bb26cdd1f63bd
+Account GUID   = 06b42c60-f34f-11dd-ab8d-0003babcfa19
+Is In Home     = true
+Device IP      = 192.168.1.103
+Profile name   = john
+Is Analog      = false
+Controller ID  = 3452
+ChannelMap ID  = 226
+IDM Login Name = jwoliver@cox.net
+Tutorial viewed to end = true
+Last 5 errors = (
+    148,
+    102,
+    102,
+    102,
+    102
+)
+
+External IP of Device     = 70.173.166.30
+
+Sender Information:
+Name          = John
+Email         = jwoliver09@gmail.com
+Feedback Type = streaming video
+
+

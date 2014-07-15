@@ -1,0 +1,100 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sun, 29 Jun 2014 10:09:48 -0400
+Received: from CATL0EXCH40.CORP.COX.com (10.62.10.24) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sun, 29 Jun 2014 10:09:46 -0400
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH40.CORP.COX.com (10.62.10.24) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sun, 29 Jun 2014 10:09:46 -0400
+Received: from BLUPR01CA022.prod.exchangelabs.com (25.160.23.12) by
+ DM2PR01MB383.prod.exchangelabs.com (10.141.83.21) with Microsoft SMTP Server
+ (TLS) id 15.0.969.15; Sun, 29 Jun 2014 14:09:11 +0000
+Received: from BN1BFFO11FD003.protection.gbl (2a01:111:f400:7c10::1:156) by
+ BLUPR01CA022.outlook.office365.com (2a01:111:e400:8a4::12) with Microsoft
+ SMTP Server (TLS) id 15.0.974.11 via Frontend Transport; Sun, 29 Jun 2014
+ 14:09:11 +0000
+Received: from eastrmfepo202.cox.net (68.230.241.217) by
+ BN1BFFO11FD003.mail.protection.outlook.com (10.58.144.66) with Microsoft SMTP
+ Server id 15.0.969.12 via Frontend Transport; Sun, 29 Jun 2014 14:09:11 +0000
+Received: from eastrmimpo209 ([68.230.241.224]) by eastrmfepo202.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140629140910.UZQC22448.eastrmfepo202.cox.net@eastrmimpo209>
+          for <feedback_tvconnect.labs@cox.com>;          Sun, 29 Jun 2014
+ 10:09:10 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo209 with cox	id
+ LE9A1o0090qShfm01E9ANQ; Sun, 29 Jun 2014 10:09:10 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020201.53B01E06.009F,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=H/cFNZki c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=1U-Nq1ziNMdLg8cQAqsA:9
+ a=CjuIK1q_8ugA:10 a=VzpTC2LbLMYA:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sun, 29 Jun 2014 14:09:10 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <20826932.551404050950717.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.217;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DM2PR01MB383;H:eastrmfepo202.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH06.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 6e93763d-37df-4b22-58df-08d161baeaf9
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH40.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,5
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = ebc6c29cbe5197b5399000d55e2efb0cbcfcf0a5
+Account GUID   = c761d7e4-36bd-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      = 192.168.1.104
+Profile name   = anita
+Is Analog      = false
+Controller ID  = 3450
+ChannelMap ID  = 21
+IDM Login Name = whites1011@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    182,
+    182,
+    182,
+    182,
+    182
+)
+
+External IP of Device     = 68.106.59.30
+
+Sender Information:
+Name          = anita
+Email         = whites1011@cox.net
+Feedback Type = connectivity
+
+

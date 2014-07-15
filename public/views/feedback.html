@@ -1,0 +1,36 @@
+<nav class="navbar navbar-default" role="navigation">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="#">In App Feedback</a>
+		</div>
+		<form class="navbar-form navbar-left" role="search">
+		  <div class="form-group">
+		    <input type="text" class="form-control" placeholder="Search" width="100%" ng-model="searchText">
+		  </div>
+			<div class="btn-group">
+			  <button type="button" class="btn btn-default">1</button>
+			  <button type="button" class="btn btn-default">2</button>
+			  <button type="button" class="btn btn-default">3</button>
+				<button type="button" class="btn btn-default">4</button>
+				<button type="button" class="btn btn-default">5</button>
+			</div>
+		</form>
+	</div>
+</nav>
+
+{{feedback}}
+
+<ul class="list-group">
+	<li class="list-group-item" ng-repeat="fb in feedback | filter:searchText">
+		<h4 class="list-group-item-heading inline">{{ fb.subject }}</h4>
+		<p class="list-group-item-text">from {{ fb.from[0].address }}</p>
+		<br />
+		<p class="list-group-item-text">{{ fb.body }}</p>
+	</li>
+</ul>

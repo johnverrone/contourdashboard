@@ -1,0 +1,114 @@
+Received: from CATL0EXCH10.CORP.COX.com (10.62.10.20) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Wed, 21 May 2014 17:33:31 -0400
+Received: from CATL0EXCH90.CORP.COX.com (10.62.10.90) by
+ CATL0EXCH10.corp.cox.com (10.62.10.20) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 21 May 2014 17:33:30 -0400
+Received: from CATL0EXCH41.CORP.COX.com (10.62.10.25) by
+ CATL0EXCH90.corp.cox.com (10.62.10.90) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 21 May 2014 17:33:29 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH41.corp.cox.com (10.62.10.25) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Wed, 21 May 2014 17:33:29 -0400
+Received: from BY2PR01CA019.prod.exchangelabs.com (10.242.234.177) by
+ BY2PR01MB299.prod.exchangelabs.com (10.242.232.151) with Microsoft SMTP
+ Server (TLS) id 15.0.944.11; Wed, 21 May 2014 21:33:14 +0000
+Received: from BY2FFO11FD002.protection.gbl (2a01:111:f400:7c0c::186) by
+ BY2PR01CA019.outlook.office365.com (2a01:111:e400:2c2c::49) with Microsoft
+ SMTP Server (TLS) id 15.0.944.11 via Frontend Transport; Wed, 21 May 2014
+ 21:33:14 +0000
+Received: from eastrmfepo103.cox.net (68.230.241.215) by
+ BY2FFO11FD002.mail.protection.outlook.com (10.1.14.124) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Wed, 21 May 2014 21:33:14 +0000
+Received: from eastrmimpo210 ([68.230.241.225]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140521213313.SFWL31158.eastrmfepo103.cox.net@eastrmimpo210>
+          for <feedback_tvconnect.labs@cox.com>;          Wed, 21 May 2014
+ 17:33:13 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo210 with cox	id
+ 4lZD1o00K0qShfm01lZDe0; Wed, 21 May 2014 17:33:13 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020204.537D1B99.0125,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=aZC/a2Ut c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=ILq4lESVa0sA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=WciHnFN40gAOo6n_97wA:9 a=CjuIK1q_8ugA:10 a=AnGSSTnhf7AA:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=ZL9JnLdL0dwA5YRZ:21
+ a=U7qhq3_n1Mx_HdHm:21 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Wed, 21 May 2014 21:33:13 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <24358961.141400707993608.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- enhancement request
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.215;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB299;H:eastrmfepo103.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH90.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 7f49f9c2-8661-427c-8021-08d143537139
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH41.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Great concept, much like Netflix in a way, but what it lacks are
+descriptions of what season, what episode, etc.  Another helpful thing would
+be a text version of this app in settings, if preferred. The way it's set up
+now is confusing, even with the tutorial, because it just repeats the
+episode names over and over with no obvious description. I'm fumbling around
+clicking every thumbnail with the show I want, trying to figure out what
+episode is what. Reading a quick synopsis doesn't help when I'm unsure of
+what season something happened in. Warehouse 13 for example, tons of
+thumbnails all exactly the same picture and wording. I randomly click one
+and don't recognize your description of the episode so I click another
+random thumbnail and it's telling me more info I don't know and I still
+haven't found the 1st episode of the last season because there's no way to
+tell what you're watching. Unless you know the exact year and month the
+episode you want aired. Then I'd still have to randomly click thumbnails
+till I found it. There has to be a better way. The search engine works fine
+but there's no way to know what you're watching until you click it and start
+watching. I hope that makes sense. Very frustrating.
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad4,1
+OS Version     = 7.0.4
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 61a9fc182736c2d86c527adc3b14faeccbd742b1
+Account GUID   = 2cbb3201-36bc-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      = 192.168.10.122
+Profile name   = shar
+Is Analog      = false
+Controller ID  = 3451
+ChannelMap ID  = 35
+IDM Login Name = heaviemetal@cox.net
+Tutorial viewed to end = false
+Last 1 errors = (
+    "No errors."
+)
+
+External IP of Device     = 68.228.50.96
+
+Sender Information:
+Name          = sharlene Gonzales
+Email         = sharlene127@gmail.com
+Feedback Type = enhancement request
+
+

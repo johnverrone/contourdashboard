@@ -1,0 +1,98 @@
+Received: from CARZ0EXCH18.CORP.COX.com (10.8.64.18) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Thu, 29 May 2014 23:20:01 -0400
+Received: from CARZ0EXCH95.CORP.COX.com (10.8.64.86) by
+ CARZ0EXCH18.corp.cox.com (10.8.64.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Thu, 29 May 2014 20:19:59 -0700
+Received: from CARZ0EXCH45.CORP.COX.com (10.8.64.28) by
+ carz0exch95.corp.cox.com (10.8.64.86) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Thu, 29 May 2014 20:19:39 -0700
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH45.CORP.COX.com (10.8.64.28) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Thu, 29 May 2014 20:19:26 -0700
+Received: from BY2PR01CA0049.prod.exchangelabs.com (10.255.242.39) by
+ BY2PR01MB139.prod.exchangelabs.com (10.242.233.152) with Microsoft SMTP
+ Server (TLS) id 15.0.949.11; Fri, 30 May 2014 03:19:23 +0000
+Received: from BY2FFO11FD055.protection.gbl (2a01:111:f400:7c0c::125) by
+ BY2PR01CA0049.outlook.office365.com (2a01:111:e400:2c76::39) with Microsoft
+ SMTP Server (TLS) id 15.0.949.11 via Frontend Transport; Fri, 30 May 2014
+ 03:19:22 +0000
+Received: from eastrmfepo201.cox.net (68.230.241.216) by
+ BY2FFO11FD055.mail.protection.outlook.com (10.1.15.192) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Fri, 30 May 2014 03:19:22 +0000
+Received: from eastrmimpo210 ([68.230.241.225]) by eastrmfepo201.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140530031921.CKMC31475.eastrmfepo201.cox.net@eastrmimpo210>
+          for <feedback_tvconnect.labs@cox.com>;          Thu, 29 May 2014
+ 23:19:21 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo210 with cox	id
+ 83KM1o00P0qShfm013KMfm; Thu, 29 May 2014 23:19:21 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020209.5387F8B9.00B5,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=aZC/a2Ut c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=wbq_IRnLGUpEszpt4PMA:9 a=CjuIK1q_8ugA:10 a=-4T1jbvGULsA:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Fri, 30 May 2014 03:19:21 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <20958293.81401419961654.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.216;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB139;H:eastrmfepo201.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-Network-Message-Id: 1a99417f-ce56-49e2-cc9f-08d149cd2061
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH45.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,3
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = e1aed5fe20f5b73aca8f961aa94bfffe75f057ad
+Account GUID   = bf576c90-8202-11e3-919a-14feb5d9513a
+Is In Home     = true
+Device IP      = 10.0.1.6
+Profile name   = connie
+Is Analog      = false
+Controller ID  = 3496
+ChannelMap ID  = 3401
+IDM Login Name = cwhite9280@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    752,
+    752,
+    203,
+    102,
+    102
+)
+
+External IP of Device     = 174.66.15.29
+
+Sender Information:
+Name          = Connie
+Email         = cwhite923@gmail.com
+Feedback Type = connectivity
+
+

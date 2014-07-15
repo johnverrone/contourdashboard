@@ -1,0 +1,98 @@
+Received: from CATL0EXCH08.CORP.COX.com (10.62.10.18) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Thu, 29 May 2014 14:55:52 -0400
+Received: from CATL0EXCH41.CORP.COX.com (10.62.10.25) by
+ CATL0EXCH08.corp.cox.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Thu, 29 May 2014 14:55:50 -0400
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH41.corp.cox.com (10.62.10.25) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Thu, 29 May 2014 14:55:50 -0400
+Received: from BY2PR01CA0022.prod.exchangelabs.com (10.255.242.12) by
+ BY2PR01MB281.prod.exchangelabs.com (10.242.232.140) with Microsoft SMTP
+ Server (TLS) id 15.0.949.11; Thu, 29 May 2014 18:55:28 +0000
+Received: from BN1AFFO11FD053.protection.gbl (2a01:111:f400:7c10::107) by
+ BY2PR01CA0022.outlook.office365.com (2a01:111:e400:2c76::12) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Thu, 29 May 2014
+ 18:55:28 +0000
+Received: from eastrmfepo101.cox.net (68.230.241.213) by
+ BN1AFFO11FD053.mail.protection.outlook.com (10.58.53.68) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Thu, 29 May 2014 18:55:27 +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo101.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140529185527.SRYM30009.eastrmfepo101.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Thu, 29 May 2014
+ 14:55:27 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo306 with cox	id
+ 7uvT1o00G0qShfm01uvTZP; Thu, 29 May 2014 14:55:27 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020207.5387829F.00F0,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=MJG+brll c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=RbxmC7K3pl0tYAw3yw0A:9
+ a=CjuIK1q_8ugA:10 a=amBPUI2OFbAA:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Thu, 29 May 2014 18:55:27 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <14648225.51401389727462.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.213;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB281;H:eastrmfepo101.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH08.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 79378892-9baa-4171-fcbf-08d14986beb6
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH41.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad3,4
+OS Version     = 7.0.6
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 0b0ed13956fca486b60ffd68fe502b5df9ac7eed
+Account GUID   = 301c53d0-36bb-11dd-b727-00007f000001
+Is In Home     = true
+Device IP      = 192.168.0.2
+Profile name   = jimmie
+Is Analog      = false
+Controller ID  = 3450
+ChannelMap ID  = 21
+IDM Login Name = jebro@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    194,
+    102,
+    102,
+    102,
+    102
+)
+
+External IP of Device     = 72.208.162.93
+
+Sender Information:
+Name          = 
+Email         = jebro@cox.net
+Feedback Type = connectivity
+
+

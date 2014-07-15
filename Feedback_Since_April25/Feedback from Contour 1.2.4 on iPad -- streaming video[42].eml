@@ -1,0 +1,97 @@
+Received: from CARZ0EXCH20.CORP.COX.com (10.8.64.20) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Mon, 19 May 2014 23:43:03 -0400
+Received: from CARZ0EXCH15.CORP.COX.com (10.8.64.15) by
+ CARZ0EXCH20.corp.cox.com (10.8.64.20) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Mon, 19 May 2014 20:42:56 -0700
+Received: from CARZ0EXCH44.CORP.COX.com (10.8.64.27) by
+ CARZ0EXCH15.corp.cox.com (10.8.64.15) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Mon, 19 May 2014 20:42:31 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH44.CORP.COX.com (10.8.64.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Mon, 19 May 2014 20:42:31 -0700
+Received: from BY2PR01CA003.prod.exchangelabs.com (10.255.247.33) by
+ BY2PR01MB315.prod.exchangelabs.com (10.242.232.153) with Microsoft SMTP
+ Server (TLS) id 15.0.944.11; Tue, 20 May 2014 03:42:28 +0000
+Received: from BN1BFFO11FD025.protection.gbl (2a01:111:f400:7c10::1:199) by
+ BY2PR01CA003.outlook.office365.com (2a01:111:e400:2c16::33) with Microsoft
+ SMTP Server (TLS) id 15.0.944.11 via Frontend Transport; Tue, 20 May 2014
+ 03:42:28 +0000
+Received: from eastrmfepo102.cox.net (68.230.241.214) by
+ BN1BFFO11FD025.mail.protection.outlook.com (10.58.144.88) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Tue, 20 May 2014 03:42:27 +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo102.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140520034227.FNXN18526.eastrmfepo102.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Mon, 19 May 2014
+ 23:42:27 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo306 with cox	id
+ 43iT1o00A0rkN02013iTq9; Mon, 19 May 2014 23:42:27 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020203.537ACF23.0073,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=LtdMPAhc c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=3WeNyt34tdkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=69EAbJreAAAA:8 a=GKXl6JBH6qL0JTlOTLMA:9
+ a=CjuIK1q_8ugA:10 a=SAOTeklHLOoA:10 a=EfJqPEOeqlMA:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Tue, 20 May 2014 03:42:27 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <32146738.141400557347538.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- streaming video
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.214;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB315;H:eastrmfepo102.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH15.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 0962bb7c-7204-445a-486a-08d141f4a9ec
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH44.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,5
+OS Version     = 7.0.6
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 42957cff1b58cc67265362a19e9c5d1d12910a8a
+Account GUID   = 00b9ba70-3e94-11e2-a3ad-14feb5d9357d
+Is In Home     = false
+Device IP      = 10.0.1.3
+Profile name   = rick
+Is Analog      = false
+Controller ID  = 3451
+ChannelMap ID  = 26
+IDM Login Name = richard_bunnell
+Tutorial viewed to end = false
+Last 1 errors = (
+    "No errors."
+)
+
+External IP of Device     = 68.2.138.239
+
+Sender Information:
+Name          = rick
+Email         = richard_bunnell@hotmail.com
+Feedback Type = streaming video
+
+

@@ -1,0 +1,99 @@
+Received: from CARZ0EXCH19.CORP.COX.com (10.8.64.19) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Fri, 30 May 2014 23:02:09 -0400
+Received: from CARZ0EXCH45.CORP.COX.com (10.8.64.28) by
+ CARZ0EXCH19.corp.cox.com (10.8.64.19) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Fri, 30 May 2014 20:02:05 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH45.CORP.COX.com (10.8.64.28) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Fri, 30 May 2014 20:02:05 -0700
+Received: from BY2PR01CA017.prod.exchangelabs.com (10.242.234.175) by
+ BY2PR01MB140.prod.exchangelabs.com (10.242.233.154) with Microsoft SMTP
+ Server (TLS) id 15.0.949.11; Sat, 31 May 2014 03:01:21 +0000
+Received: from BN1BFFO11FD018.protection.gbl (2a01:111:f400:7c10::1:127) by
+ BY2PR01CA017.outlook.office365.com (2a01:111:e400:2c2c::47) with Microsoft
+ SMTP Server (TLS) id 15.0.949.11 via Frontend Transport; Sat, 31 May 2014
+ 03:01:20 +0000
+Received: from eastrmfepo103.cox.net (68.230.241.215) by
+ BN1BFFO11FD018.mail.protection.outlook.com (10.58.144.81) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Sat, 31 May 2014 03:01:20 +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140531030120.BGBP31158.eastrmfepo103.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Fri, 30 May 2014
+ 23:01:20 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo306 with cox	id
+ 8T1L1o00B0qShfm01T1LMl; Fri, 30 May 2014 23:01:20 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020206.53894600.0045,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=MJG+brll c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=CjxXgO3LAAAA:8
+ a=v9UGnTj3jsmtljBy5SsA:9 a=CjuIK1q_8ugA:10 a=1_Ng3VSZRU8A:10
+ a=4vB-4DCPJfMA:10 a=rC2wZJ5BpNYA:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sat, 31 May 2014 03:01:20 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <4687757.181401505280436.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- others
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.215;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB140;H:eastrmfepo103.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH19.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 19fc2a5f-5c23-4042-1dd7-08d14a93d64a
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH45.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,1
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = adde9eae86300abb2cad2fedf1486f6a6b826ae9
+Account GUID   = fe88b040-b867-11e3-b6af-14feb5d94d4a
+Is In Home     = true
+Device IP      = 192.168.0.4
+Profile name   = smoov
+Is Analog      = false
+Controller ID  = 3452
+ChannelMap ID  = 226
+IDM Login Name = Smoov_316@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    752,
+    182,
+    182,
+    182,
+    182
+)
+
+External IP of Device     = 70.180.179.21
+
+Sender Information:
+Name          = Smoov
+Email         = Djsmoov9999@yahoo.com
+Feedback Type = others
+
+

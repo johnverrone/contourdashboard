@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Contour Feedback Dashboard</title>
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="libs/bootstrap/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css"> <!-- custom styles -->
+
+	<!-- JS -->
+	<script src="libs/angular/angular.min.js"></script>
+	<script src="libs/angular-route/angular-route.min.js"></script>
+
+	<!-- ANGULAR CUSTOM -->
+  <script src="js/app.js"></script>
+  <script src="js/appRoutes.js"></script>
+  <script src="js/controllers.js"></script>
+	<script src="js/services.js"></script>
+	<script src="js/d3/d3Service.js"></script>
+  <script src="js/d3/d3Directives.js"></script>
+
+</head>
+<body ng-app="myApp" ng-contoller="MainCtrl">
+<div class="container">
+	<nav class="navbar navbar-inverse">
+		<div class="navbar-header">
+			<a class="navbar-brand" href="/">Contour Feedback Dashboard</a>
+		</div>
+
+		<!-- LINK TO OUR PAGES. ANGULAR HANDLES THE ROUTING HERE -->
+		<ul class="nav navbar-nav">
+			<li><a href="/reviews">Reviews</a></li>
+      <li><a href="/feedback">Feedback</a></li>
+		</ul>
+	</nav>
+	<div ng-view></div>
+</div>
+</body>
+</html>

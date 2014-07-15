@@ -1,0 +1,99 @@
+Received: from CARZ0EXCH16.CORP.COX.com (10.8.64.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sun, 29 Jun 2014 11:50:16 -0400
+Received: from CARZ0EXCH93.CORP.COX.com (10.8.64.84) by
+ CARZ0EXCH16.corp.cox.com (10.8.64.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sun, 29 Jun 2014 08:50:13 -0700
+Received: from CARZ0EXCH47.CORP.COX.com (10.8.64.30) by
+ carz0exch93.corp.cox.com (10.8.64.84) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sun, 29 Jun 2014 08:49:55 -0700
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH47.CORP.COX.com (10.8.64.30) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sun, 29 Jun 2014 08:49:55 -0700
+Received: from BLUPR01CA015.prod.exchangelabs.com (10.141.30.45) by
+ BL2PR01MB369.prod.exchangelabs.com (10.141.90.13) with Microsoft SMTP Server
+ (TLS) id 15.0.969.15; Sun, 29 Jun 2014 15:49:40 +0000
+Received: from BN1AFFO11FD055.protection.gbl (2a01:111:f400:7c10::119) by
+ BLUPR01CA015.outlook.office365.com (2a01:111:e400:879::45) with Microsoft
+ SMTP Server (TLS) id 15.0.974.11 via Frontend Transport; Sun, 29 Jun 2014
+ 15:49:40 +0000
+Received: from eastrmfepo103.cox.net (68.230.241.215) by
+ BN1AFFO11FD055.mail.protection.outlook.com (10.58.53.70) with Microsoft SMTP
+ Server id 15.0.969.12 via Frontend Transport; Sun, 29 Jun 2014 15:49:40 +0000
+Received: from eastrmimpo305 ([68.230.241.237]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140629154940.CVTO31158.eastrmfepo103.cox.net@eastrmimpo305>
+          for <feedback_tvconnect.labs@cox.com>;          Sun, 29 Jun 2014
+ 11:49:40 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo305 with cox	id
+ LFpg1o0010qShfm01Fpgtx; Sun, 29 Jun 2014 11:49:40 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020207.53B03594.0012,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=KtmTLxqN c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=7nLqM_vkuyMA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=CjxXgO3LAAAA:8
+ a=2f5RFsbwIaCy9CgeSVYA:9 a=CjuIK1q_8ugA:10 a=e0Wp-qASwTsA:10
+ a=4vB-4DCPJfMA:10 a=rC2wZJ5BpNYA:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sun, 29 Jun 2014 15:49:40 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <10661794.561404056980030.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.3.1 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.215;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BL2PR01MB369;H:eastrmfepo103.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-Network-Message-Id: ea163654-ad43-4681-3fe0-08d161c8e830
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH47.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad3,1
+OS Version     = 7.1.1
+App Version    = 1.3.1
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = bd54b3df0094dfb46b5b3f45bd90a3e0a156a925
+Account GUID   = 190f73f0-fcff-11e3-a091-14feb5d950bc
+Is In Home     = false
+Device IP      = 192.168.43.29
+Profile name   = salvador
+Is Analog      = false
+Controller ID  = 3453
+ChannelMap ID  = 108
+IDM Login Name = alyme76@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    182,
+    182,
+    182,
+    182,
+    182
+)
+
+External IP of Device     = 172.56.31.241
+
+Sender Information:
+Name          = salvador
+Email         = alyme76@yahoo.com
+Feedback Type = connectivity
+
+

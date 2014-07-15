@@ -1,0 +1,99 @@
+Received: from CARZ0EXCH17.CORP.COX.com (10.8.64.17) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Tue, 10 Jun 2014 19:09:58 -0400
+Received: from CARZ0EXCH95.CORP.COX.com (10.8.64.86) by
+ CARZ0EXCH17.corp.cox.com (10.8.64.17) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 10 Jun 2014 16:09:56 -0700
+Received: from CARZ0EXCH47.CORP.COX.com (10.8.64.30) by
+ carz0exch95.corp.cox.com (10.8.64.86) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 10 Jun 2014 16:09:55 -0700
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH47.CORP.COX.com (10.8.64.30) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Tue, 10 Jun 2014 16:09:55 -0700
+Received: from BY2PR01CA010.prod.exchangelabs.com (10.255.247.40) by
+ BY2PR01MB378.prod.exchangelabs.com (10.141.139.150) with Microsoft SMTP
+ Server (TLS) id 15.0.959.24; Tue, 10 Jun 2014 23:09:39 +0000
+Received: from BL2FFO11FD009.protection.gbl (2a01:111:f400:7c09::160) by
+ BY2PR01CA010.outlook.office365.com (2a01:111:e400:2c16::40) with Microsoft
+ SMTP Server (TLS) id 15.0.954.9 via Frontend Transport; Tue, 10 Jun 2014
+ 23:09:39 +0000
+Received: from eastrmfepo202.cox.net (68.230.241.217) by
+ BL2FFO11FD009.mail.protection.outlook.com (10.173.161.15) with Microsoft SMTP
+ Server id 15.0.959.15 via Frontend Transport; Tue, 10 Jun 2014 23:09:38 +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo202.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140610230938.EZYG22448.eastrmfepo202.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Tue, 10 Jun 2014
+ 19:09:38 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo306 with cox	id
+ Cn9e1o00A0rkN0201n9e6n; Tue, 10 Jun 2014 19:09:38 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020201.53979032.003F,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=Wu31x6jv c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=RjQcGdaCdMUA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=25WcziivqRuqqvFD5qkA:9
+ a=CjuIK1q_8ugA:10 a=EwS8T__0uVsA:10 a=4vB-4DCPJfMA:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Tue, 10 Jun 2014 23:09:38 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <3765468.831402441778158.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.3.0 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.217;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR01MB378;H:eastrmfepo202.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-Network-Message-Id: ab2426b5-d2ac-4295-45e0-08d153183a31
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH47.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Picture freeze for TBS
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad2,5
+OS Version     = 7.1.1
+App Version    = 1.3.0
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = b371e81f301b5661a62a23845135730e800f852c
+Account GUID   = 07cf39f0-8e86-11e3-8ed4-14feb5d9513a
+Is In Home     = true
+Device IP      = 192.168.0.10
+Profile name   = sem
+Is Analog      = false
+Controller ID  = 3496
+ChannelMap ID  = 3401
+IDM Login Name = waterline66@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    102,
+    182,
+    182,
+    182,
+    203
+)
+
+External IP of Device     = 70.160.188.130
+
+Sender Information:
+Name          = 
+Email         = waterline66@cox.net
+Feedback Type = bug report
+
+

@@ -1,0 +1,104 @@
+Received: from CATL0EXCH06.CORP.COX.com (10.62.10.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Tue, 17 Jun 2014 22:59:37 -0400
+Received: from CATL0EXCH90.CORP.COX.com (10.62.10.90) by
+ CATL0EXCH06.corp.cox.com (10.62.10.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 17 Jun 2014 22:59:18 -0400
+Received: from CATL0EXCH41.CORP.COX.com (10.62.10.25) by
+ CATL0EXCH90.corp.cox.com (10.62.10.90) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 17 Jun 2014 22:58:54 -0400
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH41.corp.cox.com (10.62.10.25) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Tue, 17 Jun 2014 22:58:54 -0400
+Received: from BLUPR01CA049.prod.exchangelabs.com (25.160.23.39) by
+ BLUPR01MB373.prod.exchangelabs.com (10.141.76.143) with Microsoft SMTP Server
+ (TLS) id 15.0.959.24; Wed, 18 Jun 2014 02:57:41 +0000
+Received: from BL2FFO11FD039.protection.gbl (2a01:111:f400:7c09::130) by
+ BLUPR01CA049.outlook.office365.com (2a01:111:e400:8a4::39) with Microsoft
+ SMTP Server (TLS) id 15.0.969.15 via Frontend Transport; Wed, 18 Jun 2014
+ 02:57:41 +0000
+Received: from eastrmfepo103.cox.net (68.230.241.215) by
+ BL2FFO11FD039.mail.protection.outlook.com (10.173.161.135) with Microsoft
+ SMTP Server id 15.0.959.15 via Frontend Transport; Wed, 18 Jun 2014 02:57:41
+ +0000
+Received: from eastrmimpo110 ([68.230.241.223]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140618025741.GAZQ31158.eastrmfepo103.cox.net@eastrmimpo110>
+          for <feedback_tvconnect.labs@cox.com>;          Tue, 17 Jun 2014
+ 22:57:41 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo110 with cox	id
+ Fexh1o0010rkN0201exh8u; Tue, 17 Jun 2014 22:57:41 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020207.53A10025.000D,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=GKHW5JxK c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=7nLqM_vkuyMA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=huRXmQAmCjPsuyZWHkoA:9
+ a=CjuIK1q_8ugA:10 a=WgwC_Q7avEMA:10 a=4vB-4DCPJfMA:10
+ a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Wed, 18 Jun 2014 02:57:41 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <6135108.51403060261018.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.3.1 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.215;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB373;H:eastrmfepo103.cox.net;FPR:;LANG:en;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH90.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 6352211d-a979-44cd-79e2-08d158b8638d
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH41.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad4,2
+OS Version     = 7.1.1
+App Version    = 1.3.1
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+DRM ID         = df367b900be3fa93e02283d4632abe14c87c9282
+Account GUID   = df6ab4f0-4bcf-11df-91df-00144fcbed8c
+Is In Home     = false
+Device IP      = 
+Profile name   = marylou
+Is Analog      = false
+Controller ID  = 3450
+ChannelMap ID  = 21
+IDM Login Name = rairdons@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    752,
+    122,
+    122,
+    122,
+    122
+)
+
+External IP of Device     = 166.137.180.112
+
+Sender Information:
+Name          = MaryLou
+Email         = rairdons@cox.net
+Feedback Type = connectivity
+
+

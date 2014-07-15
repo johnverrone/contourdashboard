@@ -1,0 +1,98 @@
+Received: from CARZ0EXCH20.CORP.COX.com (10.8.64.20) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Sat, 7 Jun 2014 20:14:07 -0400
+Received: from CARZ0EXCH46.CORP.COX.com (10.8.64.29) by
+ CARZ0EXCH20.corp.cox.com (10.8.64.20) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sat, 7 Jun 2014 17:13:52 -0700
+Received: from na01-by2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH46.CORP.COX.com (10.8.64.29) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sat, 7 Jun 2014 17:13:52 -0700
+Received: from DM2PR01MB382.prod.exchangelabs.com (10.141.83.14) by
+ DM2PR01MB557.prod.exchangelabs.com (10.141.84.12) with Microsoft SMTP Server
+ (TLS) id 15.0.954.9; Sun, 8 Jun 2014 00:13:50 +0000
+Received: from DM2PR01CA001.prod.exchangelabs.com (10.141.52.169) by
+ DM2PR01MB382.prod.exchangelabs.com (10.141.83.14) with Microsoft SMTP Server
+ (TLS) id 15.0.954.9; Sun, 8 Jun 2014 00:13:49 +0000
+Received: from BN1AFFO11FD021.protection.gbl (2a01:111:f400:7c10::102) by
+ DM2PR01CA001.outlook.office365.com (2a01:111:e400:2414::41) with Microsoft
+ SMTP Server (TLS) id 15.0.959.24 via Frontend Transport; Sun, 8 Jun 2014
+ 00:13:49 +0000
+Received: from eastrmfepo103.cox.net (68.230.241.215) by
+ BN1AFFO11FD021.mail.protection.outlook.com (10.58.52.81) with Microsoft SMTP
+ Server id 15.0.959.15 via Frontend Transport; Sun, 8 Jun 2014 00:13:48 +0000
+Received: from eastrmimpo109 ([68.230.241.222]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140608001348.BQLZ31158.eastrmfepo103.cox.net@eastrmimpo109>
+          for <feedback_tvconnect.labs@cox.com>;          Sat, 7 Jun 2014
+ 20:13:48 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo109 with cox	id
+ BcDo1o00M0rkN0201cDoyZ; Sat, 07 Jun 2014 20:13:48 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020208.5393AABC.0063,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=F4SJgNdN c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=lImAtu1NDo4A:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=Q2FCHuB5TA8kaKnKH74A:9 a=CjuIK1q_8ugA:10 a=avPH31_hXUIA:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sun, 8 Jun 2014 00:13:48 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <14310130.551402186428649.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.1 on Android -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.215;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:DM2PR01MB382;H:eastrmfepo103.cox.net;FPR:;LANG:en;;SKIP:1;
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-Microsoft-Antispam: BL:0;ACTION:Default;RISK:Low;SCL:0;SPMLVL:NotSpam;PCL:0;RULEID:
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH20.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 6442e4a1-0918-4622-888b-08d150c5adb1
+X-MS-Exchange-Organization-SCL: -1
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH46.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform = Android OS
+Device Type = "Android, samsung, lt02ltetmo, SM-T217T |
+screen.pixels=1024x600 | screen.dpi=160.421x159.568"
+OS Version = 4.2.2
+App Version = 1.2.1a
+App Name = Contour
+Business Type = Residential
+Business Name = Residential
+Device UID = a2a20b74fb6bfbff
+Account GUID = db219b60-4816-11e3-9344-14feb5d94d4a
+Is In Home = false
+Device IP = "fe80::b2df:3aff:feff:9599%wlan0"
+Profile name = berni
+Is Analog = false
+Controller ID = 3451
+ChannelMap ID =26
+IDM Login Name = cjkcktb5@cox.net
+Tutorial Viewed to End = false
+Last 5 Errors = 
+External IP of Device     = 206.29.182.212
+
+Sender Information:
+Name          = 
+Email         = bh.samaniego@gmail.com
+Feedback Type = bug report
+
+

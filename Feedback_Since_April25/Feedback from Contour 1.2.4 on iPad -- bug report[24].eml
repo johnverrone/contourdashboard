@@ -1,0 +1,105 @@
+Received: from CARZ0EXCH20.CORP.COX.com (10.8.64.20) by
+ CATL0MS404.corp.cox.com (10.62.236.93) with Microsoft SMTP Server (TLS) id
+ 8.3.298.1; Sat, 3 May 2014 14:50:42 -0400
+Received: from CARZ0EXCH47.CORP.COX.com (10.8.64.30) by
+ CARZ0EXCH20.corp.cox.com (10.8.64.20) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Sat, 3 May 2014 11:50:18 -0700
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH47.CORP.COX.com (10.8.64.30) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Sat, 3 May 2014 11:50:17 -0700
+Received: from BLUPR01CA012.prod.exchangelabs.com (10.141.30.42) by
+ BLUPR01MB307.prod.exchangelabs.com (10.242.202.15) with Microsoft SMTP Server
+ (TLS) id 15.0.939.12; Sat, 3 May 2014 18:49:55 +0000
+Received: from BL2FFO11FD010.protection.gbl (2a01:111:f400:7c09::159) by
+ BLUPR01CA012.outlook.office365.com (2a01:111:e400:879::42) with Microsoft
+ SMTP Server (TLS) id 15.0.934.12 via Frontend Transport; Sat, 3 May 2014
+ 18:49:55 +0000
+Received: from eastrmfepo103.cox.net (68.230.241.215) by
+ BL2FFO11FD010.mail.protection.outlook.com (10.173.161.16) with Microsoft SMTP
+ Server id 15.0.929.8 via Frontend Transport; Sat, 3 May 2014 18:49:55 +0000
+Received: from eastrmimpo305 ([68.230.241.237]) by eastrmfepo103.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140503184955.MOZ31158.eastrmfepo103.cox.net@eastrmimpo305>
+          for <feedback_tvconnect.labs@cox.com>;          Sat, 3 May 2014
+ 14:49:55 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo305 with cox	id
+ xWpu1n00H0qShfm01Wpuh3; Sat, 03 May 2014 14:49:54 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020207.53653A52.0100,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=B4VnJpRM c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=N_j-UZcehzkA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=pGLkceISAAAA:8
+ a=Gsrt9zIuETWxb2lO-_AA:9 a=CjuIK1q_8ugA:10 a=OVXzzBHJq9MA:10
+ a=4vB-4DCPJfMA:10 a=MSl-tDqOz04A:10 a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Sat, 3 May 2014 18:49:54 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <27566923.91399142994925.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- bug report
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.215;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BLUPR01MB307;H:eastrmfepo103.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH20.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+Closed captioning doesn't turn
+off
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    =
+iPad4,4
+OS Version     = 7.1
+App Version    = 1.2.4
+App Name       =
+Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID
+= 413138d1d2b34e0adf0b1cf3f295700ea8e33470
+Account GUID   =
+2eb9fb50-cd7e-11e2-81d6-14feb5d9357d
+Is In Home     = true
+Device IP      =
+10.0.0.7
+Profile name   = broc
+Is Analog      = false
+Controller ID  =
+3451
+ChannelMap ID  = 26
+IDM Login Name = bboches731@cox.net
+Tutorial viewed
+to end = false
+Last 4 errors = (
+    752,
+    752,
+    210,
+
+122
+)
+
+External IP of Device     = 68.96.60.49
+
+Sender Information:
+Name
+= broc
+Email         = broc731@gmail.com
+Feedback Type = bug report
+
+

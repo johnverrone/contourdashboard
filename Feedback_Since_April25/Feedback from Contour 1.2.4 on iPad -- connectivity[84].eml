@@ -1,0 +1,98 @@
+Received: from CATL0EXCH08.CORP.COX.com (10.62.10.18) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Thu, 22 May 2014 13:58:10 -0400
+Received: from CATL0EXCH43.CORP.COX.com (10.62.10.27) by
+ CATL0EXCH08.corp.cox.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Thu, 22 May 2014 13:57:51 -0400
+Received: from na01-bn1-obe.outbound.protection.outlook.com (10.62.10.5) by
+ CATL0EXCH43.CORP.COX.com (10.62.10.27) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Thu, 22 May 2014 13:57:50 -0400
+Received: from BLUPR01CA001.prod.exchangelabs.com (10.255.223.159) by
+ BY2PR0101MB0869.prod.exchangelabs.com (25.160.123.152) with Microsoft SMTP
+ Server (TLS) id 15.0.944.11; Thu, 22 May 2014 17:57:33 +0000
+Received: from BY2FFO11FD054.protection.gbl (2a01:111:f400:7c0c::121) by
+ BLUPR01CA001.outlook.office365.com (2a01:111:e400:841::31) with Microsoft
+ SMTP Server (TLS) id 15.0.944.11 via Frontend Transport; Thu, 22 May 2014
+ 17:57:32 +0000
+Received: from eastrmfepo203.cox.net (68.230.241.218) by
+ BY2FFO11FD054.mail.protection.outlook.com (10.1.15.191) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Thu, 22 May 2014 17:57:31 +0000
+Received: from eastrmimpo306 ([68.230.241.238]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140522175730.OAXJ31964.eastrmfepo203.cox.net@eastrmimpo306>
+          for <feedback_tvconnect.labs@cox.com>;          Thu, 22 May 2014
+ 13:57:30 -0400
+Received: from dukeiaapi01 ([98.173.247.38])	by eastrmimpo306 with cox	id
+ 55xW1o0090qShfm015xWnG; Thu, 22 May 2014 13:57:30 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020206.537E3A8A.01AF,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=LtdMPAhc c=1 sm=1
+ a=Z6GuRo5Y3KQC74KKJJybXg==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=G31rLnM4-voAbBrk8iYA:9
+ a=CjuIK1q_8ugA:10 a=jifXOMvmmwYA:10 a=4vB-4DCPJfMA:10
+ a=Z6GuRo5Y3KQC74KKJJybXg==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Thu, 22 May 2014 17:57:30 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <2651611.191400781450716.JavaMail.webuser@dukeiaapi01>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.218;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:BY2PR0101MB0869;H:eastrmfepo203.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CATL0EXCH08.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: dde2bfb2-92e5-40d3-5568-08d143fe7ba3
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CATL0EXCH43.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad4,1
+OS Version     = 7.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = b08f6b2fc15ba805ef203eba8b84e841ca1d25dd
+Account GUID   = 3891c5b1-36b9-11dd-b727-00007f000001
+Is In Home     = false
+Device IP      = 192.168.1.20
+Profile name   = spring
+Is Analog      = false
+Controller ID  = 3452
+ChannelMap ID  = 226
+IDM Login Name = djinlasvegas@cox.net
+Tutorial viewed to end = false
+Last 5 errors = (
+    182,
+    182,
+    182,
+    182,
+    182
+)
+
+External IP of Device     = 24.234.70.11
+
+Sender Information:
+Name          = 
+Email         = djinlasvegas@cox.net
+Feedback Type = connectivity
+
+

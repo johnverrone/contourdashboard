@@ -1,0 +1,97 @@
+Received: from CARZ0EXCH16.CORP.COX.com (10.8.64.16) by
+ CATL0EXCH08.CORP.COX.com (10.62.10.18) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32 via Mailbox Transport; Wed, 28 May 2014 04:00:52 -0400
+Received: from CARZ0EXCH13.CORP.COX.com (10.8.64.13) by
+ CARZ0EXCH16.corp.cox.com (10.8.64.16) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 28 May 2014 01:00:50 -0700
+Received: from CARZ0EXCH47.CORP.COX.com (10.8.64.30) by
+ CARZ0EXCH13.corp.cox.com (10.8.64.13) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Wed, 28 May 2014 01:00:14 -0700
+Received: from na01-bl2-obe.outbound.protection.outlook.com (10.8.64.5) by
+ CARZ0EXCH47.CORP.COX.com (10.8.64.30) with Microsoft SMTP Server id
+ 15.0.847.32 via Frontend Transport; Wed, 28 May 2014 01:00:13 -0700
+Received: from DM2PR01CA008.prod.exchangelabs.com (10.141.52.176) by
+ CO1PR01MB286.prod.exchangelabs.com (10.242.169.25) with Microsoft SMTP Server
+ (TLS) id 15.0.944.11; Wed, 28 May 2014 07:58:12 +0000
+Received: from BY2FFO11FD038.protection.gbl (2a01:111:f400:7c0c::139) by
+ DM2PR01CA008.outlook.office365.com (2a01:111:e400:2414::48) with Microsoft
+ SMTP Server (TLS) id 15.0.949.11 via Frontend Transport; Wed, 28 May 2014
+ 07:58:12 +0000
+Received: from eastrmfepo203.cox.net (68.230.241.218) by
+ BY2FFO11FD038.mail.protection.outlook.com (10.1.14.223) with Microsoft SMTP
+ Server id 15.0.949.9 via Frontend Transport; Wed, 28 May 2014 07:58:11 +0000
+Received: from eastrmimpo110 ([68.230.241.223]) by eastrmfepo203.cox.net
+          (InterMail vM.8.01.05.15 201-2260-151-145-20131218) with ESMTP
+          id <20140528075811.JQUY31964.eastrmfepo203.cox.net@eastrmimpo110>
+          for <feedback_tvconnect.labs@cox.com>;          Wed, 28 May 2014
+ 03:58:11 -0400
+Received: from dukeiaapi02 ([98.173.247.39])	by eastrmimpo110 with cox	id
+ 7KyB1o0020rkN0201KyBdt; Wed, 28 May 2014 03:58:11 -0400
+X-CT-Class: Clean
+X-CT-Score: 0.00
+X-CT-RefID: str=0001.0A020202.53859713.0034,ss=1,re=0.000,fgs=0
+X-CT-Spam: 0
+X-Authority-Analysis: v=2.0 cv=GKHW5JxK c=1 sm=1
+ a=ACwxM8So3H9hCRnUdWG93w==:17 a=wkpRM_0yuowA:10 a=5mJXXb0GGSAA:10
+ a=kj9zAlcOel0A:10 a=MhI7Hvo8AAAA:8 a=kviXuzpPAAAA:8 a=CjxXgO3LAAAA:8
+ a=rw9SrqVFZcpEQWjE0v4A:9 a=CjuIK1q_8ugA:10 a=YPTOucXhCGAA:10
+ a=4vB-4DCPJfMA:10 a=rC2wZJ5BpNYA:10 a=ACwxM8So3H9hCRnUdWG93w==:117
+X-CM-Score: 0.00
+Authentication-Results: cox.net; none
+Date: Wed, 28 May 2014 07:58:11 +0000
+From: <feedback_tvconnect@cox.com>
+To: <feedback_tvconnect@cox.com>, <feedback_tvconnect.labs@cox.com>,
+	<CCIATL-CVSOPS@cox.com>
+CC: <feedback_tvconnect.labs@cox.com>
+Message-ID: <15657155.5481401263891114.JavaMail.webuser@dukeiaapi02>
+Subject: Feedback from Contour 1.2.4 on iPad -- connectivity
+MIME-Version: 1.0
+Return-Path: feedback_tvconnect@cox.com
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:68.230.241.218;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SKN;SFS:;DIR:INB;SFP:;SCL:-1;SRVR:CO1PR01MB286;H:eastrmfepo203.cox.net;FPR:;LANG:en;
+X-MS-Exchange-Organization-PRD: cox.com
+X-MS-Exchange-Organization-SenderIdResult: None
+Received-SPF: None (CARZ0EXCH13.corp.cox.com: feedback_tvconnect@cox.com
+ does not designate permitted sender hosts)
+X-MS-Exchange-Organization-Network-Message-Id: 01d73bbc-16d3-4240-a49b-08d14861fdcb
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Organization-AuthSource: CARZ0EXCH47.corp.cox.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+Content-type: text/plain;
+	charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Feedback Received:
+------------------
+
+
+Customer Information:
+Platform       = iPhone OS
+Device Type    = iPad4,4
+OS Version     = 7.1.1
+App Version    = 1.2.4
+App Name       = Contour
+Business Type  = Residential
+Business Name  = Residential
+Device UID     = 2f6e96e8e3bbc1cabdd926abc2af6e67beca0093
+Account GUID   = 6c5ca2b0-26b2-11e1-8d39-14feb5d95de2
+Is In Home     = false
+Device IP      = 10.0.0.4
+Profile name   = dale
+Is Analog      = false
+Controller ID  = 3452
+ChannelMap ID  = 226
+IDM Login Name = 315viavalencia@cox.net
+Tutorial viewed to end = false
+Last 1 errors = (
+    171
+)
+
+External IP of Device     = 50.184.148.223
+
+Sender Information:
+Name          = 
+Email         = ilikevegas2004@yahoo.com
+Feedback Type = connectivity
+
+
