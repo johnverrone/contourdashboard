@@ -20,3 +20,7 @@ svg {
 .x.axis path {
 	display: none;
 }
+
+.cap {
+	text-transform:capitalize;
+}

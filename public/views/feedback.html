@@ -24,12 +24,11 @@
 	</div>
 </nav>
 
-{{feedback}}
-
+<p align="right">Showing {{filtered.length}} feedback</p>
 <ul class="list-group">
-	<li class="list-group-item" ng-repeat="fb in feedback | filter:searchText">
-		<h4 class="list-group-item-heading inline">{{ fb.subject }}</h4>
-		<p class="list-group-item-text">from {{ fb.from[0].address }}</p>
+	<li class="list-group-item" ng-repeat="fb in filtered = (feedback | filter:searchText)">
+		<h4 class="list-group-item-heading inline cap">{{ fb.issue }}</h4>
+		<p class="list-group-item-text">{{ fb.device }} Version {{ fb.version }} - {{ fb._id | date : medium }}</p>
 		<br />
 		<p class="list-group-item-text">{{ fb.body }}</p>
 	</li>
